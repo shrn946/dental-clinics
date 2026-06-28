@@ -3,12 +3,25 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 export default function Header() {
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
   const [isSubmenuOpen, setIsSubmenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 20) {
+        setScrolled(true);
+      } else {
+        setScrolled(false);
+      }
+    };
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   const isActive = (path: string) => {
     return pathname === path ? 'active' : '';
@@ -16,7 +29,7 @@ export default function Header() {
 
   return (
     <header className="main-header">
-      <div className="header-sticky">
+      <div className={`header-sticky ${scrolled ? 'sticky-active' : ''}`}>
         <nav className="navbar navbar-expand-lg">
           <div className="container">
             {/* Logo Start */}
