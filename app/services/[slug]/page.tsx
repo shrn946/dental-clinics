@@ -220,7 +220,7 @@ export default async function ServiceDetail({ params }: ServicePageProps) {
                           className={item.slug === slug ? 'active-service' : ''}
                           style={{
                             display: 'block',
-                            color: item.slug === slug ? 'var(--secondary-color)' : 'inherit',
+                            color: item.slug === slug ? 'var(--primary-color)' : 'inherit',
                             fontWeight: item.slug === slug ? '600' : 'normal',
                           }}
                         >
