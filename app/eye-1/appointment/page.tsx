@@ -3,7 +3,7 @@ import React, {useEffect} from 'react';
 import HeaderOne from '../components/HeaderOne';
 import MobileMenu from '../components/MobileMenu';
 import Footer from '../components/Footer';
-import AppointmentForm from '@/components/demo-5/AppointmentForm';
+import AppointmentForm from '../components/AppointmentForm';
 
 export default function AppointmentPage() {
   useEffect(() => {
