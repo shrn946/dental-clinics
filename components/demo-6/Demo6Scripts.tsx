@@ -54,6 +54,52 @@ export default function Demo6Scripts() {
     const animatedElements = document.querySelectorAll('.theme-invisible, .theme-widget-progress, .plus-progress-bar');
     animatedElements.forEach(el => observer.observe(el));
     
+    // Navigation Menu Logic (Mobile Toggle & Dropdowns)
+    const toggleButton = document.querySelector('.theme-menu-toggle');
+    const dropdownMenu = document.querySelector('nav.theme-nav-menu--dropdown');
+    
+    if (toggleButton && dropdownMenu) {
+      toggleButton.addEventListener('click', (e) => {
+        const isActive = toggleButton.classList.contains('theme-active');
+        if (isActive) {
+          toggleButton.classList.remove('theme-active');
+          toggleButton.setAttribute('aria-expanded', 'false');
+          dropdownMenu.classList.remove('theme-active');
+          dropdownMenu.setAttribute('aria-hidden', 'true');
+        } else {
+          toggleButton.classList.add('theme-active');
+          toggleButton.setAttribute('aria-expanded', 'true');
+          dropdownMenu.classList.add('theme-active');
+          dropdownMenu.setAttribute('aria-hidden', 'false');
+        }
+      });
+    }
+
+    // Submenu Toggles
+    const menuItemsWithChildren = document.querySelectorAll('.menu-item-has-children > a');
+    menuItemsWithChildren.forEach(item => {
+      item.addEventListener('click', (e) => {
+        // If it's a mobile menu or a hash link, toggle the submenu
+        if (item.getAttribute('href') === '#' || item.closest('.theme-nav-menu--dropdown')) {
+          e.preventDefault();
+          const parentLi = item.parentElement;
+          if (parentLi) {
+            parentLi.classList.toggle('theme-active');
+            const subMenu = parentLi.querySelector('.sub-menu');
+            if (subMenu) {
+              if (subMenu.classList.contains('theme-active')) {
+                subMenu.classList.remove('theme-active');
+                subMenu.setAttribute('style', 'display: none;');
+              } else {
+                subMenu.classList.add('theme-active');
+                subMenu.setAttribute('style', 'display: block;');
+              }
+            }
+          }
+        }
+      });
+    });
+    
     return () => observer.disconnect();
   }, []);
 
