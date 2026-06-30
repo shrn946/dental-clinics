@@ -62,7 +62,7 @@ export default function Page() {
         <div class="banner-carousel owl-theme owl-carousel">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg')"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="sub-title">Optometrist & Eye Care Clinic</div>
@@ -75,7 +75,7 @@ export default function Page() {
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg')"></div>
                 <div class="auto-container">
                     <div class="content text-center">
                         <div class="sub-title">Optometrist & Eye Care Clinic</div>
@@ -88,7 +88,7 @@ export default function Page() {
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg')"></div>
                 <div class="auto-container">
                     <div class="content text-center">
                         <div class="sub-title">Optometrist & Eye Care Clinic</div>
@@ -181,7 +181,7 @@ export default function Page() {
 <!--End Featured Area-->
 
 <!--Start Emergency Contact Area-->
-<section class="emergency-contact-area" style="background-image: url('/eye-1/assets/images/parallax-background/emergency-contact-area-bg.jpg)">
+<section class="emergency-contact-area" style="background-image: url('/eye-1/assets/images/parallax-background/emergency-contact-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-5">
@@ -217,7 +217,7 @@ export default function Page() {
             <div class="col-xl-12">
                 <div class="top-title">
                     <div class="sec-title">
-                        <h2><span>Services</span> weâ€™re offering<br> to our clients</h2>
+                        <h2><span>Services</span> weÃ¢â‚¬â„¢re offering<br> to our clients</h2>
                     </div>
                     <div class="text">
                         <p>Lorem ipsum dolor sit amet nsectetur cing elituspe ndisse suscipit sagitis leo sit.</p>
@@ -286,7 +286,7 @@ export default function Page() {
 <!--End Services Style1 Area--> 
 
 <!--Start Slogan Style3 Area-->
-<section class="slogan-style3-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-style3-area-bg.jpg)">
+<section class="slogan-style3-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-style3-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -322,7 +322,7 @@ export default function Page() {
                                 <img src="/eye-1/assets/images/resources/offering.jpg" alt="Awesome Image">
                             </div>
                             <div class="title-holder">
-                                <h3>Weâ€™re offering a complete range of<br> eye care services</h3>
+                                <h3>WeÃ¢â‚¬â„¢re offering a complete range of<br> eye care services</h3>
                             </div>    
                         </div>
                         
@@ -510,8 +510,8 @@ export default function Page() {
 <!--Start Faq Content Area-->
 <section class="faq-content-area">
     <div class="layer-outer">
-        <div class="left-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-left-box.jpg)"></div>
-        <div class="right-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-right-box.jpg)"></div>
+        <div class="left-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-left-box.jpg')"></div>
+        <div class="right-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-right-box.jpg')"></div>
     </div>
     <div class="container">
         <div class="row">
@@ -548,7 +548,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Service thatâ€™ll make you see us with your eyes</h4></div>
+                            <div class="accord-btn"><h4>Service thatÃ¢â‚¬â„¢ll make you see us with your eyes</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -556,7 +556,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block bordernone">
-                            <div class="accord-btn"><h4>Weâ€™re ready to protect your vision</h4></div>
+                            <div class="accord-btn"><h4>WeÃ¢â‚¬â„¢re ready to protect your vision</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -637,7 +637,7 @@ export default function Page() {
                         </div>
                     </div> 
                     <div class="text-holder">
-                        <h3 class="blog-title"><a href="/eye-1/blog/single">Weâ€™re ready to enhance your vision</a></h3>
+                        <h3 class="blog-title"><a href="/eye-1/blog/single">WeÃ¢â‚¬â„¢re ready to enhance your vision</a></h3>
                         <ul class="meta-info">
                             <li><span class="icon-user thm-clr"></span><a href="#">Admin</a></li>
                             <li><span class="icon-comments thm-clr"></span><a href="#">2 Comments</a></li>
@@ -757,7 +757,7 @@ export default function Page() {
 
 
 <!--Start Partner Style2 Area-->
-<section class="partner-style2-area" style="background-image: url('/eye-1/assets/images/parallax-background/partner-style2-area-bg.jpg)">
+<section class="partner-style2-area" style="background-image: url('/eye-1/assets/images/parallax-background/partner-style2-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">

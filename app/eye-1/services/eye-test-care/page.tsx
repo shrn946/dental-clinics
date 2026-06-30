@@ -55,7 +55,7 @@ export default function Page() {
 
 
 <!--Start breadcrumb area-->     
-<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg');">
     <div class="layer-outer-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
         <img src="/eye-1/assets/images/icon/icon-breadcrumb.png" alt="Icon">
     </div>
@@ -128,7 +128,7 @@ export default function Page() {
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
-                                <div class="accord-btn"><h4>Service thatâ€™ll make you see us with your eyes</h4></div>
+                                <div class="accord-btn"><h4>Service thatÃ¢â‚¬â„¢ll make you see us with your eyes</h4></div>
                                 <div class="accord-content">
                                     <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                                 </div>
@@ -136,7 +136,7 @@ export default function Page() {
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block bordernone">
-                                <div class="accord-btn"><h4>Weâ€™re ready to protect your vision</h4></div>
+                                <div class="accord-btn"><h4>WeÃ¢â‚¬â„¢re ready to protect your vision</h4></div>
                                 <div class="accord-content">
                                     <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                                 </div>
@@ -168,7 +168,7 @@ export default function Page() {
                             </ul>
                         </div>    
                     </div>
-                    <div class="single-sidebar2" style="background-image: url('/eye-1/assets/images/sidebar/single-sidebar2-bg.jpg)">
+                    <div class="single-sidebar2" style="background-image: url('/eye-1/assets/images/sidebar/single-sidebar2-bg.jpg')">
                         <a href="#">Book Appointment</a>
                         <h2>We protect<br> your eye<br> vision</h2>       
                     </div> 
@@ -183,7 +183,7 @@ export default function Page() {
 <!--End Services details Area-->
 
 <!--Start Slogan Area-->
-<section class="slogan-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-area-bg.jpg)">
+<section class="slogan-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">

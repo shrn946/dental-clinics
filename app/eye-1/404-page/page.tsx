@@ -55,7 +55,7 @@ export default function Page() {
 
 
 <!--Start breadcrumb area-->     
-<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg');">
     <div class="layer-outer-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
         <img src="/eye-1/assets/images/icon/icon-breadcrumb.png" alt="Icon">
     </div>
@@ -91,7 +91,7 @@ export default function Page() {
                 <div class="error-content text-center wow slideInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <h4>Page Not Found</h4>
                     <div class="title thm-clr">404</div>
-                    <p>Weâ€™re unable to find a page you are looking for, Try later or click the button.</p>
+                    <p>WeÃ¢â‚¬â„¢re unable to find a page you are looking for, Try later or click the button.</p>
                     <div class="btns-box">
                         <a class="btn-one" href="/eye-1"><span class="txt">Back to Home<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                     </div>

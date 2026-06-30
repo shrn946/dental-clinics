@@ -55,7 +55,7 @@ export default function Page() {
 
 
 <!--Start breadcrumb area-->     
-<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg');">
     <div class="layer-outer-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
         <img src="/eye-1/assets/images/icon/icon-breadcrumb.png" alt="Icon">
     </div>
@@ -163,7 +163,7 @@ export default function Page() {
                         </div>
                     </div> 
                     <div class="text-holder">
-                        <h3 class="blog-title"><a href="/eye-1/blog/single">Weâ€™re ready to enhance your vision</a></h3>
+                        <h3 class="blog-title"><a href="/eye-1/blog/single">WeÃ¢â‚¬â„¢re ready to enhance your vision</a></h3>
                         <ul class="meta-info">
                             <li><span class="icon-user thm-clr"></span><a href="#">Admin</a></li>
                             <li><span class="icon-comments thm-clr"></span><a href="#">2 Comments</a></li>
@@ -264,7 +264,7 @@ export default function Page() {
                         </div>
                     </div> 
                     <div class="text-holder">
-                        <h3 class="blog-title"><a href="/eye-1/blog/single">Youâ€™re nothing without your eyes </a></h3>
+                        <h3 class="blog-title"><a href="/eye-1/blog/single">YouÃ¢â‚¬â„¢re nothing without your eyes </a></h3>
                         <ul class="meta-info">
                             <li><span class="icon-user thm-clr"></span><a href="#">Admin</a></li>
                             <li><span class="icon-comments thm-clr"></span><a href="#">2 Comments</a></li>

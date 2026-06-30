@@ -64,7 +64,7 @@ export default function Page() {
                 <div class="icon-holder">
                     <img src="/eye-1/assets/images/icon/eye.png" alt="Eye Icon">
                 </div>
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg')"></div>
                 <div class="auto-container">
                     <div class="content right">
                         <h3>Welcome to Oktilcal</h3>
@@ -80,7 +80,7 @@ export default function Page() {
                 <div class="icon-holder">
                     <img src="/eye-1/assets/images/icon/eye.png" alt="Eye Icon">
                 </div>
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg')"></div>
                 <div class="auto-container">
                     <div class="content right">
                         <h3>Welcome to Oktilcal</h3>
@@ -96,7 +96,7 @@ export default function Page() {
                 <div class="icon-holder">
                     <img src="/eye-1/assets/images/icon/eye.png" alt="Eye Icon">
                 </div>
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg')"></div>
                 <div class="auto-container">
                     <div class="content right">
                         <h3>Welcome to Oktilcal</h3>
@@ -238,7 +238,7 @@ export default function Page() {
             <div class="col-xl-12">
                 <div class="top-title">
                     <div class="sec-title">
-                        <h2 class="clrwhite"><span>Services</span> weâ€™re offering<br> to our clients</h2>
+                        <h2 class="clrwhite"><span>Services</span> weÃ¢â‚¬â„¢re offering<br> to our clients</h2>
                     </div>
                     <div class="text">
                         <p>Lorem ipsum dolor sit amet nsectetur cing elituspe ndisse suscipit sagitis leo sit.</p>
@@ -307,7 +307,7 @@ export default function Page() {
 <!--End Services Style1 Area-->  
 
 <!--Start Slogan Area-->
-<section class="slogan-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-area-bg.jpg)">
+<section class="slogan-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -482,8 +482,8 @@ export default function Page() {
                 <!--Start Single Testimonial Style1-->
                 <div class="single-testimonial-style1 text-center  wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="inner-content">
-                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png)"></div>
-                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png)"></div>
+                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png')"></div>
+                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png')"></div>
                         <div class="quote-icon">
                             <img class="main-icon" src="/eye-1/assets/images/icon/quote-1.png" alt="Quote Icon">
                             <div class="overlay-icon">
@@ -508,8 +508,8 @@ export default function Page() {
                 <!--Start Single Testimonial Style1-->
                 <div class="single-testimonial-style1 text-center  wow fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="inner-content">
-                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png)"></div>
-                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png)"></div>
+                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png')"></div>
+                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png')"></div>
                         <div class="quote-icon">
                             <img class="main-icon" src="/eye-1/assets/images/icon/quote-1.png" alt="Quote Icon">
                             <div class="overlay-icon">
@@ -534,8 +534,8 @@ export default function Page() {
                 <!--Start Single Testimonial Style1-->
                 <div class="single-testimonial-style1 text-center  wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="inner-content">
-                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png)"></div>
-                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png)"></div>
+                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png')"></div>
+                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png')"></div>
                         <div class="quote-icon">
                             <img class="main-icon" src="/eye-1/assets/images/icon/quote-1.png" alt="Quote Icon">
                             <div class="overlay-icon">
@@ -564,7 +564,7 @@ export default function Page() {
 
 <!--Start Partner Area-->
 <section class="partner-area">
-    <div class="layer-outer" style="background-image: url('/eye-1/assets/images/parallax-background/partner-area-bg.png)"></div>
+    <div class="layer-outer" style="background-image: url('/eye-1/assets/images/parallax-background/partner-area-bg.png')"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -604,13 +604,13 @@ export default function Page() {
 
 <!--Start Service Style2 Area-->
 <section class="service-style2-area">
-    <div class="layer-outer-shape paroller" style="background-image: url('/eye-1/assets/images/shape/service-style2-area-shape.png)"></div>
+    <div class="layer-outer-shape paroller" style="background-image: url('/eye-1/assets/images/shape/service-style2-area-shape.png')"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-6">
                 <div class="service-style2-left">
                     <div class="sec-title">
-                        <h2 class="clrwhite"><span>Service</span> thatâ€™ll make you<br> see better future</h2>
+                        <h2 class="clrwhite"><span>Service</span> thatÃ¢â‚¬â„¢ll make you<br> see better future</h2>
                     </div>
                     <div class="row">
                         <!--Start Single Service Style2-->
@@ -810,7 +810,7 @@ export default function Page() {
                         </div>
                     </div> 
                     <div class="text-holder">
-                        <h3 class="blog-title"><a href="/eye-1/blog/single">Weâ€™re ready to enhance your vision</a></h3>
+                        <h3 class="blog-title"><a href="/eye-1/blog/single">WeÃ¢â‚¬â„¢re ready to enhance your vision</a></h3>
                         <ul class="meta-info">
                             <li><span class="icon-user thm-clr"></span><a href="#">Admin</a></li>
                             <li><span class="icon-comments thm-clr"></span><a href="#">2 Comments</a></li>

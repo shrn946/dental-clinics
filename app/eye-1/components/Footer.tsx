@@ -10,7 +10,7 @@ export default function Footer() {
             <img src="/eye-1/assets/images/shape/footer-shape-1.png" alt="Shape1">
         </div>
         <div class="shape2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000" 
-        style="background-image: url('/eye-1/assets/images/shape/footer-shape-2.png)">     
+        style="background-image: url('/eye-1/assets/images/shape/footer-shape-2.png')">     
         </div>    
     </div>
     <div class="footer">
@@ -87,7 +87,7 @@ export default function Footer() {
                                 </div>
                                 <div class="title-holder">
                                     <p>Jan 16, 2020</p>
-                                    <h5><a href="#">Youâ€™re nothing without  your eyes</a></h5>
+                                    <h5><a href="#">YouÃ¢â‚¬â„¢re nothing without  your eyes</a></h5>
                                 </div>    
                             </li>
                         </ul>                     	  

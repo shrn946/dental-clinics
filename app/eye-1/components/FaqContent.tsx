@@ -6,8 +6,8 @@ export default function FaqContent() {
     <div dangerouslySetInnerHTML={{ __html: `<!--Start Faq Content Area-->
 <section class="faq-content-area">
     <div class="layer-outer">
-        <div class="left-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-left-box.jpg)"></div>
-        <div class="right-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-right-box.jpg)"></div>
+        <div class="left-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-left-box.jpg')"></div>
+        <div class="right-box" style="background-image: url('/eye-1/assets/images/parallax-background/faq-right-box.jpg')"></div>
     </div>
     <div class="container">
         <div class="row">
@@ -44,7 +44,7 @@ export default function FaqContent() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Service thatâ€™ll make you see us with your eyes</h4></div>
+                            <div class="accord-btn"><h4>Service thatÃ¢â‚¬â„¢ll make you see us with your eyes</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -52,7 +52,7 @@ export default function FaqContent() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block bordernone">
-                            <div class="accord-btn"><h4>Weâ€™re ready to protect your vision</h4></div>
+                            <div class="accord-btn"><h4>WeÃ¢â‚¬â„¢re ready to protect your vision</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>

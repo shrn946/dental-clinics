@@ -29,8 +29,8 @@ export default function Testimonials() {
                 <!--Start Single Testimonial Style1-->
                 <div class="single-testimonial-style1 text-center  wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="inner-content">
-                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png)"></div>
-                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png)"></div>
+                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png')"></div>
+                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png')"></div>
                         <div class="quote-icon">
                             <img class="main-icon" src="/eye-1/assets/images/icon/quote-1.png" alt="Quote Icon">
                             <div class="overlay-icon">
@@ -55,8 +55,8 @@ export default function Testimonials() {
                 <!--Start Single Testimonial Style1-->
                 <div class="single-testimonial-style1 text-center  wow fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="inner-content">
-                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png)"></div>
-                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png)"></div>
+                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png')"></div>
+                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png')"></div>
                         <div class="quote-icon">
                             <img class="main-icon" src="/eye-1/assets/images/icon/quote-1.png" alt="Quote Icon">
                             <div class="overlay-icon">
@@ -81,8 +81,8 @@ export default function Testimonials() {
                 <!--Start Single Testimonial Style1-->
                 <div class="single-testimonial-style1 text-center  wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="inner-content">
-                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png)"></div>
-                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png)"></div>
+                        <div class="bg" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg.png')"></div>
+                        <div class="bg-overlay" style="background-image: url('/eye-1/assets/images/pattern/single-testimonial-style1-bg-overlay.png')"></div>
                         <div class="quote-icon">
                             <img class="main-icon" src="/eye-1/assets/images/icon/quote-1.png" alt="Quote Icon">
                             <div class="overlay-icon">

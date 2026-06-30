@@ -55,7 +55,7 @@ export default function Page() {
 
 
 <!--Start breadcrumb area-->     
-<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg');">
     <div class="layer-outer-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
         <img src="/eye-1/assets/images/icon/icon-breadcrumb.png" alt="Icon">
     </div>
@@ -99,7 +99,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Service thatâ€™ll make you see us with your eyes</h4></div>
+                            <div class="accord-btn"><h4>Service thatÃ¢â‚¬â„¢ll make you see us with your eyes</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -107,7 +107,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Weâ€™re ready to protect your vision</h4></div>
+                            <div class="accord-btn"><h4>WeÃ¢â‚¬â„¢re ready to protect your vision</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -140,7 +140,7 @@ export default function Page() {
 <!--End Faq Content Area-->
 
 <!--Start Emergency Contact Area-->
-<section class="emergency-contact-area" style="background-image: url('/eye-1/assets/images/parallax-background/emergency-contact-area-bg.jpg)">
+<section class="emergency-contact-area" style="background-image: url('/eye-1/assets/images/parallax-background/emergency-contact-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-5">

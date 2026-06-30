@@ -62,7 +62,7 @@ export default function Page() {
         <div class="banner-carousel owl-theme owl-carousel">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg')"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="sub-title">Optometrist & Eye Care Clinic</div>
@@ -75,7 +75,7 @@ export default function Page() {
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg')"></div>
                 <div class="auto-container">
                     <div class="content text-center">
                         <div class="sub-title">Optometrist & Eye Care Clinic</div>
@@ -88,7 +88,7 @@ export default function Page() {
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg')"></div>
                 <div class="auto-container">
                     <div class="content text-center">
                         <div class="sub-title">Optometrist & Eye Care Clinic</div>
@@ -181,7 +181,7 @@ export default function Page() {
 <!--End Featured Area-->
 
 <!--Start Emergency Contact Area-->
-<section class="emergency-contact-area" style="background-image: url('/eye-1/assets/images/parallax-background/emergency-contact-area-bg.jpg)">
+<section class="emergency-contact-area" style="background-image: url('/eye-1/assets/images/parallax-background/emergency-contact-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-5">
@@ -217,7 +217,7 @@ export default function Page() {
             <div class="col-xl-12">
                 <div class="top-title">
                     <div class="sec-title">
-                        <h2><span>Services</span> weâ€™re offering<br> to our clients</h2>
+                        <h2><span>Services</span> weÃ¢â‚¬â„¢re offering<br> to our clients</h2>
                     </div>
                     <div class="text">
                         <p>Lorem ipsum dolor sit amet nsectetur cing elituspe ndisse suscipit sagitis leo sit.</p>
@@ -287,7 +287,7 @@ export default function Page() {
 
 
 <!--Start Slogan Style3 Area-->
-<section class="slogan-style3-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-style3-area-bg.jpg)">
+<section class="slogan-style3-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-style3-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -367,7 +367,7 @@ export default function Page() {
                         </div>
                     </div> 
                     <div class="text-holder">
-                        <h3 class="blog-title"><a href="/eye-1/blog/single">Weâ€™re ready to enhance your vision</a></h3>
+                        <h3 class="blog-title"><a href="/eye-1/blog/single">WeÃ¢â‚¬â„¢re ready to enhance your vision</a></h3>
                         <ul class="meta-info">
                             <li><span class="icon-user thm-clr"></span><a href="#">Admin</a></li>
                             <li><span class="icon-comments thm-clr"></span><a href="#">2 Comments</a></li>
@@ -487,7 +487,7 @@ export default function Page() {
 
 
 <!--Start Partner Style2 Area-->
-<section class="partner-style2-area" style="background-image: url('/eye-1/assets/images/parallax-background/partner-style2-area-bg.jpg)">
+<section class="partner-style2-area" style="background-image: url('/eye-1/assets/images/parallax-background/partner-style2-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">

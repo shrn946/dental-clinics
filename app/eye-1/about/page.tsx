@@ -55,7 +55,7 @@ export default function Page() {
 
 
 <!--Start breadcrumb area-->     
-<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg');">
     <div class="layer-outer-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
         <img src="/eye-1/assets/images/icon/icon-breadcrumb.png" alt="Icon">
     </div>
@@ -166,7 +166,7 @@ export default function Page() {
 <!--End Partner Style3 Area-->
 
 <!--Start Slogan Style3 Area-->
-<section class="slogan-style3-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-style3-area-bg.jpg)">
+<section class="slogan-style3-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-style3-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -347,7 +347,7 @@ export default function Page() {
 
 
 <!--Start Slogan Area-->
-<section class="slogan-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-area-bg.jpg)">
+<section class="slogan-area" style="background-image: url('/eye-1/assets/images/parallax-background/slogan-area-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">

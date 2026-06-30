@@ -13,7 +13,7 @@ export default function Hero() {
                 <div class="icon-holder">
                     <img src="/eye-1/assets/images/icon/eye.png" alt="Eye Icon">
                 </div>
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-1.jpg')"></div>
                 <div class="auto-container">
                     <div class="content right">
                         <h3>Welcome to Oktilcal</h3>
@@ -29,7 +29,7 @@ export default function Hero() {
                 <div class="icon-holder">
                     <img src="/eye-1/assets/images/icon/eye.png" alt="Eye Icon">
                 </div>
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-2.jpg')"></div>
                 <div class="auto-container">
                     <div class="content right">
                         <h3>Welcome to Oktilcal</h3>
@@ -45,7 +45,7 @@ export default function Hero() {
                 <div class="icon-holder">
                     <img src="/eye-1/assets/images/icon/eye.png" alt="Eye Icon">
                 </div>
-                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url('/eye-1/assets/images/slides/slide-v1-3.jpg')"></div>
                 <div class="auto-container">
                     <div class="content right">
                         <h3>Welcome to Oktilcal</h3>

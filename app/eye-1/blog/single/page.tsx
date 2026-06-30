@@ -55,7 +55,7 @@ export default function Page() {
 
 
 <!--Start breadcrumb area-->     
-<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url('/eye-1/assets/images/breadcrumb/breadcrumb-1.jpg');">
     <div class="layer-outer-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
         <img src="/eye-1/assets/images/icon/icon-breadcrumb.png" alt="Icon">
     </div>
@@ -282,7 +282,7 @@ export default function Page() {
                                         </div>    
                                     </div>
                                     <div class="title-box">
-                                        <h4><a href="#">Youâ€™re nothing without your eyes</a></h4>
+                                        <h4><a href="#">YouÃ¢â‚¬â„¢re nothing without your eyes</a></h4>
                                     </div>
                                 </div>
                             </li>
