@@ -241,7 +241,7 @@ export default function Page() {
             <div class="col-xl-12">
                 <div class="top-title">
                     <div class="sec-title">
-                        <h2><span>Services</span> weÃ¢â‚¬â„¢re offering<br> to our clients</h2>
+                        <h2><span>Services</span> we're offering<br> to our clients</h2>
                     </div>
                     <div class="text">
                         <p>Lorem ipsum dolor sit amet nsectetur cing elituspe ndisse suscipit sagitis leo sit.</p>
@@ -346,7 +346,7 @@ export default function Page() {
                                 <img src="/eye-1/assets/images/resources/offering.jpg" alt="Awesome Image">
                             </div>
                             <div class="title-holder">
-                                <h3>WeÃ¢â‚¬â„¢re offering a complete range of<br> eye care services</h3>
+                                <h3>We're offering a complete range of<br> eye care services</h3>
                             </div>    
                         </div>
                         
@@ -572,7 +572,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Service thatÃ¢â‚¬â„¢ll make you see us with your eyes</h4></div>
+                            <div class="accord-btn"><h4>Service that'll make you see us with your eyes</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -580,7 +580,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block bordernone">
-                            <div class="accord-btn"><h4>WeÃ¢â‚¬â„¢re ready to protect your vision</h4></div>
+                            <div class="accord-btn"><h4>We're ready to protect your vision</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -661,7 +661,7 @@ export default function Page() {
                         </div>
                     </div> 
                     <div class="text-holder">
-                        <h3 class="blog-title"><a href="/eye-1/blog/single">WeÃ¢â‚¬â„¢re ready to enhance your vision</a></h3>
+                        <h3 class="blog-title"><a href="/eye-1/blog/single">We're ready to enhance your vision</a></h3>
                         <ul class="meta-info">
                             <li><span class="icon-user thm-clr"></span><a href="#">Admin</a></li>
                             <li><span class="icon-comments thm-clr"></span><a href="#">2 Comments</a></li>

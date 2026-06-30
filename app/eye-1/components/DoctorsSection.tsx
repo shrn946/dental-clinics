@@ -21,7 +21,7 @@ export default function DoctorsSection() {
                                 <img src="/eye-1/assets/images/resources/offering.jpg" alt="Awesome Image">
                             </div>
                             <div class="title-holder">
-                                <h3>Weâ€™re offering a complete range of<br> eye care services</h3>
+                                <h3>We're offering a complete range of<br> eye care services</h3>
                             </div>    
                         </div>
                         

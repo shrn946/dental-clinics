@@ -264,7 +264,7 @@ export default function Page() {
             <div class="col-xl-12">
                 <div class="top-title">
                     <div class="sec-title">
-                        <h2 class="clrwhite"><span>Services</span> weÃ¢â‚¬â„¢re offering<br> to our clients</h2>
+                        <h2 class="clrwhite"><span>Services</span> we're offering<br> to our clients</h2>
                     </div>
                     <div class="text">
                         <p>Lorem ipsum dolor sit amet nsectetur cing elituspe ndisse suscipit sagitis leo sit.</p>
@@ -636,7 +636,7 @@ export default function Page() {
             <div class="col-xl-6">
                 <div class="service-style2-left">
                     <div class="sec-title">
-                        <h2 class="clrwhite"><span>Service</span> thatÃ¢â‚¬â„¢ll make you<br> see better future</h2>
+                        <h2 class="clrwhite"><span>Service</span> that'll make you<br> see better future</h2>
                     </div>
                     <div class="row">
                         <!--Start Single Service Style2-->
@@ -726,16 +726,15 @@ export default function Page() {
     <div class="outer-container">
         <div class="map-outer">
             <!--Map Canvas-->
-            <div class="map-canvas"
-                data-zoom="12"
-                data-lat="-37.817085"
-                data-lng="144.955631"
-                data-type="roadmap"
-                data-hue="#ffc400"
-                data-title="Envato"
-                data-icon-path="assets/images/resources/map-marker.png"
-                data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-            </div>
+            <iframe 
+              src="https://maps.google.com/maps?q=-37.817085,144.955631&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+              width="100%" 
+              height="550" 
+              style="border:0; display: block;" 
+              allowfullscreen="" 
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
         </div>    
     </div>
 </section>
@@ -836,7 +835,7 @@ export default function Page() {
                         </div>
                     </div> 
                     <div class="text-holder">
-                        <h3 class="blog-title"><a href="/eye-1/blog/single">WeÃ¢â‚¬â„¢re ready to enhance your vision</a></h3>
+                        <h3 class="blog-title"><a href="/eye-1/blog/single">We're ready to enhance your vision</a></h3>
                         <ul class="meta-info">
                             <li><span class="icon-user thm-clr"></span><a href="#">Admin</a></li>
                             <li><span class="icon-comments thm-clr"></span><a href="#">2 Comments</a></li>

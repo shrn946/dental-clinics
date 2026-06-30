@@ -91,7 +91,7 @@ export default function Page() {
                 <div class="error-content text-center wow slideInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <h4>Page Not Found</h4>
                     <div class="title thm-clr">404</div>
-                    <p>WeÃ¢â‚¬â„¢re unable to find a page you are looking for, Try later or click the button.</p>
+                    <p>We're unable to find a page you are looking for, Try later or click the button.</p>
                     <div class="btns-box">
                         <a class="btn-one" href="/eye-1"><span class="txt">Back to Home<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                     </div>

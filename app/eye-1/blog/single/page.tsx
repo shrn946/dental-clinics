@@ -282,7 +282,7 @@ export default function Page() {
                                         </div>    
                                     </div>
                                     <div class="title-box">
-                                        <h4><a href="#">YouÃ¢â‚¬â„¢re nothing without your eyes</a></h4>
+                                        <h4><a href="#">You're nothing without your eyes</a></h4>
                                     </div>
                                 </div>
                             </li>

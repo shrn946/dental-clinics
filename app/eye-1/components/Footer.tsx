@@ -87,7 +87,7 @@ export default function Footer() {
                                 </div>
                                 <div class="title-holder">
                                     <p>Jan 16, 2020</p>
-                                    <h5><a href="#">YouÃ¢â‚¬â„¢re nothing without  your eyes</a></h5>
+                                    <h5><a href="#">You're nothing without  your eyes</a></h5>
                                 </div>    
                             </li>
                         </ul>                     	  

@@ -99,7 +99,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Service thatÃ¢â‚¬â„¢ll make you see us with your eyes</h4></div>
+                            <div class="accord-btn"><h4>Service that'll make you see us with your eyes</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>
@@ -107,7 +107,7 @@ export default function Page() {
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>WeÃ¢â‚¬â„¢re ready to protect your vision</h4></div>
+                            <div class="accord-btn"><h4>We're ready to protect your vision</h4></div>
                             <div class="accord-content">
                                 <p>Suspendisse finibus urna mauris, lorem ipsum is simply free text vitae consequat quam vel. Vestibulum leo ligula, available to the market for the new stuff vitae commodo nisl.</p>
                             </div>

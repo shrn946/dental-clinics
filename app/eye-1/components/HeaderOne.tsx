@@ -82,7 +82,7 @@ export default function HeaderOne() {
                                         <ul>
                                             <li><a href="/eye-1/about">About Us</a></li>
                                             <li><a href="/eye-1/doctors">Our Doctors</a></li>
-                                            <li><a href="/eye-1/faq">Faqâ€™s</a></li>   
+                                            <li><a href="/eye-1/faq">Faq's</a></li>   
                                             <li><a href="/eye-1/404-page">Error Page</a></li>
                                         </ul>
                                     </li>

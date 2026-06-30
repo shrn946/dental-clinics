@@ -182,16 +182,15 @@ export default function Page() {
 <section class="contact-p-map-area">
     <div class="map-outer">
         <!--Map Canvas-->
-        <div class="map-canvas"
-            data-zoom="12"
-            data-lat="-37.817085"
-            data-lng="144.955631"
-            data-type="roadmap"
-            data-hue="#ffc400"
-            data-title="Envato"
-            data-icon-path="assets/images/resources/map-marker.png"
-            data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-        </div>
+        <iframe 
+          src="https://maps.google.com/maps?q=-37.817085,144.955631&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+          width="100%" 
+          height="500" 
+          style="border:0; display: block;" 
+          allowfullscreen="" 
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
     </div>
 </section>
 <!--End contact p map Area-->

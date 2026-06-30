@@ -10,7 +10,7 @@ export default function Services() {
             <div class="col-xl-12">
                 <div class="top-title">
                     <div class="sec-title">
-                        <h2 class="clrwhite"><span>Services</span> weâ€™re offering<br> to our clients</h2>
+                        <h2 class="clrwhite"><span>Services</span> we're offering<br> to our clients</h2>
                     </div>
                     <div class="text">
                         <p>Lorem ipsum dolor sit amet nsectetur cing elituspe ndisse suscipit sagitis leo sit.</p>
