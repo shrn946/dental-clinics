@@ -119,7 +119,7 @@ export default function AppointmentForm() {
       <h4 style={{ fontWeight: 'bold', marginBottom: '20px', color: '#02c18d', fontSize: '20px' }}>Patient Information</h4>
       
       <div className="row">
-        <div className="col-lg-6 mb-25" style={{ position: 'relative' }}>
+        <div className="col-lg-6" style={{ position: 'relative', marginBottom: '25px' }}>
           <input 
             type="text" 
             name="name" 
@@ -132,7 +132,7 @@ export default function AppointmentForm() {
           {errors.name && <span style={{ color: '#e74c3c', fontSize: '12px', position: 'absolute', bottom: '-20px', left: '15px' }}>{errors.name}</span>}
         </div>
 
-        <div className="col-lg-6 mb-25" style={{ position: 'relative' }}>
+        <div className="col-lg-6" style={{ position: 'relative', marginBottom: '25px' }}>
           <input 
             type="email" 
             name="email" 
@@ -145,7 +145,7 @@ export default function AppointmentForm() {
           {errors.email && <span style={{ color: '#e74c3c', fontSize: '12px', position: 'absolute', bottom: '-20px', left: '15px' }}>{errors.email}</span>}
         </div>
 
-        <div className="col-lg-6 mb-25" style={{ position: 'relative' }}>
+        <div className="col-lg-6" style={{ position: 'relative', marginBottom: '25px' }}>
           <input 
             type="tel" 
             name="phone" 
@@ -158,7 +158,7 @@ export default function AppointmentForm() {
           {errors.phone && <span style={{ color: '#e74c3c', fontSize: '12px', position: 'absolute', bottom: '-20px', left: '15px' }}>{errors.phone}</span>}
         </div>
 
-        <div className="col-lg-6 mb-25">
+        <div className="col-lg-6" style={{ marginBottom: '25px' }}>
           <input 
             type="date" 
             name="dob" 
@@ -177,7 +177,7 @@ export default function AppointmentForm() {
       
       <div className="row">
         {/* Custom Radix Date Picker */}
-        <div className="col-lg-6 mb-25" style={{ position: 'relative' }}>
+        <div className="col-lg-6" style={{ position: 'relative', marginBottom: '25px' }}>
           <Popover.Root open={isCalendarOpen} onOpenChange={setIsCalendarOpen}>
             <Popover.Trigger asChild>
               <button
@@ -221,7 +221,7 @@ export default function AppointmentForm() {
           {errors.date && <span style={{ color: '#e74c3c', fontSize: '12px', position: 'absolute', bottom: '-20px', left: '15px' }}>{errors.date}</span>}
         </div>
 
-        <div className="col-lg-6 mb-25" style={{ position: 'relative' }}>
+        <div className="col-lg-6" style={{ position: 'relative', marginBottom: '25px' }}>
           <input 
             type="time" 
             name="time" 
@@ -234,7 +234,7 @@ export default function AppointmentForm() {
           {errors.time && <span style={{ color: '#e74c3c', fontSize: '12px', position: 'absolute', bottom: '-20px', left: '15px' }}>{errors.time}</span>}
         </div>
 
-        <div className="col-lg-6 mb-25">
+        <div className="col-lg-6" style={{ marginBottom: '25px' }}>
           <select name="dentist" value={formData.dentist} onChange={handleChange} style={selectStyle} aria-label="Preferred Specialist">
             <option value="" disabled>Preferred Specialist</option>
             <option value="no-preference">No Preference</option>
@@ -244,7 +244,7 @@ export default function AppointmentForm() {
           </select>
         </div>
 
-        <div className="col-lg-6 mb-25">
+        <div className="col-lg-6" style={{ marginBottom: '25px' }}>
           <select name="treatment" value={formData.treatment} onChange={handleChange} style={selectStyle} aria-label="Care Needed">
             <option value="" disabled>Care Needed</option>
             <option value="Comprehensive Eye Exam">Comprehensive Eye Exam</option>
@@ -257,7 +257,7 @@ export default function AppointmentForm() {
           </select>
         </div>
 
-        <div className="col-lg-6 mb-25">
+        <div className="col-lg-6" style={{ marginBottom: '25px' }}>
           <select name="newPatient" value={formData.newPatient} onChange={handleChange} style={selectStyle} aria-label="New Patient?">
             <option value="" disabled>Are you a new patient?</option>
             <option value="Yes">Yes, I am a new patient</option>
@@ -265,7 +265,7 @@ export default function AppointmentForm() {
           </select>
         </div>
 
-        <div className="col-lg-6 mb-25">
+        <div className="col-lg-6" style={{ marginBottom: '25px' }}>
           <select name="insurance" value={formData.insurance} onChange={handleChange} style={selectStyle} aria-label="Insurance?">
             <option value="" disabled>Do you have insurance?</option>
             <option value="Yes">Yes</option>
@@ -278,7 +278,7 @@ export default function AppointmentForm() {
       <h4 style={{ fontWeight: 'bold', marginBottom: '20px', marginTop: '15px', color: '#02c18d', fontSize: '20px' }}>Additional Information</h4>
       
       <div className="row">
-        <div className="col-lg-12 mb-25">
+        <div className="col-lg-12" style={{ marginBottom: '25px' }}>
           <textarea 
             name="message" 
             value={formData.message} 
@@ -291,7 +291,7 @@ export default function AppointmentForm() {
           ></textarea>
         </div>
         
-        <div className="col-lg-12 mb-25" style={{ position: 'relative' }}>
+        <div className="col-lg-12" style={{ position: 'relative', marginBottom: '25px' }}>
           <label style={{ display: 'flex', alignItems: 'flex-start', cursor: 'pointer' }}>
             <input 
               type="checkbox" 
@@ -306,14 +306,32 @@ export default function AppointmentForm() {
           {errors.consent && <span style={{ color: '#e74c3c', fontSize: '12px', position: 'absolute', bottom: '-20px', left: '28px' }}>{errors.consent}</span>}
         </div>
 
-        <div className="col-lg-12 mt-10">
+        <div className="col-lg-12" style={{ marginTop: '15px' }}>
           <button 
             type="submit" 
             disabled={status === 'submitting'} 
-            className="btn-one"
-            style={{ width: '100%', height: '56px', border: '0', background: '#02c18d', color: '#ffffff', borderRadius: '6px', fontWeight: 'bold', fontSize: '16px', cursor: 'pointer', transition: 'all 0.3s ease', opacity: status === 'submitting' ? 0.7 : 1 }}
+            className="btn-one-custom"
+            style={{ 
+              width: '100%', 
+              height: '56px', 
+              border: '0', 
+              background: '#02c18d', 
+              color: '#ffffff', 
+              borderRadius: '30px', 
+              fontWeight: '600', 
+              fontSize: '16px', 
+              cursor: 'pointer', 
+              transition: 'all 0.3s ease', 
+              boxShadow: '0 4px 15px rgba(2, 193, 141, 0.2)',
+              opacity: status === 'submitting' ? 0.7 : 1,
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '8px'
+            }}
           >
-            <span className="txt">{status === 'submitting' ? 'Submitting...' : 'Submit Request'} <i className="fa fa-angle-double-right round" aria-hidden="true"></i></span>
+            {status === 'submitting' ? 'Submitting...' : 'Submit Request'}
+            <i className="fa fa-angle-double-right" style={{ fontSize: '14px', transition: 'transform 0.3s ease' }} aria-hidden="true"></i>
           </button>
         </div>
       </div>
@@ -324,6 +342,10 @@ export default function AppointmentForm() {
         .rdp-day:hover:not(.rdp-day_disabled) { background-color: #e6f9f3 !important; color: #02c18d; }
         .rdp-button:focus-visible { outline: 2px solid #02c18d !important; }
         input:focus, select:focus, textarea:focus { border-color: #02c18d !important; box-shadow: 0 0 0 3px rgba(2, 193, 141, 0.1) !important; }
+        .btn-one-custom { transition: all 0.3s ease !important; position: relative; overflow: hidden; }
+        .btn-one-custom:hover { background-color: #03a67a !important; box-shadow: 0 8px 25px rgba(2, 193, 141, 0.4) !important; transform: translateY(-2px); }
+        .btn-one-custom:hover i { transform: translateX(4px); }
+        .btn-one-custom:active { transform: translateY(0); }
       `}} />
     </form>
   );
