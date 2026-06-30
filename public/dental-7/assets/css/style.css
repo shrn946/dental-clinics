@@ -1281,7 +1281,7 @@ textarea.form-control {
   z-index: -1;
 }
 .banner-section.bg-1 {
-  background-image: url(../images/banner/banner-bg.jpg);
+  background-image: url("/dental-7/assets/images/banner/banner-bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1410,10 +1410,10 @@ textarea.form-control {
   height: 100vh;
 }
 .hero-slider-area .slider-item.slider-item-bg-1 {
-  background-image: url(../images/banner/slider-bg-1.jpg);
+  background-image: url("/dental-7/assets/images/banner/slider-bg-1.jpg");
 }
 .hero-slider-area .slider-item.slider-item-bg-2 {
-  background-image: url(../images/banner/slider-bg-2.jpg);
+  background-image: url("/dental-7/assets/images/banner/slider-bg-2.jpg");
 }
 .hero-slider-area .slider-item .slider-text {
   padding: 30px;
@@ -1824,7 +1824,7 @@ textarea.form-control {
 }
 
 .faq-img {
-  background-image: url(../images/faq-img.jpg);
+  background-image: url("/dental-7/assets/images/faq-img.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2460,19 +2460,19 @@ textarea.form-control {
   background-position: center center !important;
 }
 .main-sidebar-item.recent-post .main-recent-post-item .post-img .main-img.bg-1 {
-  background-image: url(../images/blog/blog-1.jpg);
+  background-image: url("/dental-7/assets/images/blog/blog-1.jpg");
 }
 .main-sidebar-item.recent-post .main-recent-post-item .post-img .main-img.bg-2 {
-  background-image: url(../images/blog/blog-2.jpg);
+  background-image: url("/dental-7/assets/images/blog/blog-2.jpg");
 }
 .main-sidebar-item.recent-post .main-recent-post-item .post-img .main-img.bg-3 {
-  background-image: url(../images/blog/blog-3.jpg);
+  background-image: url("/dental-7/assets/images/blog/blog-3.jpg");
 }
 .main-sidebar-item.recent-post .main-recent-post-item .post-img .main-img.bg-4 {
-  background-image: url(../images/blog/blog-4.jpg);
+  background-image: url("/dental-7/assets/images/blog/blog-4.jpg");
 }
 .main-sidebar-item.recent-post .main-recent-post-item .post-img .main-img.bg-5 {
-  background-image: url(../images/blog/blog-5.jpg);
+  background-image: url("/dental-7/assets/images/blog/blog-5.jpg");
 }
 .main-sidebar-item.recent-post .main-recent-post-item .post-info .post-title {
   font-size: 16px;
@@ -2789,7 +2789,7 @@ For Every Design This Style
 }
 
 .sign-up-img {
-  background-image: url(../images/sign-up-img.jpg);
+  background-image: url("/dental-7/assets/images/sign-up-img.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2797,7 +2797,7 @@ For Every Design This Style
   border-radius: 10px 0 0 10px;
 }
 .sign-up-img.bg-2 {
-  background-image: url(../images/sign-in-img.jpg);
+  background-image: url("/dental-7/assets/images/sign-in-img.jpg");
 }
 
 .sign-up-form {

@@ -1973,7 +1973,7 @@ section:hover .section-title h2::before{width: 100px;}
 }
 .about-content3 li::before {
     font-family: "Font Awesome 5 Pro";
-    content: "ï€Œ";
+    content: "Ã¯â‚¬Å’";
     margin-right: 10px;
     color: #3660d9;
 }
@@ -2105,7 +2105,7 @@ padding: 25px;
 }
 .services-two ul li::before {
    font-family: "Font Awesome 5 Pro";
-    content: "ï€Œ";
+    content: "Ã¯â‚¬Å’";
    margin-right: 10px;
 color: #3660d9;
 }
@@ -2160,7 +2160,7 @@ margin-bottom: 30px;
 }
 .services-three ul li::before {
    font-family: "Font Awesome 5 Pro";
-    content: "ï€Œ";
+    content: "Ã¯â‚¬Å’";
    margin-right: 10px;
 color: #3660d9;
 }
@@ -2524,7 +2524,7 @@ transform: scale(1.08);
 }
 .services-box-04 .services-content-02 li::before {
     font-family: "Font Awesome 5 Pro";
-    content: "ï€Œ";
+    content: "Ã¯â‚¬Å’";
     margin-right: 10px;
     color: #3660d9;
 }
@@ -4519,14 +4519,14 @@ color: #fff;
  .home-blog-active .slick-dots li.slick-active button {
 }
 .home-blog-active .slick-dots li.slick-active button::before {
-    background: url("../img/bg/active-dote.html");
+    background: url("/demo-5/img/bg/active-dote.html");
     opacity: 1;
 }
 .home-blog-active .slick-dots li button::before {
     content: "";
     width: 19px;
     height: 19px;
-    background: url("../img/bg/dote.html");
+    background: url("/demo-5/img/bg/dote.html");
     float: left;
     position: relative;
     margin-top: -9px;
@@ -4999,7 +4999,7 @@ margin-left: -10px;
     margin-top: 0;
 }
 .pricing-body li::before{
-content: '';
+content: 'ï€Œ';
 font-family: "Font Awesome 5 Pro";
 color: #3660d9;
 width: 25px;
@@ -5883,7 +5883,7 @@ width: auto !important;
     font-size: 14px;
 }
 .quote-post{
-	background: url(../images/quote_bg.html);
+	background: url("/demo-5/images/quote_bg.html");
 }
 .widget_media_image a:hover {
     padding-left: 0 !important;

@@ -236,7 +236,7 @@ a:focus{
     right: 24px;
 	width: 24px;
 	height: 24px;
-	background: url('../images/arrow-white.svg') no-repeat;
+	background: url("/demo-3/images/arrow-white.svg") no-repeat;
     background-position: center center;
     background-size: cover;
 	transform: translate(0, -50%);
@@ -303,7 +303,7 @@ a:focus{
     top: 50%;
     right: 0;
 	transform: translate(-3px, -50%);
-	background-image: url('../images/arrow-accent.svg');
+	background-image: url("/demo-3/images/arrow-accent.svg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -465,7 +465,7 @@ a:focus{
 }
 
 .dark-section{
-	background: url('../images/dark-section-bg-image.png') no-repeat;
+	background: url("/demo-3/images/dark-section-bg-image.png") no-repeat;
 	background-position: center center;
 	background-size: cover;
 }
@@ -789,14 +789,14 @@ header.main-header .header-sticky.active{
 .hero-box::before{
 	top: 210px;
 	left: 0px;
-	background-image: url('../images/hero-character-img-1.png');
+	background-image: url("/demo-3/images/hero-character-img-1.png");
 	animation: movestyle1 10s linear infinite alternate;
 }
 
 .hero-box::after{
 	top: -20px;
 	right: -30px;
-	background-image: url('../images/hero-character-img-2.png');
+	background-image: url("/demo-3/images/hero-character-img-2.png");
 	animation: movestyle2 10s linear infinite alternate;
 }
 
@@ -1402,8 +1402,8 @@ header.main-header .header-sticky.active{
 	position: absolute;
 	right: -1px;
 	bottom: -1px;
-    mask: url('../images/readmore-btn-bg-shape.svg');
-	-webkit-mask: url('../images/readmore-btn-bg-shape.svg');
+    mask: url("/demo-3/images/readmore-btn-bg-shape.svg");
+	-webkit-mask: url("/demo-3/images/readmore-btn-bg-shape.svg");
 	background-color: var(--secondary-color);
 	mask-repeat: no-repeat;
 	mask-position: right bottom;
@@ -1630,7 +1630,7 @@ header.main-header .header-sticky.active{
 }
 
 .feature-box-1 .feature-item-1{
-	background-image: url('../images/feature-item-bg-image-1.png');
+	background-image: url("/demo-3/images/feature-item-bg-image-1.png");
 	background-color: var(--accent-color);
 }
 
@@ -1674,8 +1674,8 @@ header.main-header .header-sticky.active{
 	mask-size: cover;
 	mask-position: center center;
 	mask-repeat: no-repeat;
-	mask-image: url('../images/feature-image-bg-shape.svg');
-	background-image: url('../images/feature-image-bg-shape.svg');
+	mask-image: url("/demo-3/images/feature-image-bg-shape.svg");
+	background-image: url("/demo-3/images/feature-image-bg-shape.svg");
 	width: 100%;
 	height: 100%;
 }
@@ -1731,7 +1731,7 @@ header.main-header .header-sticky.active{
 
 .feature-box-2 .feature-item-1{
 	background-color: var(--primary-color);
-	background-image: url('../images/feature-item-bg-image-2.png');
+	background-image: url("/demo-3/images/feature-item-bg-image-2.png");
 	justify-content: space-between;
 	padding-bottom: 0;
 }
@@ -1877,7 +1877,7 @@ header.main-header .header-sticky.active{
 
 .our-expert{
     position: relative;
-    background: url('../images/expert-section-bg.jpg') no-repeat;
+    background: url("/demo-3/images/expert-section-bg.jpg") no-repeat;
     background-position: center center;
     background-size: cover;
     min-height: 100vh;
@@ -2340,7 +2340,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .book-appointment{
-    background: url('../images/book-appointment-bg.jpg') no-repeat;
+    background: url("/demo-3/images/book-appointment-bg.jpg") no-repeat;
     background-position: center center;
     background-size: cover;
     padding: 30px 15px;
@@ -2646,14 +2646,14 @@ header.main-header .header-sticky.active{
 .page-header::before{
 	bottom: 80px;
 	left: 120px;
-	background-image: url('../images/hero-character-img-1.png');
+	background-image: url("/demo-3/images/hero-character-img-1.png");
 	animation: movestyle1 10s linear infinite alternate;
 }
 
 .page-header::after{
 	top: 40px;
 	right: 120px;
-	background-image: url('../images/hero-character-img-2.png');
+	background-image: url("/demo-3/images/hero-character-img-2.png");
 	animation: movestyle2 10s linear infinite alternate;
 }
 
@@ -3083,7 +3083,7 @@ header.main-header .header-sticky.active{
     top: 50%;
     right: 0;
 	transform: translateY(-50%) rotate(-45deg);
-	background: url('../images/arrow-text.svg') no-repeat;
+	background: url("/demo-3/images/arrow-text.svg") no-repeat;
 	background-position: center center;
 	background-size: cover;
     width: 26px;
@@ -3098,7 +3098,7 @@ header.main-header .header-sticky.active{
 
 .sidebar-cta-box{
 	position: relative;
-	background: url('../images/sidebar-cta-bg.png') no-repeat;
+	background: url("/demo-3/images/sidebar-cta-bg.png") no-repeat;
 	background-position: center center;
 	background-size: cover;
 	border-radius: 20px;
@@ -3585,7 +3585,7 @@ header.main-header .header-sticky.active{
 }
 
 .post-entry blockquote{
-	background: url('../images/icon-blockquote.svg'), var(--secondary-color);
+	background: url("/demo-3/images/icon-blockquote.svg"), var(--secondary-color);
 	background-repeat: no-repeat;
 	background-position: 30px 30px;
     background-size: 45px;
@@ -6551,7 +6551,7 @@ header.main-header .header-sticky.active{
 	bottom: 0;
 	width: 10px;
 	height: 10px;
-	background-image: url('../images/arrow-white-prime.svg');
+	background-image: url("/demo-3/images/arrow-white-prime.svg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: auto;
@@ -6790,7 +6790,7 @@ header.main-header.header-prime .header-sticky.active{
 
 .hero-image-prime{
 	position: relative;
-	background: url('../images/hero-image-bg-prime.png') no-repeat;
+	background: url("/demo-3/images/hero-image-bg-prime.png") no-repeat;
 	background-position: bottom left 70px;
     background-size: cover;
 	height: 100%;
@@ -6859,7 +6859,7 @@ header.main-header.header-prime .header-sticky.active{
 }
 
 .hero-info-item-prime.box-2{
-	background-image: url('../images/hero-info-item-prime-box-2-bg.png');
+	background-image: url("/demo-3/images/hero-info-item-prime-box-2-bg.png");
 	background-repeat: no-repeat;
 	background-position: top right;
 	background-size: auto;
@@ -7166,8 +7166,8 @@ header.main-header.header-prime .header-sticky.active{
 	position: absolute;
 	right: -1px;
 	bottom: -1px;
-    mask: url('../images/readmore-btn-bg-shape.svg');
-	-webkit-mask: url('../images/readmore-btn-bg-shape.svg');
+    mask: url("/demo-3/images/readmore-btn-bg-shape.svg");
+	-webkit-mask: url("/demo-3/images/readmore-btn-bg-shape.svg");
 	background-color: var(--secondary-color);
 	mask-repeat: no-repeat;
 	mask-position: right bottom;
@@ -7446,7 +7446,7 @@ header.main-header.header-prime .header-sticky.active{
 	position: absolute;
 	top: -110px;
 	right: -50px;
-	background: url('../images/how-it-work-bg-prime.png') no-repeat center center;
+	background: url("/demo-3/images/how-it-work-bg-prime.png") no-repeat center center;
 	background-size: cover;
 	width: 440px;
 	height: 395px;
@@ -8978,7 +8978,7 @@ header.main-header.header-prime .header-sticky.active{
 	height: 50px;
 	border-radius: 50%;
 	background-color: var(--divider-color);
-	background-image: url('../images/arrow-primary.svg');
+	background-image: url("/demo-3/images/arrow-primary.svg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 26px auto;
@@ -9022,7 +9022,7 @@ header.main-header.header-prime .header-sticky.active{
 
 .btn-default-metal.btn-highlighted-metal::before{
 	background-color: var(--dark-divider-color);
-	background-image: url('../images/arrow-white.svg');
+	background-image: url("/demo-3/images/arrow-white.svg");
 }
 
 .btn-default-metal.btn-highlighted-metal::after{
@@ -9068,7 +9068,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .hero-metal{
 	position: relative;
-	background: url('../images/hero-metal-bg.jpg') no-repeat center center;
+	background: url("/demo-3/images/hero-metal-bg.jpg") no-repeat center center;
 	background-size: cover;
 	border-radius: 20px 20px 0 0;
 	padding: 285px 0 180px;
@@ -9626,7 +9626,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .why-choose-us-metal{
 	position: relative;
-	background: url('../images/why-choose-us-bg-metal.png'), linear-gradient(180deg, var(--primary-color) 0%, var(--accent-color) 174.98%);
+	background: url("/demo-3/images/why-choose-us-bg-metal.png"), linear-gradient(180deg, var(--primary-color) 0%, var(--accent-color) 174.98%);
 	background-repeat: no-repeat;
 	background-position: bottom center;
 	background-size: auto;
@@ -9651,14 +9651,14 @@ header.main-header.header-metal .header-sticky.active{
 }
 
 .why-choose-us-metal::before{
-	background-image: url('../images/why-choose-character-1-metal.png');
+	background-image: url("/demo-3/images/why-choose-character-1-metal.png");
 	right: -50px;
 	top: -60px;
 	transform: rotate(-132deg);
 }
 
 .why-choose-us-metal::after{
-	background-image: url('../images/why-choose-character-2-metal.png');
+	background-image: url("/demo-3/images/why-choose-character-2-metal.png");
 	bottom: -40px;
 	left: -50px;
 	transform: rotate(28deg);
@@ -9689,7 +9689,7 @@ header.main-header.header-metal .header-sticky.active{
 }
 
 .why-choose-btn-metal::before{
-	background-image: url('../images/why-choose-btn-arrow-1-metal.svg');
+	background-image: url("/demo-3/images/why-choose-btn-arrow-1-metal.svg");
 	left: 265px;
 	animation: btnMovestyle1 2s infinite alternate linear;
 }
@@ -9705,7 +9705,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .why-choose-btn-metal::after{
 	right: 265px;
-	background-image: url('../images/why-choose-btn-arrow-2-metal.svg');
+	background-image: url("/demo-3/images/why-choose-btn-arrow-2-metal.svg");
 	animation: btnMovestyle2 2s infinite alternate linear;
 }
 
@@ -10032,7 +10032,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .book-appointment-metal{
 	position: relative;
-	background: url(../images/book-appointment-bg.jpg) no-repeat;
+	background: url("/demo-3/images/book-appointment-bg.jpg") no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 100px 0;
@@ -10608,7 +10608,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .our-faqs-metal{
 	position: relative;
-	background: url('../images/faqs-image-bg-metal.jpg') no-repeat;
+	background: url("/demo-3/images/faqs-image-bg-metal.jpg") no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 100px 0;
@@ -10809,7 +10809,7 @@ header.main-header.header-metal .header-sticky.active{
 }
 
 .post-item-btn-metal .readmore-btn::before{
-	background-image: url(../images/arrow-white.svg);
+	background-image: url("/demo-3/images/arrow-white.svg");
 }
 
 .post-item-btn-metal .readmore-btn:hover:before{

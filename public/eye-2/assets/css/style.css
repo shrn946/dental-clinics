@@ -324,16 +324,16 @@ html{
     width: 24px;
     height: 14px;
     position: absolute;
-    background-image: url(../images/nav-node.png);
+    background-image: url("/eye-2/assets/images/nav-node.png");
     top: -12px;
     left: 8%;
     transition: all 0.3s ease-in-out;
 }
 .navbar-nav .drop-down-pages li:first-child a:hover::before {
-    background-image: url(../images/nav-node-hover.png);
+    background-image: url("/eye-2/assets/images/nav-node-hover.png");
 }
 .navbar-nav .drop-down-pages .active:first-child>a::before {
-    background-image: url(../images/nav-node-hover.png);
+    background-image: url("/eye-2/assets/images/nav-node-hover.png");
 }
 .navbar-nav .drop-down-pages li:last-child {
     margin: 0;
@@ -428,7 +428,7 @@ html{
     right: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/banner-rightbackground.jpg);
+    background-image: url("/eye-2/assets/images/banner-rightbackground.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -437,7 +437,7 @@ html{
     width: 55%;
     left: 0;
     right: unset;
-    background-image: url(../images/contact-rightbackground.jpg);
+    background-image: url("/eye-2/assets/images/contact-rightbackground.jpg");
     border-radius: 0 0 300px 0;
 }
 .banner-con .banner-leftimage {
@@ -727,7 +727,7 @@ html{
     background-position: center;
     background-repeat: no-repeat;
     background-color: var(--e-global-color-dark-blue);
-    background-image: url(../images/choose-backgroundimage.png);
+    background-image: url("/eye-2/assets/images/choose-backgroundimage.png");
 }
 .choose-con .choose-lefttopimage {
     position: absolute;
@@ -1025,7 +1025,7 @@ html{
     left: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/help-backgroundimage.jpg);
+    background-image: url("/eye-2/assets/images/help-backgroundimage.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -1139,7 +1139,7 @@ html{
     left: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/contact-leftbackground.jpg);
+    background-image: url("/eye-2/assets/images/contact-leftbackground.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -1148,7 +1148,7 @@ html{
     width: 55%;
     right: 0;
     left: unset;
-    background-image: url(../images/contact-rightbackground.jpg);
+    background-image: url("/eye-2/assets/images/contact-rightbackground.jpg");
     border-radius: 0 0 0 300px;
 }
 .contact-con .contact-rightimage {
@@ -1202,7 +1202,7 @@ html{
     -webkit-appearance: none;
     background-repeat: no-repeat !important;
     background-position: 90.3% 23px !important;
-    background-image: url(../images/dropdown-arrow.png) !important;
+    background-image: url("/eye-2/assets/images/dropdown-arrow.png") !important;
 }
 .contact-con .contact_content select option{
     color: var(--e-global-color-text);
@@ -1778,7 +1778,7 @@ html{
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(../images/banner2-backgroundimage.png);
+    background-image: url("/eye-2/assets/images/banner2-backgroundimage.png");
 }
 .banner2-con .banner-leftimage {
     position: absolute;
@@ -2108,7 +2108,7 @@ html{
     left: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/help2-backgroundimage.jpg);
+    background-image: url("/eye-2/assets/images/help2-backgroundimage.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -2399,7 +2399,7 @@ html{
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(../images/banner3-backgroundimage.png);
+    background-image: url("/eye-2/assets/images/banner3-backgroundimage.png");
 }
 .banner3-con .banner-icon {
     position: absolute;
@@ -2669,7 +2669,7 @@ html{
     left: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/help3-backgroundimage.jpg);
+    background-image: url("/eye-2/assets/images/help3-backgroundimage.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -2900,7 +2900,7 @@ html{
     height: 100%;
     opacity: 48%;
     position: absolute;
-    background-image: url(../images/subbanner-backgroundimage.jpg);
+    background-image: url("/eye-2/assets/images/subbanner-backgroundimage.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -3223,7 +3223,7 @@ html{
     right: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/choose-rightbackground.jpg);
+    background-image: url("/eye-2/assets/images/choose-rightbackground.jpg");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -3232,7 +3232,7 @@ html{
     width: 50%;
     left: 0;
     right: unset;
-    background-image: url(../images/contact-rightbackground.jpg);
+    background-image: url("/eye-2/assets/images/contact-rightbackground.jpg");
     background-position: top;
     z-index: -1;
 }
@@ -3305,7 +3305,7 @@ html{
     right: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/pricingabout-rightbackground.jpg);
+    background-image: url("/eye-2/assets/images/pricingabout-rightbackground.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -3317,7 +3317,7 @@ html{
     left: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/contact-rightbackground.jpg);
+    background-image: url("/eye-2/assets/images/contact-rightbackground.jpg");
 }
 .pricingabout-con .about_content{
     z-index: 1;
@@ -3978,7 +3978,7 @@ html{
     height: 20px;
     width: 20px;
     content: "\f00d";
-    background-image: url('../images/close.html');
+    background-image: url("/eye-2/assets/images/close.html");
 }
 #search .close {
     position: fixed;

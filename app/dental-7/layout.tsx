@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import React from 'react';
+import Preloader from '@/components/dental-7/Preloader';
 
 export const metadata: Metadata = {
   title: 'Toothst | Dental Clinic Next.js Website',
@@ -28,6 +29,7 @@ export default function DentalLayout({
         <link rel="icon" type="image/png" href="/dental-7/assets/images/favicon.png" />
       </head>
       <body>
+        <Preloader />
         {children}
 
         {/* jQuery library loaded first */}

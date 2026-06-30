@@ -384,7 +384,7 @@ input:-webkit-autofill:focus {
     padding-bottom: 5px;
 }
 div#html5-close {
-    background: url(../images/icon/lightbox-close.png);
+    background: url("/eye-1/assets/images/icon/lightbox-close.png");
     width: 32px;
     height: 32px;
 }

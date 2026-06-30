@@ -51,7 +51,7 @@ html{
 }
 /* banner-section */
 .home-banner-section{
-    background-image: url("../images/home-banner-img.jpg");
+    background-image: url("/demo-4/assets/images/home-banner-img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 	background-color: var(--global--color-offwhite);
@@ -121,10 +121,10 @@ color: var(--global--color-grey);
 	color: var(--global--color-lightgrey);
 }
 .contact-banner{
-	background-image: url(../images/contact-banner.png) !important;
+	background-image: url("/demo-4/assets/images/contact-banner.png") !important;
 }
 .dentists-banner{
-	background-image: url(../images/dentists-banner.png) !important;
+	background-image: url("/demo-4/assets/images/dentists-banner.png") !important;
 }
 .home-angle-double-down{
     background-color: var(--global--color-seagreen);
@@ -193,7 +193,7 @@ min-height: 50px;
 }
 /* info section */
 .home-info-section{
-	background-image: url("../images/home-info-banner.jpg");
+	background-image: url("/demo-4/assets/images/home-info-banner.jpg");
     background-size: cover;
 	background-repeat: no-repeat;
 	overflow: hidden;
@@ -321,7 +321,7 @@ font-size: 27px;
 
 /* book appointment section */
 .book-appointment-section{
-	background-image: url("../images/bookappointment-bg.jpg");
+	background-image: url("/demo-4/assets/images/bookappointment-bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 	margin-top: -524px;
@@ -439,7 +439,7 @@ color: var(--global--color-white);
     bottom: -22px;
     position: absolute;
     left: 0;
-	background: url(../images/overlay-img-hover.png) no-repeat center;
+	background: url("/demo-4/assets/images/overlay-img-hover.png") no-repeat center;
 
 }
 .inner-wrapper1 ul li a:hover{
@@ -462,7 +462,7 @@ color: var(--global--color-white);
 }
 /* customer review section */
 .customer-review-section{
-	background-image: url("../images/home-customer-review-bg.jpg");
+	background-image: url("/demo-4/assets/images/home-customer-review-bg.jpg");
     background-size: cover;
 	background-repeat: no-repeat;
 	overflow: hidden;
@@ -511,7 +511,7 @@ color: var(--global--color-orange);
 }
 .customer-review-section .carousel-indicators li figure:after {
     content: "";
-    background: url(../images/comma-img.png) no-repeat top right;
+    background: url("/demo-4/assets/images/comma-img.png") no-repeat top right;
     position: absolute;
     top: -11px;
     z-index: 99999;
@@ -636,7 +636,7 @@ color: var(--global--color-grey);
 }
 /* time table section */
 .time-table-section{
-	background-image: url("../images/time-table-banner.png");
+	background-image: url("/demo-4/assets/images/time-table-banner.png");
     background-size: cover;
     background-repeat: no-repeat;
 	height: 486px;
@@ -724,7 +724,7 @@ font-size: 80px;
 /* services page */
 /* banner section */
 .generic-banner{
-    background-image: url("../images/services-banner-sec-img.jpg");
+    background-image: url("/demo-4/assets/images/services-banner-sec-img.jpg");
     background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -813,7 +813,7 @@ text-transform: uppercase;
 }
 /*********dental-appliances-banner *********/
 .dental-appliances-banner{
-	background-image: url(../images/dental-appliances-banner.png);
+	background-image: url("/demo-4/assets/images/dental-appliances-banner.png");
 }
 .doctor-img .row .col-lg-6:nth-child(2) figure img {
     position: relative;
@@ -853,7 +853,7 @@ text-transform: uppercase;
 	margin-bottom: 70px;
 }
 .about-information-con{
-	background-image: url(../images/home-info-banner.jpg);
+	background-image: url("/demo-4/assets/images/home-info-banner.jpg");
 }
 .experience-con{
 	margin-top: 95px;
@@ -906,10 +906,10 @@ text-transform: uppercase;
 	left: 0;
 }
 .about-banner{
-	background-image: url(../images/about-banner-img.png);
+	background-image: url("/demo-4/assets/images/about-banner-img.png");
 }
 .dental-appliances-static-con{
-	background-image: url(../images/static-banner.jpg);
+	background-image: url("/demo-4/assets/images/static-banner.jpg");
 }
 .book-appointment-section textarea{
 	resize: none;

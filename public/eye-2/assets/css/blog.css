@@ -20,7 +20,7 @@ a {
 
 /*-------- BLOG PAGES ------------ */
 .blog-banner-section {
-	background: url(../images/review-bg.html) no-repeat center;
+	background: url("/eye-2/assets/images/review-bg.html") no-repeat center;
 	background-size: cover;
 	height: 498px;
 	position: relative;
@@ -768,12 +768,12 @@ a.item-link {
 }
 
 .singleblog-section .buttons .prev {
-	background-image: url(../images/single-blog-prev-image.png);
+	background-image: url("/eye-2/assets/images/single-blog-prev-image.png");
 	left: 0px;
 }
 
 .singleblog-section .buttons .next {
-	background-image: url(../images/single-blog-next-image.png);
+	background-image: url("/eye-2/assets/images/single-blog-next-image.png");
 	right: 0;
 }
 
@@ -783,11 +783,11 @@ a.item-link {
 	color: var(--e-global-color-accent);
 }
 .singleblog-section .buttons .prev:hover {
-	background-image: url(../images/single-blog-prev-imagehover.png);
+	background-image: url("/eye-2/assets/images/single-blog-prev-imagehover.png");
 }
 
 .singleblog-section .buttons .next:hover {
-	background-image: url(../images/single-blog-next-imagehover.png);
+	background-image: url("/eye-2/assets/images/single-blog-next-imagehover.png");
 }
 
 

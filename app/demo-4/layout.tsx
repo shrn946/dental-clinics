@@ -1,4 +1,5 @@
 import Chatbot from '@/components/Chatbot';
+import Preloader from '@/components/demo-4/Preloader';
 
 export default function Demo4Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -17,6 +18,7 @@ export default function Demo4Layout({ children }: { children: React.ReactNode })
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
       </head>
       <body>
+        <Preloader />
         {children}
         <Chatbot themeColor="#ff5a6e" />
       </body>

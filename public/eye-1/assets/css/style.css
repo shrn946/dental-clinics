@@ -37,21 +37,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 
 
-@import url(animate.css);
-@import url(bootstrap-select.min.css);
-@import url(icomoon.css);
-@import url(jquery.bootstrap-touchspin.css);
-@import url(jquery.fancybox.min.css);
-@import url(jquery.mCustomScrollbar.min.css);
-@import url(nouislider.css);
-@import url(nouislider.pips.css);
-@import url(polyglot-language-switcher.css);
-@import url(timePicker.css);
-@import url(slick.css);
-@import url(jquery.bxslider.css);
-@import url(jquery-ui.css);
-@import url(tinyscrollbar.css);
-@import url(twentytwenty.css);
+@import url("/eye-1/assets/css/animate.css");
+@import url("/eye-1/assets/css/bootstrap-select.min.css");
+@import url("/eye-1/assets/css/icomoon.css");
+@import url("/eye-1/assets/css/jquery.bootstrap-touchspin.css");
+@import url("/eye-1/assets/css/jquery.fancybox.min.css");
+@import url("/eye-1/assets/css/jquery.mCustomScrollbar.min.css");
+@import url("/eye-1/assets/css/nouislider.css");
+@import url("/eye-1/assets/css/nouislider.pips.css");
+@import url("/eye-1/assets/css/polyglot-language-switcher.css");
+@import url("/eye-1/assets/css/timePicker.css");
+@import url("/eye-1/assets/css/slick.css");
+@import url("/eye-1/assets/css/jquery.bxslider.css");
+@import url("/eye-1/assets/css/jquery-ui.css");
+@import url("/eye-1/assets/css/tinyscrollbar.css");
+@import url("/eye-1/assets/css/twentytwenty.css");
 
 
 
@@ -109,7 +109,7 @@ a:focus {
     border: none;
 }
 img.lazy-image{
-	background:url(../images/icon/image-bg.svg) center center no-repeat;	
+	background:url("/eye-1/assets/images/icon/image-bg.svg") center center no-repeat;	
 }
 img.lazy-image.loaded{
 	background-image:none;
@@ -154,7 +154,7 @@ img.lazy-image.loaded{
     width: 10px;
 }
 #scrollbar1 .track {
-    background: url(../images/icon/bg-scrollbar-trackend-y.png) no-repeat 0 100%;
+    background: url("/eye-1/assets/images/icon/bg-scrollbar-trackend-y.png") no-repeat 0 100%;
     height: 100%;
     width: 10px;
     position: relative;
@@ -162,7 +162,7 @@ img.lazy-image.loaded{
 }
 
 #scrollbar1 .thumb {
-    background: url(../images/icon/bg-scrollbar-thumb-y.png) no-repeat 50% 100%;
+    background: url("/eye-1/assets/images/icon/bg-scrollbar-thumb-y.png") no-repeat 50% 100%;
     background-image: none;
     height: 20px;
     width: 10px;
@@ -794,7 +794,7 @@ li{
     width: 100%;
     min-width: 300px;
     margin: 0 auto;
-    background: url(../images/pattern/body-pattern.png) #f8f8f8;
+    background: url("/eye-1/assets/images/pattern/body-pattern.png") #f8f8f8;
     background-attachment: fixed;
     background-repeat: repeat;
     background-position: center;
@@ -886,10 +886,10 @@ li{
     background-color:#ffffff; 
     background-position:center center; 
     background-repeat:no-repeat; 
-    background-image:url(../images/icon/preloader.gif);
+    background-image:url("/eye-1/assets/images/icon/preloader.gif");
 }
 .preloader.style-two {
-    background-image: url(../images/icon/preloader-1.html);
+    background-image: url("/eye-1/assets/images/icon/preloader-1.html");
 }
 
 

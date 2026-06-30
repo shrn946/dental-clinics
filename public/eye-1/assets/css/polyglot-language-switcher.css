@@ -138,23 +138,23 @@
 
 
 #en { 
-	background-image: url(../language-switcher/gb.html);
+	background-image: url("/eye-1/assets/language-switcher/gb.html");
 }
 
 #fr { 
-	background-image: url(../language-switcher/fr.html);	
+	background-image: url("/eye-1/assets/language-switcher/fr.html");	
 }
 
 #de { 
-	background-image: url(../language-switcher/de.html);
+	background-image: url("/eye-1/assets/language-switcher/de.html");
 }
 
 #it { 
-	background-image: url(../language-switcher/it.html);
+	background-image: url("/eye-1/assets/language-switcher/it.html");
 }
 
 #es { 
-	background-image: url(../language-switcher/es.html);
+	background-image: url("/eye-1/assets/language-switcher/es.html");
 }
 
 
