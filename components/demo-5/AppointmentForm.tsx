@@ -162,7 +162,7 @@ export default function AppointmentForm() {
                         head_cell: { color: '#666', fontFamily: 'var(--font-jakarta)', fontSize: '14px', fontWeight: 'normal' },
                         cell: { fontFamily: 'var(--font-jakarta)', fontSize: '14px' },
                         day: { borderRadius: '4px', margin: '2px', padding: '6px' }
-                      }}
+                      } as any}
                     />
                   </Popover.Content>
                 </Popover.Portal>

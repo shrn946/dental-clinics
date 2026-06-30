@@ -18,7 +18,7 @@ export default function Demo5ScriptLoader() {
         const isInitScript = src.endsWith('main.js');
         
         if (existingScript && !isInitScript) {
-          resolve(true);
+          resolve();
           return;
         }
         
@@ -28,8 +28,8 @@ export default function Demo5ScriptLoader() {
 
         const script = document.createElement('script');
         script.src = src;
-        script.onload = resolve;
-        script.onerror = resolve; // Continue even if one fails
+        script.onload = () => resolve();
+        script.onerror = () => resolve(); // Continue even if one fails
         document.body.appendChild(script);
       }));
     });

@@ -45,7 +45,7 @@ export default function HtmlToNext({ html, components = {} }: HtmlToNextProps) {
 
             if (domNode.name === 'a') {
               const props = attributesToProps(domNode.attribs);
-              let href = props.href || '#';
+              let href = typeof props.href === 'string' ? props.href : '#';
               
               if (!href.startsWith('http') && !href.startsWith('#')) {
                 if (href === 'index.html') {
@@ -72,7 +72,7 @@ export default function HtmlToNext({ html, components = {} }: HtmlToNextProps) {
             
             if (domNode.name === 'img') {
               const props = attributesToProps(domNode.attribs);
-              let src = props.src || '';
+              let src = typeof props.src === 'string' ? props.src : '';
               if (src && !src.startsWith('http') && !src.startsWith('data:') && !src.startsWith('/demo-5/')) {
                 // Strip leading / or ./ to ensure clean path concatenation
                 src = '/demo-5/' + src.replace(/^\.?\//, '');
