@@ -6,13 +6,39 @@ import Footer from './components/Footer';
 
 export default function Page() {
   useEffect(() => {
-    // Dispatch event to trigger jQuery custom script initialization
     const timer = setTimeout(() => {
       const $ = (window as any).jQuery;
       if ($) {
         $(window).trigger('resize');
         if ($('.preloader').length) {
           $('.preloader').delay(200).fadeOut(500);
+        }
+
+        // Initialize tabs clicking behavior
+        if ($('.tabs-box').length) {
+          $('.tabs-box .tab-buttons .tab-btn').off('click').on('click', function(this: any, e: any) {
+            e.preventDefault();
+            var target = $($(this).attr('data-tab'));
+            if ($(target).is(':visible')){
+              return false;
+            } else {
+              target.parents('.tabs-box').find('.tab-buttons').find('.tab-btn').removeClass('active-btn');
+              $(this).addClass('active-btn');
+              target.parents('.tabs-box').find('.tabs-content').find('.tab').fadeOut(0);
+              target.parents('.tabs-box').find('.tabs-content').find('.tab').removeClass('active-tab');
+              $(target).fadeIn(300);
+              $(target).addClass('active-tab');
+            }
+          });
+        }
+
+        // Initialize animated counters
+        if ($('.timer').length) {
+          $('.timer').each(function(this: any) {
+            $(this).appear(function(this: any) {
+              $(this).countTo();
+            });
+          });
         }
       }
     }, 500);
@@ -443,7 +469,7 @@ export default function Page() {
                             <i class="icon-eye"></i>    
                         </div>
                         <div class="title">
-                            <h2>86,700</h2>
+                            <h2><span class="timer" data-from="1" data-to="86700" data-speed="5000" data-refresh-interval="50">86700</span></h2>
                             <span>Happy patients in 20 years</span>
                         </div>
                     </div>   
