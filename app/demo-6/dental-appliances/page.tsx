@@ -57,6 +57,26 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			` }} />
+      <style dangerouslySetInnerHTML={{ __html: `
+    .theme-135 .theme-element.theme-element-6d639874 {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-motion-effects-container > .theme-motion-effects-layer::before {
+        background-image: url(/demo-6/assets/uploads/sites/19/2024/09/shape-2-min.png) !important;
+        --background-overlay: '';
+        background-position: top left !important;
+        background-repeat: no-repeat !important;
+        background-size: auto !important;
+    }
+    ` }} />
       <div dangerouslySetInnerHTML={{ __html: `
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 <header class="theme theme-21 theme-location-header" data-theme-id="21" data-theme-post-type="theme_library" data-theme-type="header">
@@ -210,7 +230,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="theme-element theme-element-32b9a0e8 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="32b9a0e8" data-settings='{"background_background":"gradient"}'>
 <div class="e-con-inner">
 <div class="theme-element theme-element-e17593e e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="e17593e" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-de46977 theme-widget__width-inherit theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="de46977" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
+<div class="theme-element theme-element-de46977 theme-widget__width-inherit theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="de46977" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">Have a perfect smile!</div> </div>
 </div>
@@ -282,17 +302,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="e-con-inner">
 <div class="theme-element theme-element-2bc68f45 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="2bc68f45">
 <div class="theme-element theme-element-15903df2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="15903df2">
-<div class="theme-element theme-element-268eaeca theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="268eaeca" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
+<div class="theme-element theme-element-268eaeca theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="268eaeca" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">A perfect smile</div> </div>
 </div>
-<div class="theme-element theme-element-89d590f theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="89d590f" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="heading.default">
+<div class="theme-element theme-element-89d590f theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="89d590f" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <h2 class="theme-heading-title theme-size-default">The right device for you</h2> </div>
 </div>
 </div>
 <div class="theme-element theme-element-61eff3f5 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="61eff3f5">
-<div class="theme-element theme-element-35770c9d e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="35770c9d" data-settings='{"animation":"fadeInUp","animation_delay":200}'>
+<div class="theme-element theme-element-35770c9d e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="35770c9d" data-settings='{"animation":"fadeInUp","animation_delay":200}'>
 <div class="theme-element theme-element-60806b6d theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="60806b6d" data-widget_type="icon-box.default">
 <div class="theme-widget-container">
 <div class="theme-icon-box-wrapper">
@@ -312,7 +332,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>Bibendum ut tristique et egestas quis ipsum suspendisse. Tellus at urna condimentum mattis pellentesque id. Adipiscing at in tellus integer feugiat.</p> </div>
 </div>
 </div>
-<div class="theme-element theme-element-648a5cd9 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="648a5cd9" data-settings='{"animation":"fadeInUp","animation_delay":300}'>
+<div class="theme-element theme-element-648a5cd9 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="648a5cd9" data-settings='{"animation":"fadeInUp","animation_delay":300}'>
 <div class="theme-element theme-element-56127ea2 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="56127ea2" data-widget_type="icon-box.default">
 <div class="theme-widget-container">
 <div class="theme-icon-box-wrapper">
@@ -387,11 +407,11 @@ Eu non diam phasellus vestibulum lorem sed risus ultricies. Amet cursus sit amet
 <div class="theme-element theme-element-7ba31c3b e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="7ba31c3b" data-settings='{"background_background":"classic"}'>
 <div class="e-con-inner">
 <div class="theme-element theme-element-1bb5bb5e e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="1bb5bb5e">
-<div class="theme-element theme-element-7e914aca theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="7e914aca" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
+<div class="theme-element theme-element-7e914aca theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="7e914aca" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">Our accomplishments</div> </div>
 </div>
-<div class="theme-element theme-element-232fa45d theme-invisible theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="232fa45d" data-settings='{"_animation":"fadeInUp"}' data-widget_type="icon-box.default">
+<div class="theme-element theme-element-232fa45d theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="232fa45d" data-settings='{"_animation":"fadeInUp"}' data-widget_type="icon-box.default">
 <div class="theme-widget-container">
 <div class="theme-icon-box-wrapper">
 <div class="theme-icon-box-content">
@@ -407,7 +427,7 @@ Eu non diam phasellus vestibulum lorem sed risus ultricies. Amet cursus sit amet
 </div>
 </div>
 <div class="theme-element theme-element-64715c4c e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="64715c4c">
-<div class="theme-element theme-element-2c31c07 theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-invisible theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="2c31c07" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="counter.default">
+<div class="theme-element theme-element-2c31c07 theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="2c31c07" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="counter.default">
 <div class="theme-widget-container">
 <div class="theme-counter">
 <div class="theme-counter-title">Implants</div> <div class="theme-counter-number-wrapper">
@@ -418,7 +438,7 @@ Eu non diam phasellus vestibulum lorem sed risus ultricies. Amet cursus sit amet
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-6e9dacc0 theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-invisible theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="6e9dacc0" data-settings='{"_animation":"fadeInUp","_animation_delay":200}' data-widget_type="counter.default">
+<div class="theme-element theme-element-6e9dacc0 theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="6e9dacc0" data-settings='{"_animation":"fadeInUp","_animation_delay":200}' data-widget_type="counter.default">
 <div class="theme-widget-container">
 <div class="theme-counter">
 <div class="theme-counter-title">Tweezers</div> <div class="theme-counter-number-wrapper">
@@ -429,7 +449,7 @@ Eu non diam phasellus vestibulum lorem sed risus ultricies. Amet cursus sit amet
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-736e72ea theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-invisible theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="736e72ea" data-settings='{"_animation":"fadeInUp","_animation_delay":300}' data-widget_type="counter.default">
+<div class="theme-element theme-element-736e72ea theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="736e72ea" data-settings='{"_animation":"fadeInUp","_animation_delay":300}' data-widget_type="counter.default">
 <div class="theme-widget-container">
 <div class="theme-counter">
 <div class="theme-counter-title">Smiles</div> <div class="theme-counter-number-wrapper">
@@ -440,7 +460,7 @@ Eu non diam phasellus vestibulum lorem sed risus ultricies. Amet cursus sit amet
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-756e54bd theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-invisible theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="756e54bd" data-settings='{"_animation":"fadeInUp","_animation_delay":400}' data-widget_type="counter.default">
+<div class="theme-element theme-element-756e54bd theme-widget__width-initial theme-widget-tablet__width-initial theme-widget-mobile__width-inherit theme-widget theme-widget-counter" data-e-type="widget" data-element_type="widget" data-id="756e54bd" data-settings='{"_animation":"fadeInUp","_animation_delay":400}' data-widget_type="counter.default">
 <div class="theme-widget-container">
 <div class="theme-counter">
 <div class="theme-counter-title">Lenses</div> <div class="theme-counter-number-wrapper">

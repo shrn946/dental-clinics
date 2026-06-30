@@ -59,6 +59,26 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			` }} />
+      <style dangerouslySetInnerHTML={{ __html: `
+    .theme-135 .theme-element.theme-element-6d639874 {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-motion-effects-container > .theme-motion-effects-layer::before {
+        background-image: url(/demo-6/assets/uploads/sites/19/2024/09/shape-2-min.png) !important;
+        --background-overlay: '';
+        background-position: top left !important;
+        background-repeat: no-repeat !important;
+        background-size: auto !important;
+    }
+    ` }} />
       <div dangerouslySetInnerHTML={{ __html: `
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 <header class="theme theme-21 theme-location-header" data-theme-id="21" data-theme-post-type="theme_library" data-theme-type="header">
@@ -212,7 +232,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="theme-element theme-element-64f3fdfa e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="64f3fdfa" data-settings='{"background_background":"gradient"}'>
 <div class="e-con-inner">
 <div class="theme-element theme-element-2698c629 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="2698c629" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-98575c6 theme-widget__width-inherit theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="98575c6" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
+<div class="theme-element theme-element-98575c6 theme-widget__width-inherit theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="98575c6" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">Our blog</div> </div>
 </div>

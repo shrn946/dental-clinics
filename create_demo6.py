@@ -81,6 +81,8 @@ def clean_text(text):
     text = text.replace('https://templateup.site/dental/assets/', '/demo-6/assets/')
     
     text = text.replace('elementor-invisible', '')
+    text = text.replace('theme-invisible', '')
+    text = text.replace('elementor-hidden', '')
     
     # Remove wp-* classes safely (but don't break valid paths)
     text = re.sub(r'class="([^"]*)\bwp-\w+\b([^"]*)"', r'class="\1 \2"', text)
@@ -238,6 +240,29 @@ for src_file, route in PAGES.items():
         style_text = clean_text(style.string or "")
         inline_styles_html += f"\n      <style dangerouslySetInnerHTML={{{{ __html: `{style_text.replace('`', '\\`').replace('$', '\\$')}` }}}} />"
         
+    # Inject missing custom CSS overrides
+    missing_css = """
+    .theme-135 .theme-element.theme-element-6d639874 {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-motion-effects-container > .theme-motion-effects-layer::before {
+        background-image: url(/demo-6/assets/uploads/sites/19/2024/09/shape-2-min.png) !important;
+        --background-overlay: '';
+        background-position: top left !important;
+        background-repeat: no-repeat !important;
+        background-size: auto !important;
+    }
+    """
+    inline_styles_html += f"\n      <style dangerouslySetInnerHTML={{{{ __html: `{missing_css}` }}}} />"
+
     # Extract page-specific <link> tags
     page_css_links = []
     for link in soup.find('head').find_all('link'):

@@ -57,6 +57,26 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			` }} />
+      <style dangerouslySetInnerHTML={{ __html: `
+    .theme-135 .theme-element.theme-element-6d639874 {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-motion-effects-container > .theme-motion-effects-layer::before {
+        background-image: url(/demo-6/assets/uploads/sites/19/2024/09/shape-2-min.png) !important;
+        --background-overlay: '';
+        background-position: top left !important;
+        background-repeat: no-repeat !important;
+        background-size: auto !important;
+    }
+    ` }} />
       <div dangerouslySetInnerHTML={{ __html: `
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 <header class="theme theme-21 theme-location-header" data-theme-id="21" data-theme-post-type="theme_library" data-theme-type="header">
@@ -210,7 +230,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="theme-element theme-element-72029d6e e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="72029d6e" data-settings='{"background_background":"gradient"}'>
 <div class="e-con-inner">
 <div class="theme-element theme-element-863cb68 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="863cb68" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-f9c1092 theme-widget__width-inherit theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="f9c1092" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
+<div class="theme-element theme-element-f9c1092 theme-widget__width-inherit theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="f9c1092" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">Have a perfect smile!</div> </div>
 </div>
@@ -472,7 +492,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="e-con-inner">
 <div class="theme-element theme-element-54578aea e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="54578aea">
 <div class="theme-element theme-element-61b09d9 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="61b09d9">
-<div class="theme-element theme-element-7e6ed3a8 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="7e6ed3a8" data-settings='{"background_background":"classic","animation":"fadeInUp"}'>
+<div class="theme-element theme-element-7e6ed3a8 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7e6ed3a8" data-settings='{"background_background":"classic","animation":"fadeInUp"}'>
 <div class="theme-element theme-element-21708d42 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="21708d42" data-widget_type="icon-box.default">
 <div class="theme-widget-container">
 <div class="theme-icon-box-wrapper">
@@ -501,7 +521,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 <div class="theme-element theme-element-66807eda e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="66807eda" data-settings='{"background_background":"classic"}'>
 </div>
-<div class="theme-element theme-element-7c706ec5 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="7c706ec5" data-settings='{"background_background":"classic","animation":"fadeInUp","animation_delay":100}'>
+<div class="theme-element theme-element-7c706ec5 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7c706ec5" data-settings='{"background_background":"classic","animation":"fadeInUp","animation_delay":100}'>
 <div class="theme-element theme-element-123b76dc theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="123b76dc" data-widget_type="icon-box.default">
 <div class="theme-widget-container">
 <div class="theme-icon-box-wrapper">
@@ -557,7 +577,7 @@ Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Tempus urna et ph
 </div>
 </div>
 <div class="theme-element theme-element-23a0c4a2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="23a0c4a2" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-64b02e35 e-con-full e-transform e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="64b02e35" data-settings='{"background_background":"gradient","animation":"fadeIn","_transform_translateX_effect":{"unit":"px","size":-60,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":-40,"sizes":[]},"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}'>
+<div class="theme-element theme-element-64b02e35 e-con-full e-transform e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="64b02e35" data-settings='{"background_background":"gradient","animation":"fadeIn","_transform_translateX_effect":{"unit":"px","size":-60,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":-40,"sizes":[]},"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}'>
 <div class="theme-element theme-element-48571822 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="48571822" data-widget_type="heading.default">
 <div class="theme-widget-container">
 <h3 class="theme-heading-title theme-size-default">Opening hours</h3> </div>

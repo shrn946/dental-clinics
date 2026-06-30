@@ -56,6 +56,26 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			` }} />
+      <style dangerouslySetInnerHTML={{ __html: `
+    .theme-135 .theme-element.theme-element-6d639874 {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d {
+        background-color: #3a3089 !important;
+    }
+    .theme-135 .theme-element.theme-element-7d52fd9d::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-video-container::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .e-con-inner > .theme-background-slideshow::before, 
+    .theme-135 .theme-element.theme-element-7d52fd9d > .theme-motion-effects-container > .theme-motion-effects-layer::before {
+        background-image: url(/demo-6/assets/uploads/sites/19/2024/09/shape-2-min.png) !important;
+        --background-overlay: '';
+        background-position: top left !important;
+        background-repeat: no-repeat !important;
+        background-size: auto !important;
+    }
+    ` }} />
       <div dangerouslySetInnerHTML={{ __html: `
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 <header class="theme theme-21 theme-location-header" data-theme-id="21" data-theme-post-type="theme_library" data-theme-type="header">
@@ -209,7 +229,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="theme-element theme-element-3079a283 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="3079a283" data-settings='{"background_background":"gradient"}'>
 <div class="e-con-inner">
 <div class="theme-element theme-element-4c5f655 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="4c5f655" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-be13c81 theme-widget__width-inherit theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="be13c81" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
+<div class="theme-element theme-element-be13c81 theme-widget__width-inherit theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="be13c81" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">Have a perfect smile!</div> </div>
 </div>
@@ -228,18 +248,18 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="e-con-inner">
 <div class="theme-element theme-element-2a97011a e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="2a97011a">
 <div class="theme-element theme-element-5eb6cbd4 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="5eb6cbd4">
-<div class="theme-element theme-element-4840689 theme-widget__width-initial theme-invisible theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="4840689" data-settings='{"_animation":"fadeIn"}' data-widget_type="spacer.default">
+<div class="theme-element theme-element-4840689 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="4840689" data-settings='{"_animation":"fadeIn"}' data-widget_type="spacer.default">
 <div class="theme-widget-container">
 <div class="theme-spacer">
 <div class="theme-spacer-inner"></div>
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-3294009d theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="3294009d" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="heading.default">
+<div class="theme-element theme-element-3294009d theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="3294009d" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">Choose the plan</div> </div>
 </div>
-<div class="theme-element theme-element-65f86b40 theme-invisible theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="65f86b40" data-settings='{"_animation":"fadeInUp","_animation_delay":200}' data-widget_type="icon-box.default">
+<div class="theme-element theme-element-65f86b40 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="65f86b40" data-settings='{"_animation":"fadeInUp","_animation_delay":200}' data-widget_type="icon-box.default">
 <div class="theme-widget-container">
 <div class="theme-icon-box-wrapper">
 <div class="theme-icon-box-content">
@@ -259,7 +279,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="e-lottie__container"><div class="e-lottie__animation"></div></div> </div>
 </div>
 <div class="theme-element theme-element-4424d2c2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="4424d2c2">
-<div class="theme-element theme-element-50c941e3 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="50c941e3" data-settings='{"background_background":"classic","animation":"fadeInLeft","animation_delay":300}'>
+<div class="theme-element theme-element-50c941e3 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="50c941e3" data-settings='{"background_background":"classic","animation":"fadeInLeft","animation_delay":300}'>
 <div class="theme-element theme-element-64f99a4 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="64f99a4" data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">\$</div> </div>
@@ -341,7 +361,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-3faedaa7 e-con-full e-transform e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="3faedaa7" data-settings='{"background_background":"gradient","animation":"zoomIn","animation_delay":400,"_transform_scale_effect":{"unit":"px","size":1.1,"sizes":[]},"_transform_scale_effect_mobile_extra":{"unit":"px","size":1,"sizes":[]},"_transform_scale_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_mobile":{"unit":"px","size":"","sizes":[]}}'>
+<div class="theme-element theme-element-3faedaa7 e-con-full e-transform e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="3faedaa7" data-settings='{"background_background":"gradient","animation":"zoomIn","animation_delay":400,"_transform_scale_effect":{"unit":"px","size":1.1,"sizes":[]},"_transform_scale_effect_mobile_extra":{"unit":"px","size":1,"sizes":[]},"_transform_scale_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_mobile":{"unit":"px","size":"","sizes":[]}}'>
 <div class="theme-element theme-element-1b286645 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="1b286645" data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">\$</div> </div>
@@ -423,7 +443,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-59a60254 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="59a60254" data-settings='{"background_background":"classic","animation":"fadeInRight","animation_delay":500}'>
+<div class="theme-element theme-element-59a60254 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="59a60254" data-settings='{"background_background":"classic","animation":"fadeInRight","animation_delay":500}'>
 <div class="theme-element theme-element-482ba017 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="482ba017" data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default">\$</div> </div>
