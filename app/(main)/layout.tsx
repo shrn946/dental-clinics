@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 import ScriptInit from "@/components/ScriptInit";
 import ScriptLoader from "@/components/ScriptLoader";
 import Preloader from "@/components/Preloader";
+import Chatbot from '@/components/Chatbot';
 import "./globals.css";
 
 const plusJakartaSans = Plus_Jakarta_Sans({
@@ -48,19 +49,19 @@ export default function RootLayout({
 
         {/* Mouse Cursor Start */}
         <div className="custom-cursor">
-          <div id="magicCursor" className="outer-cursor"></div>
-          <div id="magicCursorInner" className="inner-cursor"></div>
+          <div className="cursor"></div>
+          <div className="cursor-two"></div>
         </div>
         {/* Mouse Cursor End */}
-
+        
         <Header />
-        
-        <main>{children}</main>
-        
+        {children}
         <Footer />
-        
-        <ScriptLoader />
+        <Chatbot themeColor="#00bcd4" />
+
+        {/* Essential Scripts initialized here */}
         <ScriptInit />
+        <ScriptLoader />
       </body>
     </html>
   );

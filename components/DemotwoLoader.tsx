@@ -58,7 +58,7 @@ export default function DemotwoLoader({ bodyContent, bodyClass }: DemotwoLoaderP
         hasCustomBreakpoints: true
       },
       version: "3.27.5",
-      urls: { assets: "/demotwo/assets/plugins/elementor/assets/" },
+      urls: { assets: "/demo-2/assets/plugins/elementor/assets/" },
       swiperClass: "swiper",
       kit: {
         active_breakpoints: ["viewport_mobile", "viewport_tablet"],
@@ -69,15 +69,15 @@ export default function DemotwoLoader({ bodyContent, bodyClass }: DemotwoLoaderP
     };
 
     // Find and execute script tags sequentially
-    const container = document.getElementById('demotwo-content');
+    const container = document.getElementById('demo-2-content');
     if (!container) return;
 
     const loadedScripts: HTMLScriptElement[] = [];
 
     // Core jQuery requirements that must be loaded and initialized first
     const coreScripts = [
-      '/demotwo/includes/js/jquery/jquery.minf43b.js?ver=3.7.1',
-      '/demotwo/includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1'
+      '/demo-2/includes/js/jquery/jquery.minf43b.js?ver=3.7.1',
+      '/demo-2/includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1'
     ];
 
     const pageScripts = Array.from(container.querySelectorAll('script'));
@@ -115,9 +115,9 @@ export default function DemotwoLoader({ bodyContent, bodyClass }: DemotwoLoaderP
 
       if (script.src) {
         let src = script.src;
-        // Prefix relative script sources with /demotwo/
+        // Prefix relative script sources with /demo-2/
         if (!src.startsWith('http') && !src.startsWith('/')) {
-          src = `/demotwo/${src}`;
+          src = `/demo-2/${src}`;
         }
         newScript.src = src;
         newScript.async = false;
@@ -180,7 +180,7 @@ export default function DemotwoLoader({ bodyContent, bodyClass }: DemotwoLoaderP
   if (!hasMounted) {
     return (
       <div 
-        id="demotwo-content" 
+        id="demo-2-content" 
         style={{ minHeight: '100vh', background: '#ffffff' }} 
       />
     );
@@ -188,7 +188,7 @@ export default function DemotwoLoader({ bodyContent, bodyClass }: DemotwoLoaderP
 
   return (
     <div 
-      id="demotwo-content"
+      id="demo-2-content"
       dangerouslySetInnerHTML={{ __html: bodyContent }}
     />
   );
