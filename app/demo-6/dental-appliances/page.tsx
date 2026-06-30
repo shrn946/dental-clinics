@@ -5,6 +5,40 @@ import Demo6Scripts from '@/components/demo-6/Demo6Scripts';
 export default function Page() {
   return (
     <div className="page-template page-template-theme_header_footer page page-id-149 -responsive -hello-theme hello-theme-default theme-default theme-template-full-width theme-kit-7 theme-page theme-page-149">
+      <link rel="stylesheet" href="/demo-6/assets/plugins/template-kit-export/assets/public/template-kit-export-public982a.css?ver=1.0.23" id="template-kit-export-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.minddbf.css?ver=1782307963" id="theplus-plus-extra-adv-plus-extra-adv-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/plus-extra-adv/plus-alignmnetddbf.css?ver=1782307963" id="theplus-plus-alignmnet-plus-extra-adv-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/breadcrumbs-bar/plus-breadcrumbs-barddbf.css?ver=1782307963" id="theplus-plus-breadcrumbs-bar-breadcrumbs-bar-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/breadcrumbs-bar/plus-bb-style1ddbf.css?ver=1782307963" id="theplus-plus-bb-style1-breadcrumbs-bar-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/heading-title/plus-ht-styleddbf.css?ver=1782307963" id="theplus-plus-ht-style-heading-title-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/heading-title/plus-ht-style-1ddbf.css?ver=1782307963" id="theplus-plus-ht-style-1-heading-title-css" />
+<link rel="stylesheet" href="/demo-6/assets/themes/hello-theme/assets/css/reset08cb.css?ver=3.4.9" id="hello-theme-css" />
+<link rel="stylesheet" href="/demo-6/assets/themes/hello-theme/assets/css/theme08cb.css?ver=3.4.9" id="hello-theme-theme-style-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-frontend.min8733.css?ver=1782232498" id="theme-frontend-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-widget-icon-list.min8733.css?ver=1782232498" id="widget-icon-list-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-social-icons.mineda1.css?ver=4.1.4" id="widget-social-icons-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-apple-webkit.min8733.css?ver=1782232498" id="e-apple-webkit-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-spacer.mineda1.css?ver=4.1.4" id="widget-spacer-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-heading.mineda1.css?ver=4.1.4" id="widget-heading-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-pro-widget-nav-menu.min39f2.css?ver=1782232499" id="widget-nav-menu-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/e-animation-float.mineda1.css?ver=4.1.4" id="e-animation-float-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme-pro/assets/css/widget-form.min8aee.css?ver=4.1.2" id="widget-form-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/eicons/css/theme-icons.min5c93.css?ver=5.50.0" id="theme-icons-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-739f2.css?ver=1782232499" id="theme-post-7-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/fadeIn.mineda1.css?ver=4.1.4" id="e-animation-fadeIn-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-widget-icon-box.min8733.css?ver=1782232498" id="widget-icon-box-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme-pro/assets/css/widget-lottie.min8aee.css?ver=4.1.2" id="widget-lottie-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/fadeInUp.mineda1.css?ver=4.1.4" id="e-animation-fadeInUp-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-counter.mineda1.css?ver=4.1.4" id="widget-counter-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-149ddbf.css?ver=1782307963" id="theme-post-149-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-2151c5.css?ver=1782232505" id="theme-post-21-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-17b4a7.css?ver=1782232507" id="theme-post-17-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/google-fonts/css/yuseimagicf5ee.css?ver=1742301991" id="theme-gf-local-yuseimagic-css" />
+<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/google-fonts/css/robotoflexfcb5.css?ver=1754412364" id="theme-gf-local-robotoflex-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3" id="theme-icons-shared-0-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3" id="theme-icons-fa-solid-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3" id="theme-icons-fa-brands-css" />
+<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3" id="theme-icons-fa-regular-css" />
       
       <style dangerouslySetInnerHTML={{ __html: `
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
@@ -148,12 +182,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a class="theme-sub-item" href="/demo-6/lenses">Lenses</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-240"><a class="theme-item theme-item-anchor" href="#">Blog</a>
-<ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a class="theme-sub-item" href="../blog/index.html">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-242"><a class="theme-sub-item" href="../warning-signs-of-dental-problems-and-how-to-treat-them/index.html">Post Details</a></li>
-</ul>
-</li>
+
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a class="theme-item" href="/demo-6/contact-us">Contact Us</a></li>
 </ul> </nav>
 <div aria-expanded="false" aria-label="Menu Toggle" class="theme-menu-toggle" role="button" tabindex="0">
@@ -183,12 +212,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a class="theme-sub-item" href="/demo-6/lenses" tabindex="-1">Lenses</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-240"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Blog</a>
-<ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a class="theme-sub-item" href="../blog/index.html" tabindex="-1">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-242"><a class="theme-sub-item" href="../warning-signs-of-dental-problems-and-how-to-treat-them/index.html" tabindex="-1">Post Details</a></li>
-</ul>
-</li>
+
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a class="theme-item" href="/demo-6/contact-us" tabindex="-1">Contact Us</a></li>
 </ul> </nav>
 </div>

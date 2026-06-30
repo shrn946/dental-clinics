@@ -53,6 +53,25 @@ def clean_text(text):
     text = text.replace('src="../wp-', 'src="/demo-6/assets/')
     text = text.replace('href="wp-', 'href="/demo-6/assets/')
     text = text.replace('src="wp-', 'src="/demo-6/assets/')
+    text = text.replace("href='../../wp-", "href='/demo-6/assets/")
+    text = text.replace("src='../../wp-", "src='/demo-6/assets/")
+    text = text.replace("href='../wp-", "href='/demo-6/assets/")
+    text = text.replace("src='../wp-", "src='/demo-6/assets/")
+    text = text.replace("href='wp-", "href='/demo-6/assets/")
+    text = text.replace("src='wp-", "src='/demo-6/assets/")
+    
+    text = text.replace('href="../../assets/', 'href="/demo-6/assets/')
+    text = text.replace('src="../../assets/', 'src="/demo-6/assets/')
+    text = text.replace('href="../assets/', 'href="/demo-6/assets/')
+    text = text.replace('src="../assets/', 'src="/demo-6/assets/')
+    text = text.replace('href="assets/', 'href="/demo-6/assets/')
+    text = text.replace('src="assets/', 'src="/demo-6/assets/')
+    text = text.replace("href='../../assets/", "href='/demo-6/assets/")
+    text = text.replace("src='../../assets/", "src='/demo-6/assets/")
+    text = text.replace("href='../assets/", "href='/demo-6/assets/")
+    text = text.replace("src='../assets/", "src='/demo-6/assets/")
+    text = text.replace("href='assets/", "href='/demo-6/assets/")
+    text = text.replace("src='assets/", "src='/demo-6/assets/")
     
     text = text.replace('url(../../wp-', 'url(/demo-6/assets/')
     text = text.replace('url(../wp-', 'url(/demo-6/assets/')
@@ -124,8 +143,8 @@ def process_assets():
 print("Processing assets...")
 process_assets()
 
-# Extract layout from index.html
-with open(os.path.join(SOURCE_DIR, 'index.html'), 'r', encoding='utf-8') as f:
+# Extract layout from home-02/index.html
+with open(os.path.join(SOURCE_DIR, 'home-02', 'index.html'), 'r', encoding='utf-8') as f:
     soup = BeautifulSoup(f.read(), 'html.parser')
 
 css_links = []
@@ -180,6 +199,13 @@ for src_file, route in PAGES.items():
     for script in body.find_all('script'):
         script.decompose()
         
+    # Remove Blog links
+    for a in body.find_all('a'):
+        if a.string and a.string.strip().lower() == 'blog':
+            li = a.find_parent('li')
+            if li:
+                li.decompose()
+        
     # Fix lazy loaded images by swapping data-src to src
     for img in body.find_all('img'):
         if img.has_attr('data-src'):
@@ -198,6 +224,23 @@ for src_file, route in PAGES.items():
     for style in soup.find('head').find_all('style'):
         style_text = clean_text(style.string or "")
         inline_styles_html += f"\n      <style dangerouslySetInnerHTML={{{{ __html: `{style_text.replace('`', '\\`').replace('$', '\\$')}` }}}} />"
+        
+    # Extract page-specific <link> tags
+    page_css_links = []
+    for link in soup.find('head').find_all('link'):
+        rel = link.get('rel', [])
+        if 'stylesheet' in rel or 'preconnect' in rel:
+            href = clean_text(link.get('href', ''))
+            if href.startswith('assets/'):
+                href = '/demo-6/' + href
+            link_str = f'<link rel="{" ".join(rel) if isinstance(rel, list) else rel}" href="{href}" />'
+            if link.get('id'):
+                link_id = clean_text(link.get('id', ''))
+                link_str = link_str.replace('/>', f'id="{link_id}" />')
+            if link_str not in css_links:
+                page_css_links.append(link_str)
+    
+    page_css_html = chr(10).join(page_css_links)
     
     page_tsx = f"""
 import Chatbot from '@/components/Chatbot';
@@ -206,6 +249,7 @@ import Demo6Scripts from '@/components/demo-6/Demo6Scripts';
 export default function Page() {{
   return (
     <div className="{body_classes}">
+      {page_css_html}
       {inline_styles_html}
       <div dangerouslySetInnerHTML={{{{ __html: `{body_html}` }}}} />
       <Demo6Scripts />
