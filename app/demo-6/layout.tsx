@@ -1,4 +1,11 @@
 
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: "Dental – Premium Dental Clinic & Oral Care",
+  description: "Experience exceptional dental care with our premium template kit. We provide high-quality dental aesthetics, professional procedures, and personalized dental services.",
+};
+
 export default function Demo6Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">

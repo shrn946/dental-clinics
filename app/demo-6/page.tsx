@@ -129,7 +129,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="theme-element theme-element-1caf13f1 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="1caf13f1">
 <div class="e-con-inner">
 <div class="theme-element theme-element-1ec5ee e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="1ec5ee">
-<div class="theme-element theme-element-2470b06 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="2470b06" data-widget_type="spacer.default">
+<div class="theme-element theme-element-2470b06 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="2470b06" data-widget_type="spacer.default" style="display: none;">
 <div class="theme-widget-container">
 <div class="theme-spacer">
 <div class="theme-spacer-inner"></div>
@@ -138,7 +138,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 <div class="theme-element theme-element-237a702 theme-widget__width-auto theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="237a702" data-widget_type="heading.default">
 <div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default"><a href="/demo-6">Dental</a></div> </div>
+<div class="theme-heading-title theme-size-default"><a href="/demo-6" style="display: flex; align-items: center; gap: 10px;"><img src="/demo-6/assets/uploads/sites/19/2024/09/logo-tt-white.png" alt="Dental Logo" style="height: 35px; width: auto; object-fit: contain;" />Dental</a></div> </div>
 </div>
 </div>
 <div class="theme-element theme-element-79c3dbf6 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="79c3dbf6">
@@ -441,7 +441,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-51199de2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="51199de2" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-51199de2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="51199de2" data-settings='{"background_background":"classic"}' style="position: relative; overflow: hidden;">
+<img src="/demo-6/assets/uploads/sites/19/2024/09/dentists-with-a-patient-during-a-dental-interventi-2021-08-27-22-49-32-utc-min.jpg" alt="Dentists with a patient during a dental intervention" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0;" />
 </div>
 <div class="theme-element theme-element-140dec0a e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="140dec0a" data-settings='{"background_background":"classic","animation":"fadeInUp","animation_delay":100}'>
 <div class="theme-element theme-element-380803eb theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="380803eb" data-widget_type="icon-box.default">
