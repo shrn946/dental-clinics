@@ -5,40 +5,14 @@ import Demo6Scripts from '@/components/demo-6/Demo6Scripts';
 export default function Page() {
   return (
     <div className="page-template page-template-theme_header_footer page page-id-149 -responsive -hello-theme hello-theme-default theme-default theme-template-full-width theme-kit-7 theme-page theme-page-149">
-      <link rel="stylesheet" href="/demo-6/assets/plugins/template-kit-export/assets/public/template-kit-export-public982a.css?ver=1.0.23" id="template-kit-export-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.minddbf.css?ver=1782307963" id="theplus-plus-extra-adv-plus-extra-adv-css" />
+      <link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.minddbf.css?ver=1782307963" id="theplus-plus-extra-adv-plus-extra-adv-css" />
 <link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/plus-extra-adv/plus-alignmnetddbf.css?ver=1782307963" id="theplus-plus-alignmnet-plus-extra-adv-css" />
 <link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/breadcrumbs-bar/plus-breadcrumbs-barddbf.css?ver=1782307963" id="theplus-plus-breadcrumbs-bar-breadcrumbs-bar-css" />
 <link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/breadcrumbs-bar/plus-bb-style1ddbf.css?ver=1782307963" id="theplus-plus-bb-style1-breadcrumbs-bar-css" />
 <link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/heading-title/plus-ht-styleddbf.css?ver=1782307963" id="theplus-plus-ht-style-heading-title-css" />
 <link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/heading-title/plus-ht-style-1ddbf.css?ver=1782307963" id="theplus-plus-ht-style-1-heading-title-css" />
-<link rel="stylesheet" href="/demo-6/assets/themes/hello-theme/assets/css/reset08cb.css?ver=3.4.9" id="hello-theme-css" />
-<link rel="stylesheet" href="/demo-6/assets/themes/hello-theme/assets/css/theme08cb.css?ver=3.4.9" id="hello-theme-theme-style-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-frontend.min8733.css?ver=1782232498" id="theme-frontend-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-widget-icon-list.min8733.css?ver=1782232498" id="widget-icon-list-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-social-icons.mineda1.css?ver=4.1.4" id="widget-social-icons-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-apple-webkit.min8733.css?ver=1782232498" id="e-apple-webkit-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-spacer.mineda1.css?ver=4.1.4" id="widget-spacer-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-heading.mineda1.css?ver=4.1.4" id="widget-heading-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-pro-widget-nav-menu.min39f2.css?ver=1782232499" id="widget-nav-menu-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/e-animation-float.mineda1.css?ver=4.1.4" id="e-animation-float-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme-pro/assets/css/widget-form.min8aee.css?ver=4.1.2" id="widget-form-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/eicons/css/theme-icons.min5c93.css?ver=5.50.0" id="theme-icons-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-739f2.css?ver=1782232499" id="theme-post-7-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/fadeIn.mineda1.css?ver=4.1.4" id="e-animation-fadeIn-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-widget-icon-box.min8733.css?ver=1782232498" id="widget-icon-box-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme-pro/assets/css/widget-lottie.min8aee.css?ver=4.1.2" id="widget-lottie-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/fadeInUp.mineda1.css?ver=4.1.4" id="e-animation-fadeInUp-css" />
 <link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-counter.mineda1.css?ver=4.1.4" id="widget-counter-css" />
 <link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-149ddbf.css?ver=1782307963" id="theme-post-149-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-2151c5.css?ver=1782232505" id="theme-post-21-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-17b4a7.css?ver=1782232507" id="theme-post-17-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/google-fonts/css/yuseimagicf5ee.css?ver=1742301991" id="theme-gf-local-yuseimagic-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/google-fonts/css/robotoflexfcb5.css?ver=1754412364" id="theme-gf-local-robotoflex-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3" id="theme-icons-shared-0-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3" id="theme-icons-fa-solid-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3" id="theme-icons-fa-brands-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3" id="theme-icons-fa-regular-css" />
       
       <style dangerouslySetInnerHTML={{ __html: `
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
@@ -160,8 +134,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <nav aria-label="Menu" class="theme-nav-menu--main theme-nav-menu__container theme-nav-menu--layout-horizontal e--pointer-none">
 <ul class="theme-nav-menu" id="menu-1-1f042073"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-238"><a class="theme-item theme-item-anchor" href="#">Homepages</a>
 <ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-224"><a class="theme-sub-item" href="../index.html">Home 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a class="theme-sub-item" href="/demo-6">Home 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-224"><a class="theme-sub-item" href="/demo-6">Home 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a class="theme-sub-item" href="../home-02/index.html">Home 02</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a class="theme-item theme-item-anchor" href="#">Pages</a>
@@ -175,7 +149,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-241"><a class="theme-item theme-item-anchor" href="#">Treatments</a>
 <ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-149 current_page_item menu-item-229"><a aria-current="page" class="theme-sub-item theme-item-active" href="index.html">Dental Appliances</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-149 current_page_item menu-item-229"><a aria-current="page" class="theme-sub-item theme-item-active" href="/demo-6">Dental Appliances</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a class="theme-sub-item" href="/demo-6/prosthetics">Prosthetics</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a class="theme-sub-item" href="/demo-6/root-canal-treatment">Root Canal Treatment</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a class="theme-sub-item" href="/demo-6/tooth-whitening">Tooth Whitening</a></li>
@@ -190,8 +164,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <nav aria-hidden="true" class="theme-nav-menu--dropdown theme-nav-menu__container">
 <ul class="theme-nav-menu" id="menu-2-1f042073"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-238"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Homepages</a>
 <ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-224"><a class="theme-sub-item" href="../index.html" tabindex="-1">Home 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a class="theme-sub-item" href="/demo-6" tabindex="-1">Home 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-224"><a class="theme-sub-item" href="/demo-6" tabindex="-1">Home 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a class="theme-sub-item" href="../home-02/index.html" tabindex="-1">Home 02</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Pages</a>
@@ -205,7 +179,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-241"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Treatments</a>
 <ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-149 current_page_item menu-item-229"><a aria-current="page" class="theme-sub-item theme-item-active" href="index.html" tabindex="-1">Dental Appliances</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-149 current_page_item menu-item-229"><a aria-current="page" class="theme-sub-item theme-item-active" href="/demo-6" tabindex="-1">Dental Appliances</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a class="theme-sub-item" href="/demo-6/prosthetics" tabindex="-1">Prosthetics</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a class="theme-sub-item" href="/demo-6/root-canal-treatment" tabindex="-1">Root Canal Treatment</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a class="theme-sub-item" href="/demo-6/tooth-whitening" tabindex="-1">Tooth Whitening</a></li>
@@ -246,7 +220,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 <div class="theme-element theme-element-017d913 text-center theme-widget theme-widget-tp-breadcrumbs-bar" data-e-type="widget" data-element_type="widget" data-id="017d913" data-widget_type="tp-breadcrumbs-bar.default">
 <div class="theme-widget-container">
-<div "="" class="pt_plus_breadcrumbs_bar" id="bread6a41e48abdc5d"><div class="pt_plus_breadcrumbs_bar_inner bred_style_1"><nav id="breadcrumbs"><span class="bc_home"><a class="home_bread_tab" href="../index.html"><i class="fa fa-bank bread-home-icon"></i>Home</a></span> <span class="del"></span> <span class="current on-off-current"><div class="current_tab_sec">Dental Appliances</div></span></nav></div></div> </div>
+<div "="" class="pt_plus_breadcrumbs_bar" id="bread6a41e48abdc5d"><div class="pt_plus_breadcrumbs_bar_inner bred_style_1"><nav id="breadcrumbs"><span class="bc_home"><a class="home_bread_tab" href="/demo-6"><i class="fa fa-bank bread-home-icon"></i>Home</a></span> <span class="del"></span> <span class="current on-off-current"><div class="current_tab_sec">Dental Appliances</div></span></nav></div></div> </div>
 </div>
 </div>
 </div>

@@ -16,7 +16,7 @@ os.makedirs(COMP_DIR, exist_ok=True)
 
 # List of allowed pages (excluding blog-related)
 PAGES = {
-    'home-02/index.html': '/demo-6',
+    'index.html': '/demo-6',
     'about-us/index.html': '/demo-6/about-us',
     'contact-us/index.html': '/demo-6/contact-us',
     'services/index.html': '/demo-6/services',
@@ -76,6 +76,8 @@ def clean_text(text):
     text = text.replace('url(../../wp-', 'url(/demo-6/assets/')
     text = text.replace('url(../wp-', 'url(/demo-6/assets/')
     text = text.replace('url(wp-', 'url(/demo-6/assets/')
+    
+    text = text.replace('elementor-invisible', '')
     
     # Remove wp-* classes safely
     text = re.sub(r'\bwp-\w+\b', '', text)
@@ -143,8 +145,8 @@ def process_assets():
 print("Processing assets...")
 process_assets()
 
-# Extract layout from home-02/index.html
-with open(os.path.join(SOURCE_DIR, 'home-02', 'index.html'), 'r', encoding='utf-8') as f:
+# Extract layout from index.html (home-01)
+with open(os.path.join(SOURCE_DIR, 'index.html'), 'r', encoding='utf-8') as f:
     soup = BeautifulSoup(f.read(), 'html.parser')
 
 css_links = []
@@ -198,6 +200,14 @@ for src_file, route in PAGES.items():
     
     for script in body.find_all('script'):
         script.decompose()
+        
+    # Remove elementor-invisible class to fix smooth loading/animations
+    for el in body.find_all(class_='elementor-invisible'):
+        el['class'].remove('elementor-invisible')
+        if 'elementor-invisible' in (el.get('className') or []):
+            el['className'].remove('elementor-invisible')
+            
+    # Also strip it from the body_html string later if any are missed
         
     # Remove Blog links
     for a in body.find_all('a'):

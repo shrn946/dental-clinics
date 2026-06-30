@@ -4,40 +4,8 @@ import Demo6Scripts from '@/components/demo-6/Demo6Scripts';
 
 export default function Page() {
   return (
-    <div className="page-template page-template-theme_header_footer page page-id-137 -responsive -hello-theme hello-theme-default theme-default theme-template-full-width theme-kit-7 theme-page theme-page-137">
-      <link rel="stylesheet" href="/demo-6/assets/plugins/template-kit-export/assets/public/template-kit-export-public982a.css?ver=1.0.23" id="template-kit-export-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.minff55.css?ver=1782268594" id="theplus-plus-extra-adv-plus-extra-adv-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/tabs-tours/plus-tabs-toursff55.css?ver=1782268594" id="theplus-plus-tabs-tours-tabs-tours-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/text-block/tp-text-blockff55.css?ver=1782268594" id="theplus-tp-text-block-text-block-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/the-plus-addons-for-theme-page-builder/assets/css/main/plus-extra-adv/plus-temp-noticeff55.css?ver=1782268594" id="theplus-plus-temp-notice-plus-extra-adv-css" />
-<link rel="stylesheet" href="/demo-6/assets/themes/hello-theme/assets/css/reset08cb.css?ver=3.4.9" id="hello-theme-css" />
-<link rel="stylesheet" href="/demo-6/assets/themes/hello-theme/assets/css/theme08cb.css?ver=3.4.9" id="hello-theme-theme-style-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-frontend.min8733.css?ver=1782232498" id="theme-frontend-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-spacer.mineda1.css?ver=4.1.4" id="widget-spacer-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-heading.mineda1.css?ver=4.1.4" id="widget-heading-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/widget-social-icons.mineda1.css?ver=4.1.4" id="widget-social-icons-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-apple-webkit.min8733.css?ver=1782232498" id="e-apple-webkit-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-widget-icon-list.min8733.css?ver=1782232498" id="widget-icon-list-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-pro-widget-nav-menu.min39f2.css?ver=1782232499" id="widget-nav-menu-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/custom-widget-icon-box.min8733.css?ver=1782232498" id="widget-icon-box-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/e-animation-bob.mineda1.css?ver=4.1.4" id="e-animation-bob-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/css/conditionals/shapes.mineda1.css?ver=4.1.4" id="e-shapes-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/eicons/css/theme-icons.min5c93.css?ver=5.50.0" id="theme-icons-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-739f2.css?ver=1782232499" id="theme-post-7-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/fadeIn.mineda1.css?ver=4.1.4" id="e-animation-fadeIn-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/fadeInUp.mineda1.css?ver=4.1.4" id="e-animation-fadeInUp-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/animations/styles/fadeInLeft.mineda1.css?ver=4.1.4" id="e-animation-fadeInLeft-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme-pro/assets/css/widget-lottie.min8aee.css?ver=4.1.2" id="widget-lottie-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme-pro/assets/css/widget-form.min8aee.css?ver=4.1.2" id="widget-form-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-137ff55.css?ver=1782268594" id="theme-post-137-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-19ff55.css?ver=1782268594" id="theme-post-19-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/css/post-1356a9.css?ver=1782268595" id="theme-post-13-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/google-fonts/css/yuseimagicf5ee.css?ver=1742301991" id="theme-gf-local-yuseimagic-css" />
-<link rel="stylesheet" href="/demo-6/assets/uploads/sites/19/theme/google-fonts/css/robotoflexfcb5.css?ver=1754412364" id="theme-gf-local-robotoflex-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3" id="theme-icons-shared-0-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3" id="theme-icons-fa-regular-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3" id="theme-icons-fa-brands-css" />
-<link rel="stylesheet" href="/demo-6/assets/plugins/theme/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3" id="theme-icons-fa-solid-css" />
+    <div className="home page-template page-template-theme_header_footer page page-id-135 -responsive -hello-theme hello-theme-default theme-default theme-template-full-width theme-kit-7 theme-page theme-page-135">
+      
       
       <style dangerouslySetInnerHTML={{ __html: `
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
@@ -84,62 +52,83 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			` }} />
       <div dangerouslySetInnerHTML={{ __html: `
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-<header class="theme theme-19 theme-location-header" data-theme-id="19" data-theme-post-type="theme_library" data-theme-type="header">
-<div class="theme-element theme-element-6609e58 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="6609e58">
+<header class="theme theme-21 theme-location-header" data-theme-id="21" data-theme-post-type="theme_library" data-theme-type="header">
+<div class="theme-element theme-element-1a28cd14 theme-hidden-mobile e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="1a28cd14" data-settings='{"background_background":"classic"}'>
 <div class="e-con-inner">
-<div class="theme-element theme-element-76c3c840 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="76c3c840">
-<div class="theme-element theme-element-23aae0ae theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="23aae0ae" data-widget_type="spacer.default">
+<div class="theme-element theme-element-4de4a71a e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="4de4a71a">
+<div class="theme-element theme-element-7845466b theme-icon-list--layout-inline theme-align-start theme-tablet-align-start theme-widget__width-auto theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="7845466b" data-widget_type="icon-list.default">
+<div class="theme-widget-container">
+<ul class="theme-icon-list-items theme-inline-items">
+<li class="theme-icon-list-item theme-inline-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-map-marker-alt"></i> </span>
+<span class="theme-icon-list-text">4924 Buck Drive South Burlington, VT 05403</span>
+</li>
+<li class="theme-icon-list-item theme-inline-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-envelope"></i> </span>
+<span class="theme-icon-list-text">email@domain.com</span>
+</li>
+<li class="theme-icon-list-item theme-inline-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-phone"></i> </span>
+<span class="theme-icon-list-text">+(123) 4567 8900</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="theme-element theme-element-5c1a40e4 e-grid-align-left theme-shape-circle theme-widget__width-auto theme-grid-0 theme-widget theme-widget-social-icons" data-e-type="widget" data-element_type="widget" data-id="5c1a40e4" data-widget_type="social-icons.default">
+<div class="theme-widget-container">
+<div class="theme-social-icons-wrapper theme-grid" role="list">
+<span class="theme-grid-item" role="listitem">
+<a class="theme-icon theme-social-icon theme-social-icon-facebook-f theme-repeater-item-320e991" href="#" target="_blank">
+<span class="theme-screen-only">Facebook-f</span>
+<i aria-hidden="true" class="fab fa-facebook-f"></i> </a>
+</span>
+<span class="theme-grid-item" role="listitem">
+<a class="theme-icon theme-social-icon theme-social-icon-twitter theme-repeater-item-1491259" href="#" target="_blank">
+<span class="theme-screen-only">Twitter</span>
+<i aria-hidden="true" class="fab fa-twitter"></i> </a>
+</span>
+<span class="theme-grid-item" role="listitem">
+<a class="theme-icon theme-social-icon theme-social-icon-github theme-repeater-item-8206083" href="#" target="_blank">
+<span class="theme-screen-only">Github</span>
+<i aria-hidden="true" class="fab fa-github"></i> </a>
+</span>
+<span class="theme-grid-item" role="listitem">
+<a class="theme-icon theme-social-icon theme-social-icon-bitbucket theme-repeater-item-dccfaf9" href="#" target="_blank">
+<span class="theme-screen-only">Bitbucket</span>
+<i aria-hidden="true" class="fab fa-bitbucket"></i> </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-1caf13f1 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="1caf13f1">
+<div class="e-con-inner">
+<div class="theme-element theme-element-1ec5ee e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="1ec5ee">
+<div class="theme-element theme-element-2470b06 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="2470b06" data-widget_type="spacer.default">
 <div class="theme-widget-container">
 <div class="theme-spacer">
 <div class="theme-spacer-inner"></div>
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-68544bfe theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="68544bfe" data-widget_type="heading.default">
+<div class="theme-element theme-element-237a702 theme-widget__width-auto theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="237a702" data-widget_type="heading.default">
 <div class="theme-widget-container">
 <div class="theme-heading-title theme-size-default"><a href="https://templateup.site/dental">Dental</a></div> </div>
 </div>
 </div>
-<div class="theme-element theme-element-58d07de4 e-con-full e-transform e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="58d07de4" data-settings='{"_transform_translateX_effect_tablet":{"unit":"px","size":10,"sizes":[]},"_transform_translateX_effect":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}'>
-<div class="theme-element theme-element-314592f7 theme-shape-circle e-grid-align-mobile-right e-grid-align-right theme-hidden-mobile theme-grid-0 theme-widget theme-widget-social-icons" data-e-type="widget" data-element_type="widget" data-id="314592f7" data-widget_type="social-icons.default">
+<div class="theme-element theme-element-79c3dbf6 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="79c3dbf6">
+<div class="theme-element theme-element-1f042073 theme-nav-menu--stretch theme-widget__width-auto theme-nav-menu__align-end theme-nav-menu--dropdown-tablet_extra theme-nav-menu__text-align-aside theme-nav-menu--toggle theme-nav-menu--burger theme-widget theme-widget-nav-menu" data-e-type="widget" data-element_type="widget" data-id="1f042073" data-settings='{"full_width":"stretch","layout":"horizontal","submenu_icon":{"value":"&lt;i class=\"fas fa-caret-down\" aria-hidden=\"true\"&gt;&lt;\/i&gt;","library":"fa-solid"},"toggle":"burger"}' data-widget_type="nav-menu.default">
 <div class="theme-widget-container">
-<div class="theme-social-icons-wrapper theme-grid" role="list">
-<span class="theme-grid-item" role="listitem">
-<a class="theme-icon theme-social-icon theme-social-icon-facebook theme-repeater-item-c362609" target="_blank">
-<span class="theme-screen-only">Facebook</span>
-<i aria-hidden="true" class="fab fa-facebook"></i> </a>
-</span>
-<span class="theme-grid-item" role="listitem">
-<a class="theme-icon theme-social-icon theme-social-icon-twitter theme-repeater-item-c79bda2" target="_blank">
-<span class="theme-screen-only">Twitter</span>
-<i aria-hidden="true" class="fab fa-twitter"></i> </a>
-</span>
-<span class="theme-grid-item" role="listitem">
-<a class="theme-icon theme-social-icon theme-social-icon-youtube theme-repeater-item-e9283a1" target="_blank">
-<span class="theme-screen-only">Youtube</span>
-<i aria-hidden="true" class="fab fa-youtube"></i> </a>
-</span>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-10333700 theme-align-start theme-tablet-align-end theme-hidden-tablet_extra theme-hidden-mobile theme-icon-list--layout-traditional theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="10333700" data-widget_type="icon-list.default">
-<div class="theme-widget-container">
-<ul class="theme-icon-list-items">
-<li class="theme-icon-list-item">
-<span class="theme-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-volume"></i> </span>
-<span class="theme-icon-list-text">956-733-7384</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="theme-element theme-element-34a2c758 theme-nav-menu__align-justify theme-nav-menu--stretch theme-nav-menu--dropdown-tablet theme-nav-menu__text-align-aside theme-nav-menu--toggle theme-nav-menu--burger theme-widget theme-widget-nav-menu" data-e-type="widget" data-element_type="widget" data-id="34a2c758" data-settings='{"full_width":"stretch","layout":"horizontal","submenu_icon":{"value":"&lt;i class=\"fas fa-caret-down\" aria-hidden=\"true\"&gt;&lt;\/i&gt;","library":"fa-solid"},"toggle":"burger"}' data-widget_type="nav-menu.default">
-<div class="theme-widget-container">
-<nav aria-label="Menu" class="theme-nav-menu--main theme-nav-menu__container theme-nav-menu--layout-horizontal e--pointer-background e--animation-sweep-left">
-<ul class="theme-nav-menu" id="menu-1-34a2c758"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-238"><a class="theme-item theme-item-anchor" href="#">Homepages</a>
+<nav aria-label="Menu" class="theme-nav-menu--main theme-nav-menu__container theme-nav-menu--layout-horizontal e--pointer-none">
+<ul class="theme-nav-menu" id="menu-1-1f042073"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-238"><a class="theme-item theme-item-anchor" href="#">Homepages</a>
 <ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-224"><a class="theme-sub-item" href="../index.html">Home 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-137 current_page_item menu-item-230"><a aria-current="page" class="theme-sub-item theme-item-active" href="index.html">Home 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-135 current_page_item menu-item-224"><a aria-current="page" class="theme-sub-item theme-item-active" href="/demo-6">Home 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a class="theme-sub-item" href="home-02/index.html">Home 02</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a class="theme-item theme-item-anchor" href="#">Pages</a>
@@ -148,7 +137,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a class="theme-sub-item" href="/demo-6/services">Services</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a class="theme-sub-item" href="/demo-6/pricing-plan-01">Pricing Plan 01</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a class="theme-sub-item" href="/demo-6/pricing-plan-02">Pricing Plan 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a class="theme-sub-item" href="../404-not-found/index.html">404</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a class="theme-sub-item" href="404-not-found/index.html">404</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-241"><a class="theme-item theme-item-anchor" href="#">Treatments</a>
@@ -166,10 +155,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div aria-expanded="false" aria-label="Menu Toggle" class="theme-menu-toggle" role="button" tabindex="0">
 <i aria-hidden="true" class="theme-menu-toggle__icon--open eicon-menu-bar" role="presentation"></i><i aria-hidden="true" class="theme-menu-toggle__icon--close eicon-close" role="presentation"></i> </div>
 <nav aria-hidden="true" class="theme-nav-menu--dropdown theme-nav-menu__container">
-<ul class="theme-nav-menu" id="menu-2-34a2c758"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-238"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Homepages</a>
+<ul class="theme-nav-menu" id="menu-2-1f042073"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-238"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Homepages</a>
 <ul class="sub-menu theme-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-224"><a class="theme-sub-item" href="../index.html" tabindex="-1">Home 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-137 current_page_item menu-item-230"><a aria-current="page" class="theme-sub-item theme-item-active" href="index.html" tabindex="-1">Home 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-135 current_page_item menu-item-224"><a aria-current="page" class="theme-sub-item theme-item-active" href="/demo-6" tabindex="-1">Home 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a class="theme-sub-item" href="home-02/index.html" tabindex="-1">Home 02</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Pages</a>
@@ -178,7 +167,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a class="theme-sub-item" href="/demo-6/services" tabindex="-1">Services</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a class="theme-sub-item" href="/demo-6/pricing-plan-01" tabindex="-1">Pricing Plan 01</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a class="theme-sub-item" href="/demo-6/pricing-plan-02" tabindex="-1">Pricing Plan 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a class="theme-sub-item" href="../404-not-found/index.html" tabindex="-1">404</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a class="theme-sub-item" href="404-not-found/index.html" tabindex="-1">404</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-241"><a class="theme-item theme-item-anchor" href="#" tabindex="-1">Treatments</a>
@@ -195,122 +184,543 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </ul> </nav>
 </div>
 </div>
-</div>
-</div>
-</div>
-</header>
-<div class="theme theme-137" data-theme-id="137" data-theme-post-type="page" data-theme-type="">
-<div class="theme-element theme-element-56fbc888 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="56fbc888" data-settings='{"background_background":"classic"}'>
-<div class="e-con-inner">
-<div class="theme-element theme-element-3610bf89 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="3610bf89">
-<div class="theme-element theme-element-d740fc1 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="d740fc1">
-<div class="theme-element theme-element-386b32bb theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="386b32bb" data-settings='{"_animation":"fadeIn","_animation_delay":100}' data-widget_type="heading.default">
-<div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">Have a perfect smile</div> </div>
-</div>
-<div class="theme-element theme-element-7eec471d theme-invisible theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="7eec471d" data-settings='{"_animation":"fadeInUp","_animation_delay":200}' data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h1 class="theme-icon-box-title">
-<span>
-							Orthodontics healthy aligned smile						</span>
-</h1>
-<p class="theme-icon-box-description">
-						Orthodontic treatment can address issues such as crookedness, uneven spacing, and misaligned bites, and ultimately result in a healthier and more confident smile.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-4de9f7de theme-align-left theme-invisible theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="4de9f7de" data-settings='{"_animation":"fadeInLeft","_animation_delay":300}' data-widget_type="button.default">
+<div class="theme-element theme-element-3b86e027 theme-align-left theme-hidden-mobile theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="3b86e027" data-widget_type="button.default">
 <div class="theme-widget-container">
 <div class="theme-button-wrapper">
-<a class="theme-button theme-button-link theme-size-lg" href="#">
+<a class="theme-button theme-button-link theme-size-sm theme-animation-float" href="#theme-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjExOCIsInRvZ2dsZSI6ZmFsc2V9">
 <span class="theme-button-content-wrapper">
-<span class="theme-button-text">Read more</span>
+<span class="theme-button-text">schedule a visit</span>
 </span>
 </a>
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-77e51ad3 theme-absolute theme-align-right e-transform theme-widget theme-widget-lottie" data-e-type="widget" data-element_type="widget" data-id="77e51ad3" data-settings='{"source":"external_url","source_external_url":{"url":"https:\/\/lottie.host\/793582e7-8f89-4f96-805f-a91c1ee2468f\/an54Hv8ILa.json","is_external":"","nofollow":"","custom_attributes":""},"loop":"yes","play_speed":{"unit":"px","size":0.5,"sizes":[]},"_position":"absolute","_transform_translateX_effect":{"unit":"px","size":185,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":0,"sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":-60,"sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":-30,"sizes":[]},"link_to":"none","trigger":"arriving_to_viewport","viewport":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"start_point":{"unit":"%","size":0,"sizes":[]},"end_point":{"unit":"%","size":100,"sizes":[]},"renderer":"svg","_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="lottie.default">
+</div>
+</div>
+</div>
+</header>
+<div class="theme theme-135" data-theme-id="135" data-theme-post-type="page" data-theme-type="">
+<div class="theme-element theme-element-4fc630d8 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="4fc630d8" data-settings='{"background_background":"gradient"}'>
+<div class="e-con-inner">
+<div class="theme-element theme-element-57dfe8ad e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="57dfe8ad">
+<div class="theme-element theme-element-51041659 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="51041659">
+<div class="theme-element theme-element-6bf4116c theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="6bf4116c" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">Your perfect smile</div> </div>
+</div>
+<div class="theme-element theme-element-70a9cea1 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="70a9cea1" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h1 class="theme-icon-box-title">
+<span>
+							We improve dental health &amp; enhance smiles						</span>
+</h1>
+<p class="theme-icon-box-description">
+						You can trust in our expertise to provide exceptional dental care that is tailored to your unique needs and goals.					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-4ee13205 theme-align-left theme-mobile-align-justify theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="4ee13205" data-widget_type="button.default">
+<div class="theme-widget-container">
+<div class="theme-button-wrapper">
+<a class="theme-button theme-button-link theme-size-sm" href="#">
+<span class="theme-button-content-wrapper">
+<span class="theme-button-text">Learn more</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-34570f76 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="34570f76">
+<div class="theme-element theme-element-28efe425 theme-widget__width-initial theme-absolute theme-align-right e-transform theme-hidden-mobile theme-invisible theme-widget theme-widget-lottie" data-e-type="widget" data-element_type="widget" data-id="28efe425" data-settings='{"source":"external_url","source_external_url":{"url":"https:\/\/lottie.host\/793582e7-8f89-4f96-805f-a91c1ee2468f\/an54Hv8ILa.json","is_external":"","nofollow":"","custom_attributes":""},"loop":"yes","play_speed":{"unit":"px","size":0.5,"sizes":[]},"_position":"absolute","_transform_translateX_effect":{"unit":"px","size":-40,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":-40,"sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":-15,"sizes":[]},"_animation":"zoomIn","_animation_delay":300,"link_to":"none","trigger":"arriving_to_viewport","viewport":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"start_point":{"unit":"%","size":0,"sizes":[]},"end_point":{"unit":"%","size":100,"sizes":[]},"renderer":"svg","_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="lottie.default">
 <div class="theme-widget-container">
 <div class="e-lottie__container"><div class="e-lottie__animation"></div></div> </div>
 </div>
-</div>
-<div class="theme-element theme-element-71cd8958 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="71cd8958" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-5dfb4154 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="5dfb4154">
-<div class="theme-element theme-element-c512fe2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="c512fe2">
-<div class="theme-element theme-element-17d8b73 theme-view-stacked theme-widget__width-auto theme-shape-circle theme-widget theme-widget-icon" data-e-type="widget" data-element_type="widget" data-id="17d8b73" data-widget_type="icon.default">
+<div class="theme-element theme-element-32351bce theme-widget__width-initial theme-absolute e-transform theme-invisible theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="32351bce" data-settings='{"_position":"absolute","_transform_translateX_effect":{"unit":"px","size":-130,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":100,"sizes":[]},"_animation":"fadeIn","_animation_delay":400,"_transform_translateX_effect_mobile":{"unit":"px","size":0,"sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":0,"sizes":[]},"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]}}' data-widget_type="spacer.default">
 <div class="theme-widget-container">
-<div class="theme-icon-wrapper">
-<div class="theme-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </div>
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-25900f02 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="25900f02" data-widget_type="heading.default">
+<div class="theme-element theme-element-a47f61b theme-widget__width-initial theme-absolute e-transform theme-invisible theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="a47f61b" data-settings='{"_position":"absolute","_transform_translateX_effect":{"unit":"px","size":0,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":170,"sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":-20,"sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":160,"sizes":[]},"_animation":"zoomIn","_animation_delay":300,"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]}}' data-widget_type="spacer.default">
 <div class="theme-widget-container">
-<h2 class="theme-heading-title theme-size-default">Request schedule</h2> </div>
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
 </div>
 </div>
-<div class="theme-element theme-element-b47be52 theme-widget__width-inherit theme-widget theme-widget-tp-adv-text-block" data-e-type="widget" data-element_type="widget" data-id="b47be52" data-widget_type="tp-adv-text-block.default">
+</div>
+<div class="theme-element theme-element-4a3a0c1e theme-widget__width-initial theme-absolute e-transform theme-invisible theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="4a3a0c1e" data-settings='{"_position":"absolute","_transform_translateX_effect":{"unit":"px","size":-15,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":80,"sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":-100,"sizes":[]},"_animation":"rotateInUpRight","_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="spacer.default">
 <div class="theme-widget-container">
-<div class="pt-plus-text-block-wrapper" data-tp-gsap-textblock=""><div class="text_block_parallax"><div class="pt_plus_adv_text_block"><div class="text-content-block">Fill out the form below to schedule a visit with us.</div></div></div></div> </div>
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
 </div>
 </div>
-<div class="theme-element theme-element-19ae9b19 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="19ae9b19">
-<div class="theme-element theme-element-345c8baa theme-button-align-start theme-mobile-button-align-stretch theme-tablet-button-align-stretch theme-widget theme-widget-form" data-e-type="widget" data-element_type="widget" data-id="345c8baa" data-settings='{"step_next_label":"Next","step_previous_label":"Previous","button_width":"100","step_type":"number_text","step_icon_shape":"circle"}' data-widget_type="form.default">
+</div>
+<div class="theme-element theme-element-4d0fb49c theme-widget__width-inherit theme-absolute e-transform theme-invisible theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="4d0fb49c" data-settings='{"_transform_translateX_effect_mobile":{"unit":"%","size":"","sizes":[]},"_animation":"zoomIn","_animation_delay":400,"_position":"absolute","_transform_translateX_effect":{"unit":"px","size":0,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":-60,"sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":-40,"sizes":[]},"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="spacer.default">
 <div class="theme-widget-container">
-<form aria-label="Dental - Schedule Home 02" class="theme-form" method="post" name="Dental - Schedule Home 02">
-<input name="post_id" type="hidden" value="137"/>
-<input name="form_id" type="hidden" value="345c8baa"/>
-<input name="referer_title" type="hidden" value="Home 02"/>
-<input name="queried_id" type="hidden" value="137"/>
-<div class="theme-form-fields-wrapper theme-labels-above">
-<div class="theme-field-type-text theme-field-group theme-column theme-field-group-name theme-col-50 theme-md-100">
-<label class="theme-field-label" for="form-field-name">
-								Your Name							</label>
-<input class="theme-field theme-size-md theme-field-textual" id="form-field-name" name="form_fields[name]" placeholder="Your Name" size="1" type="text"/>
-</div>
-<div class="theme-field-type-email theme-field-group theme-column theme-field-group-email theme-col-50 theme-md-100">
-<label class="theme-field-label" for="form-field-email">
-								Your Email							</label>
-<input class="theme-field theme-size-md theme-field-textual" id="form-field-email" name="form_fields[email]" placeholder="Your Email" size="1" type="email"/>
-</div>
-<div class="theme-field-type-select theme-field-group theme-column theme-field-group-field_6c26da0 theme-col-33 theme-md-100">
-<label class="theme-field-label" for="form-field-field_6c26da0">
-								Service							</label>
-<div class="theme-field theme-select-wrapper remove-before">
-<div class="select-caret-down-wrapper">
-<i aria-hidden="true" class="eicon-caret-down"></i> </div>
-<select class="theme-field-textual theme-size-md" id="form-field-field_6c26da0" name="form_fields[field_6c26da0]">
-<option value="Whitening">Whitening</option>
-<option value="Extraction">Extraction</option>
-<option value="Restoration">Restoration</option>
-<option value="Device">Device</option>
-<option value="Prosthesis">Prosthesis</option>
-</select>
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
 </div>
 </div>
-<div class="theme-field-type-text theme-field-group theme-column theme-field-group-field_557e691 theme-col-33 theme-md-50">
-<label class="theme-field-label" for="form-field-field_557e691">
-								Date							</label>
-<input class="theme-field theme-size-md theme-field-textual" id="form-field-field_557e691" name="form_fields[field_557e691]" placeholder="Date" size="1" type="text"/>
 </div>
-<div class="theme-field-type-time theme-field-group theme-column theme-field-group-field_39edce0 theme-col-33 theme-md-50">
-<label class="theme-field-label" for="form-field-field_39edce0">
-								Hours							</label>
-<input class="theme-field theme-size-md theme-field-textual theme-time-field theme-use-native" id="form-field-field_39edce0" name="form_fields[field_39edce0]" type="time"/>
+<div class="theme-element theme-element-5a7137bc e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="5a7137bc" data-settings='{"background_background":"classic"}'>
 </div>
-<div class="theme-field-group theme-column theme-field-type-submit theme-col-100 e-form__buttons">
-<button class="theme-button theme-size-md" type="submit">
+</div>
+</div>
+<div class="theme-element theme-element-16be4033 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="16be4033">
+<div class="theme-element theme-element-55e10fa7 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="55e10fa7" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-39bb34f7 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="39bb34f7" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<h2 class="theme-heading-title theme-size-default">Get to know some treatments</h2> </div>
+</div>
+</div>
+<div class="theme-element theme-element-74cd9842 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="74cd9842" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-64d44d4b theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="64d44d4b" data-widget_type="spacer.default">
+<div class="theme-widget-container">
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-6a0bd846 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="6a0bd846" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Prosthetics						</span>
+</h3>
+<p class="theme-icon-box-description">
+						Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-66cfd101 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="66cfd101" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-4f73923c theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="4f73923c" data-widget_type="spacer.default">
+<div class="theme-widget-container">
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-7df91950 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="7df91950" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Whitening						</span>
+</h3>
+<p class="theme-icon-box-description">
+						Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-4e26eb91 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="4e26eb91" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-446e2200 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="446e2200" data-widget_type="spacer.default">
+<div class="theme-widget-container">
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-73076ea8 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="73076ea8" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Periodontics						</span>
+</h3>
+<p class="theme-icon-box-description">
+						Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-62948e4e e-con-full e-flex e-con e-parent" data-e-type="container" data-element_type="container" data-id="62948e4e">
+<div class="theme-element theme-element-549181f e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="549181f" data-settings='{"background_background":"classic","animation":"fadeInLeft"}'>
+</div>
+<div class="theme-element theme-element-5cd64b78 e-flex e-con-boxed e-con e-child" data-e-type="container" data-element_type="container" data-id="5cd64b78">
+<div class="e-con-inner">
+<div class="theme-element theme-element-4ff824bc theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="4ff824bc" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">Why smile</div> </div>
+</div>
+<div class="theme-element theme-element-41f899c theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="41f899c" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h2 class="theme-icon-box-title">
+<span>
+							Keeping teeth healthy and achieving a beautiful smile						</span>
+</h2>
+<p class="theme-icon-box-description">
+						At augue eget arcu dictum varius duis at. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Faucibus purus in massa tempor. Sollicitudin tempor id eu nisl nunc. Tristique senectus et netus et malesuada fames ac turpis.					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-23801f0 theme-widget theme-widget-tp-adv-text-block" data-e-type="widget" data-element_type="widget" data-id="23801f0" data-widget_type="tp-adv-text-block.default">
+<div class="theme-widget-container">
+<div class="pt-plus-text-block-wrapper" data-tp-gsap-textblock=""><div class="text_block_parallax"><div class="pt_plus_adv_text_block"><div class="text-content-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div></div></div></div> </div>
+</div>
+<div class="theme-element theme-element-35df373 theme-widget theme-widget-tp-progress-bar" data-e-type="widget" data-element_type="widget" data-id="35df373" data-widget_type="tp-progress-bar.default">
+<div class="theme-widget-container">
+
+<div class="progress_bar pt-plus-peicharts progress-skill-bar progress_bar6a40f74c3a243 progress_bar-progressbar" data-empty="#8072fc" data-uid="progress_bar6a40f74c3a243"><div class="progress_bar-media"><div class="prog-title prog-icon"><span class="progres-ims"><i class="fa fa-bank"></i></span><span class="progress_bar-title"> Quality in health care </span></div><h5 class="counter-number"><span class="theserivce-milestone-number icon-milestone" data-counterup-nums="85">85</span><span class="theserivce-milestone-symbol">%</span></h5></div><div class="progress_bar-skill skill-fill medium"><div class="progress_bar-skill-bar-filled" data-width="85%"> </div></div></div> </div>
+</div>
+<div class="theme-element theme-element-d2d74be theme-widget theme-widget-tp-progress-bar" data-e-type="widget" data-element_type="widget" data-id="d2d74be" data-widget_type="tp-progress-bar.default">
+<div class="theme-widget-container">
+
+<div class="progress_bar pt-plus-peicharts progress-skill-bar progress_bar6a40f74c3b53d progress_bar-progressbar" data-empty="#8072fc" data-uid="progress_bar6a40f74c3b53d"><div class="progress_bar-media"><div class="prog-title prog-icon"><span class="progres-ims"><i class="fa fa-bank"></i></span><span class="progress_bar-title"> Access guarantee </span></div><h5 class="counter-number"><span class="theserivce-milestone-number icon-milestone" data-counterup-nums="75">75</span><span class="theserivce-milestone-symbol">%</span></h5></div><div class="progress_bar-skill skill-fill medium"><div class="progress_bar-skill-bar-filled" data-width="75%"> </div></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-26c4462a e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="26c4462a">
+<div class="e-con-inner">
+<div class="theme-element theme-element-6fce2792 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="6fce2792">
+<div class="theme-element theme-element-87e5407 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="87e5407">
+<div class="theme-element theme-element-1460bd8e e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="1460bd8e" data-settings='{"background_background":"classic","animation":"fadeInUp"}'>
+<div class="theme-element theme-element-1d329565 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="1d329565" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h2 class="theme-icon-box-title">
+<span>
+							Tooth whitening						</span>
+</h2>
+<p class="theme-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-399c9044 theme-align-justify theme-mobile-align-justify theme-tablet-align-left theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="399c9044" data-widget_type="button.default">
+<div class="theme-widget-container">
+<div class="theme-button-wrapper">
+<a class="theme-button theme-button-link theme-size-sm theme-animation-float" href="#">
 <span class="theme-button-content-wrapper">
-<span class="theme-button-text">Schedule</span>
+<span class="theme-button-text">Learn more</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-51199de2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="51199de2" data-settings='{"background_background":"classic"}'>
+</div>
+<div class="theme-element theme-element-140dec0a e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="140dec0a" data-settings='{"background_background":"classic","animation":"fadeInUp","animation_delay":100}'>
+<div class="theme-element theme-element-380803eb theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="380803eb" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Contact lenses &amp; porcelain veneers						</span>
+</h3>
+<p class="theme-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-26a1764 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="26a1764" data-settings='{"background_background":"classic"}'>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-426035f9 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="426035f9" data-settings='{"background_background":"gradient"}'>
+<div class="e-con-inner">
+<div class="theme-element theme-element-7f12e64b e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7f12e64b">
+<div class="theme-element theme-element-7a2addae e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7a2addae">
+<div class="theme-element theme-element-1e30b0e5 theme-widget__width-initial theme-invisible theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="1e30b0e5" data-settings='{"_animation":"fadeIn"}' data-widget_type="spacer.default">
+<div class="theme-widget-container">
+<div class="theme-spacer">
+<div class="theme-spacer-inner"></div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-4297d36e theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="4297d36e" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">Choose the plan</div> </div>
+</div>
+<div class="theme-element theme-element-c4c3082 theme-invisible theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="c4c3082" data-settings='{"_animation":"fadeInUp","_animation_delay":200}' data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h2 class="theme-icon-box-title">
+<span>
+							Choose the right plan for you						</span>
+</h2>
+<p class="theme-icon-box-description">
+						Explore the benefits of affordable expert access with our packages.					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-7ba6f63b theme-widget__width-initial theme-absolute theme-align-right theme-widget-mobile__width-initial theme-widget theme-widget-lottie" data-e-type="widget" data-element_type="widget" data-id="7ba6f63b" data-settings='{"source":"external_url","source_external_url":{"url":"https:\/\/lottie.host\/793582e7-8f89-4f96-805f-a91c1ee2468f\/an54Hv8ILa.json","is_external":"","nofollow":"","custom_attributes":""},"loop":"yes","play_speed":{"unit":"px","size":0.5,"sizes":[]},"_position":"absolute","link_to":"none","trigger":"arriving_to_viewport","viewport":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"start_point":{"unit":"%","size":0,"sizes":[]},"end_point":{"unit":"%","size":100,"sizes":[]},"renderer":"svg"}' data-widget_type="lottie.default">
+<div class="theme-widget-container">
+<div class="e-lottie__container"><div class="e-lottie__animation"></div></div> </div>
+</div>
+<div class="theme-element theme-element-a2e7918 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="a2e7918">
+<div class="theme-element theme-element-4c80ac53 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="4c80ac53" data-settings='{"background_background":"classic","animation":"fadeInLeft","animation_delay":300}'>
+<div class="theme-element theme-element-32602a3d theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="32602a3d" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">\$</div> </div>
+</div>
+<div class="theme-element theme-element-3cd51606 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="3cd51606" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">99</div> </div>
+</div>
+<div class="theme-element theme-element-98d2a98 theme-widget__width-inherit theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="98d2a98" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Monthly package						</span>
+</h3>
+<p class="theme-icon-box-description">
+						Started package					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-4ab09e59 theme-align-center theme-widget__width-inherit theme-icon-list--layout-traditional theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="4ab09e59" data-widget_type="icon-list.default">
+<div class="theme-widget-container">
+<ul class="theme-icon-list-items">
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">consultations </span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">root canal treatment </span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">wisdom tooth extraction</span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-times"></i> </span>
+<span class="theme-icon-list-text">restoration  </span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-times"></i> </span>
+<span class="theme-icon-list-text">cleaning</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="theme-element theme-element-799e9628 theme-align-center theme-mobile-align-justify theme-widget theme-widget-paypal-button" data-e-type="widget" data-element_type="widget" data-id="799e9628" data-settings='{"merchant_account":"simple"}' data-widget_type="paypal-button.default">
+<div class="theme-widget-container">
+<div class="theme-button-wrapper">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input name="cmd" type="hidden" value="_xclick-subscriptions"/>
+<input name="business" type="hidden" value="email@nodomain.com"/>
+<input name="lc" type="hidden" value="US"/>
+<input name="item_name" type="hidden" value="\$99 Package"/>
+<input name="item_number" type="hidden" value=""/>
+<input name="currency_code" type="hidden" value="USD"/>
+<input name="a3" type="hidden" value="0.00"/>
+<input name="no_note" type="hidden" value="1"/>
+<input name="src" type="hidden" value="1"/>
+<input name="p3" type="hidden" value="1"/>
+<input name="t3" type="hidden" value="M"/>
+<input name="no-shipping" type="hidden" value="1"/>
+<button class="theme-button theme-size-sm theme-paypal-legacy theme-payment-button" role="button" type="submit">
+<span class="theme-button-content-wrapper">
+<span class="theme-button-icon">
+<i aria-hidden="true" class="fab fa-paypal"></i> </span>
+<span class="theme-button-text">Get started</span>
 </span>
 </button>
+</form>
 </div>
 </div>
+</div>
+</div>
+<div class="theme-element theme-element-6d639874 e-con-full e-transform e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="6d639874" data-settings='{"background_background":"gradient","animation":"zoomIn","animation_delay":400,"_transform_scale_effect":{"unit":"px","size":1.1,"sizes":[]},"_transform_scale_effect_mobile_extra":{"unit":"px","size":1,"sizes":[]},"_transform_scale_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_scale_effect_mobile":{"unit":"px","size":"","sizes":[]}}'>
+<div class="theme-element theme-element-67c312dc theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="67c312dc" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">\$</div> </div>
+</div>
+<div class="theme-element theme-element-746c1633 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="746c1633" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">129</div> </div>
+</div>
+<div class="theme-element theme-element-2744847d theme-widget__width-inherit theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="2744847d" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Monthly package						</span>
+</h3>
+<p class="theme-icon-box-description">
+						Medium package					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-51e4b5db theme-align-center theme-widget__width-inherit theme-icon-list--layout-traditional theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="51e4b5db" data-widget_type="icon-list.default">
+<div class="theme-widget-container">
+<ul class="theme-icon-list-items">
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">consultations </span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">root canal treatment</span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">wisdom tooth extraction</span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-times"></i> </span>
+<span class="theme-icon-list-text">restoration  </span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-times"></i> </span>
+<span class="theme-icon-list-text">cleaning</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="theme-element theme-element-5b32bf8b theme-align-center theme-mobile-align-justify theme-widget theme-widget-paypal-button" data-e-type="widget" data-element_type="widget" data-id="5b32bf8b" data-settings='{"merchant_account":"simple"}' data-widget_type="paypal-button.default">
+<div class="theme-widget-container">
+<div class="theme-button-wrapper">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input name="cmd" type="hidden" value="_xclick-subscriptions"/>
+<input name="business" type="hidden" value="email@nodomain.com"/>
+<input name="lc" type="hidden" value="US"/>
+<input name="item_name" type="hidden" value="\$99 Package"/>
+<input name="item_number" type="hidden" value=""/>
+<input name="currency_code" type="hidden" value="USD"/>
+<input name="a3" type="hidden" value="0.00"/>
+<input name="no_note" type="hidden" value="1"/>
+<input name="src" type="hidden" value="1"/>
+<input name="p3" type="hidden" value="1"/>
+<input name="t3" type="hidden" value="M"/>
+<input name="no-shipping" type="hidden" value="1"/>
+<button class="theme-button theme-size-sm theme-paypal-legacy theme-payment-button" role="button" type="submit">
+<span class="theme-button-content-wrapper">
+<span class="theme-button-icon">
+<i aria-hidden="true" class="fab fa-paypal"></i> </span>
+<span class="theme-button-text">Get started</span>
+</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-170a6f25 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="170a6f25" data-settings='{"background_background":"classic","animation":"fadeInRight","animation_delay":500}'>
+<div class="theme-element theme-element-390bc18e theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="390bc18e" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">\$</div> </div>
+</div>
+<div class="theme-element theme-element-4c79a583 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="4c79a583" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">189</div> </div>
+</div>
+<div class="theme-element theme-element-7d76be88 theme-widget__width-inherit theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="7d76be88" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Monthly package						</span>
+</h3>
+<p class="theme-icon-box-description">
+						Vip package					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-3e046622 theme-align-center theme-mobile-align-center theme-widget__width-inherit theme-icon-list--layout-traditional theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="3e046622" data-widget_type="icon-list.default">
+<div class="theme-widget-container">
+<ul class="theme-icon-list-items">
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">consultations </span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">root canal treatment </span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="theme-icon-list-text">wisdom tooth extraction</span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-times"></i> </span>
+<span class="theme-icon-list-text">restoration</span>
+</li>
+<li class="theme-icon-list-item">
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-times"></i> </span>
+<span class="theme-icon-list-text">cleaning</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="theme-element theme-element-3fd1a3a0 theme-align-center theme-widget theme-widget-paypal-button" data-e-type="widget" data-element_type="widget" data-id="3fd1a3a0" data-settings='{"merchant_account":"simple"}' data-widget_type="paypal-button.default">
+<div class="theme-widget-container">
+<div class="theme-button-wrapper">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input name="cmd" type="hidden" value="_xclick-subscriptions"/>
+<input name="business" type="hidden" value="email@nodomain.com"/>
+<input name="lc" type="hidden" value="US"/>
+<input name="item_name" type="hidden" value="\$99 Package"/>
+<input name="item_number" type="hidden" value=""/>
+<input name="currency_code" type="hidden" value="USD"/>
+<input name="a3" type="hidden" value="0.00"/>
+<input name="no_note" type="hidden" value="1"/>
+<input name="src" type="hidden" value="1"/>
+<input name="p3" type="hidden" value="1"/>
+<input name="t3" type="hidden" value="M"/>
+<input name="no-shipping" type="hidden" value="1"/>
+<button class="theme-button theme-size-sm theme-paypal-legacy theme-payment-button" role="button" type="submit">
+<span class="theme-button-content-wrapper">
+<span class="theme-button-icon">
+<i aria-hidden="true" class="fab fa-paypal"></i> </span>
+<span class="theme-button-text">Get started</span>
+</span>
+</button>
 </form>
 </div>
 </div>
@@ -319,379 +729,197 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-3da32fa2 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="3da32fa2" data-settings='{"background_background":"gradient","shape_divider_top":"wave-brush","shape_divider_bottom":"wave-brush"}'>
+</div>
+<div class="theme-element theme-element-6e2c47d0 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="6e2c47d0">
 <div class="e-con-inner">
-<div aria-hidden="true" class="theme-shape theme-shape-top" data-negative="false">
-<svg preserveaspectratio="none" viewbox="0 0 283.5 27.8" xmlns="http://www.w3.org/2000/svg">
-<path class="theme-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"></path>
-<path class="theme-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"></path>
-<path class="theme-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"></path>
-<path class="theme-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"></path>
-<path class="theme-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"></path>
-<path class="theme-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"></path>
-<path class="theme-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"></path>
-<path class="theme-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"></path>
-<path class="theme-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"></path>
-</svg> </div>
-<div aria-hidden="true" class="theme-shape theme-shape-bottom" data-negative="false">
-<svg preserveaspectratio="none" viewbox="0 0 283.5 27.8" xmlns="http://www.w3.org/2000/svg">
-<path class="theme-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"></path>
-<path class="theme-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"></path>
-<path class="theme-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"></path>
-<path class="theme-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"></path>
-<path class="theme-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"></path>
-<path class="theme-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"></path>
-<path class="theme-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"></path>
-<path class="theme-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"></path>
-<path class="theme-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"></path>
-</svg> </div>
-<div class="theme-element theme-element-5e041a55 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="5e041a55">
-<div class="theme-element theme-element-591ea84d e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="591ea84d">
-<div class="theme-element theme-element-68e0d022 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="68e0d022" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-5a3a90eb theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="5a3a90eb" data-widget_type="spacer.default">
+<div class="theme-element theme-element-71c7721f e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="71c7721f">
+<div class="theme-element theme-element-1165da0f e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="1165da0f">
+<div class="theme-element theme-element-51f36fbd e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="51f36fbd" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-6fa2cda2 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="6fa2cda2" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default">Orofacial harmonization</div> </div>
+</div>
+<div class="theme-element theme-element-294f3c0e theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="294f3c0e" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<h2 class="theme-heading-title theme-size-default">Botulinum toxin &amp; hyaluronic acid filler</h2> </div>
+</div>
+<div class="theme-element theme-element-3f7f3665 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="3f7f3665" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h3 class="theme-icon-box-title">
+<span>
+							Tooth whitening						</span>
+</h3>
+<p class="theme-icon-box-description">
+						 Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-255ae6ba e-con-full theme-hidden-tablet theme-hidden-mobile_extra theme-hidden-mobile e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="255ae6ba" data-settings='{"background_background":"gradient"}'>
+</div>
+<div class="theme-element theme-element-7d8c83a0 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7d8c83a0" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-84f3899 theme-widget theme-widget-tp-adv-text-block" data-e-type="widget" data-element_type="widget" data-id="84f3899" data-widget_type="tp-adv-text-block.default">
+<div class="theme-widget-container">
+<div class="pt-plus-text-block-wrapper" data-tp-gsap-textblock=""><div class="text_block_parallax"><div class="pt_plus_adv_text_block"><div class="text-content-block">Botulinum toxin application, filling with hyaluronic acid, enzymatic jowl liposuction, among others.</div></div></div></div> </div>
+</div>
+<div class="theme-element theme-element-64146d25 e-transform e-transform theme-blockquote--skin-border theme-widget theme-widget-blockquote" data-e-type="widget" data-element_type="widget" data-id="64146d25" data-settings='{"_transform_translateX_effect":{"unit":"px","size":-30,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":0,"sizes":[]},"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="blockquote.default">
+<div class="theme-widget-container">
+<blockquote class="theme-blockquote">
+<p class="theme-blockquote__content">
+				Nam at lectus urna duis convallis convallis. Blandit volutpat maecenas volutpat			</p>
+</blockquote>
+</div>
+</div>
+<div class="theme-element theme-element-223dd981 e-transform theme-blockquote--skin-border theme-widget theme-widget-blockquote" data-e-type="widget" data-element_type="widget" data-id="223dd981" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":0,"sizes":[]},"_transform_translateX_effect_hover_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="blockquote.default">
+<div class="theme-widget-container">
+<blockquote class="theme-blockquote">
+<p class="theme-blockquote__content">
+				Amet nisl suscipit adipiscing bibendum est ultricies integer quis. A condimentum vitae sapien			</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-25f55650 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="25f55650" data-settings='{"background_background":"classic"}'>
+<div class="e-con-inner">
+<div class="theme-element theme-element-103fa2ad e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="103fa2ad">
+<div class="theme-element theme-element-70cf6cef theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="70cf6cef" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<div class="theme-heading-title theme-size-default"> nearly invisible</div> </div>
+</div>
+<div class="theme-element theme-element-6778043 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="6778043" data-widget_type="icon-box.default">
+<div class="theme-widget-container">
+<div class="theme-icon-box-wrapper">
+<div class="theme-icon-box-content">
+<h2 class="theme-icon-box-title">
+<span>
+							Orthodontics with innovative transparent aligners						</span>
+</h2>
+<p class="theme-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<br/><br/>
+
+Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Tempus urna et pharetra pharetra massa massa ultricies mi. Scelerisque eu ultrices vitae auctor eu augue.					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-5de29f8c theme-align-left theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="5de29f8c" data-widget_type="button.default">
+<div class="theme-widget-container">
+<div class="theme-button-wrapper">
+<a class="theme-button theme-button-link theme-size-md" href="#">
+<span class="theme-button-content-wrapper">
+<span class="theme-button-text">Learn more</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-2101d88f e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="2101d88f" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-7d52fd9d e-con-full e-transform e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="7d52fd9d" data-settings='{"background_background":"gradient","animation":"fadeIn","_transform_translateX_effect":{"unit":"px","size":-60,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":-40,"sizes":[]},"_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}'>
+<div class="theme-element theme-element-72cb329a theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="72cb329a" data-widget_type="heading.default">
+<div class="theme-widget-container">
+<h3 class="theme-heading-title theme-size-default">Opening hours</h3> </div>
+</div>
+<div class="theme-element theme-element-282f1402 theme-widget theme-widget-price-list" data-e-type="widget" data-element_type="widget" data-id="282f1402" data-widget_type="price-list.default">
+<div class="theme-widget-container">
+<ul class="theme-price-list">
+<li><a class="theme-price-list-item" href="#">
+<div class="theme-price-list-text">
+<div class="theme-price-list-header">
+<div class="theme-price-list-title">
+							Mon						</div>
+<span class="theme-price-list-separator"></span>
+<span class="theme-price-list-price">09:00 - 17:00</span>
+</div>
+</div>
+</a></li> <li><a class="theme-price-list-item" href="#">
+<div class="theme-price-list-text">
+<div class="theme-price-list-header">
+<div class="theme-price-list-title">
+							Tue						</div>
+<span class="theme-price-list-separator"></span>
+<span class="theme-price-list-price">09:00 - 17:00</span>
+</div>
+</div>
+</a></li> <li><a class="theme-price-list-item" href="#">
+<div class="theme-price-list-text">
+<div class="theme-price-list-header">
+<div class="theme-price-list-title">
+							Wed						</div>
+<span class="theme-price-list-separator"></span>
+<span class="theme-price-list-price">09:00 - 17:00</span>
+</div>
+</div>
+</a></li> <li><a class="theme-price-list-item" href="#">
+<div class="theme-price-list-text">
+<div class="theme-price-list-header">
+<div class="theme-price-list-title">
+							Thu						</div>
+<span class="theme-price-list-separator"></span>
+<span class="theme-price-list-price">09:00 - 17:00</span>
+</div>
+</div>
+</a></li> <li><a class="theme-price-list-item" href="#">
+<div class="theme-price-list-text">
+<div class="theme-price-list-header">
+<div class="theme-price-list-title">
+							Fri						</div>
+<span class="theme-price-list-separator"></span>
+<span class="theme-price-list-price">09:00 - 17:00</span>
+</div>
+</div>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-element theme-element-3b44616a e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="3b44616a">
+<div class="e-con-inner">
+<div class="theme-element theme-element-351f4234 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="351f4234" data-settings='{"background_background":"classic","animation":"fadeInLeft"}'>
+</div>
+<div class="theme-element theme-element-3e09216 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="3e09216">
+<div class="theme-element theme-element-5a0720a4 theme-widget__width-initial theme-absolute theme-align-right e-transform theme-widget theme-widget-lottie" data-e-type="widget" data-element_type="widget" data-id="5a0720a4" data-settings='{"source":"external_url","source_external_url":{"url":"https:\/\/lottie.host\/793582e7-8f89-4f96-805f-a91c1ee2468f\/an54Hv8ILa.json","is_external":"","nofollow":"","custom_attributes":""},"loop":"yes","play_speed":{"unit":"px","size":0.5,"sizes":[]},"_position":"absolute","_transform_translateX_effect":{"unit":"px","size":10,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":-70,"sizes":[]},"link_to":"none","trigger":"arriving_to_viewport","viewport":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"start_point":{"unit":"%","size":0,"sizes":[]},"end_point":{"unit":"%","size":100,"sizes":[]},"renderer":"svg","_transform_translateX_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_widescreen":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_laptop":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile_extra":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="lottie.default">
+<div class="theme-widget-container">
+<div class="e-lottie__container"><div class="e-lottie__animation"></div></div> </div>
+</div>
+<div class="theme-element theme-element-3f8a9560 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="3f8a9560" data-widget_type="spacer.default">
 <div class="theme-widget-container">
 <div class="theme-spacer">
 <div class="theme-spacer-inner"></div>
 </div>
 </div>
 </div>
-</div>
-<div class="theme-element theme-element-594900ab e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="594900ab" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-1e91889f theme-widget theme-widget-text-editor" data-e-type="widget" data-element_type="widget" data-id="1e91889f" data-widget_type="text-editor.default">
+<div class="theme-element theme-element-6719afa8 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="6719afa8" data-widget_type="heading.default">
 <div class="theme-widget-container">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit.								</div>
+<div class="theme-heading-title theme-size-default">Painless laser whitening</div> </div>
 </div>
-</div>
-</div>
-<div class="theme-element theme-element-6d2d3dd1 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="6d2d3dd1">
-<div class="theme-element theme-element-2eb0f546 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="2eb0f546" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-230a3543 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="230a3543" data-widget_type="spacer.default">
-<div class="theme-widget-container">
-<div class="theme-spacer">
-<div class="theme-spacer-inner"></div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-73cc6b15 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="73cc6b15" data-settings='{"background_background":"classic"}'>
-<div class="theme-element theme-element-3b509a47 theme-widget theme-widget-text-editor" data-e-type="widget" data-element_type="widget" data-id="3b509a47" data-widget_type="text-editor.default">
-<div class="theme-widget-container">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit.								</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-36388e2e e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="36388e2e">
-<div class="theme-element theme-element-15fdd5c5 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="15fdd5c5" data-widget_type="heading.default">
-<div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">Extra coverages</div> </div>
-</div>
-<div class="theme-element theme-element-557199f1 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="557199f1" data-widget_type="icon-box.default">
+<div class="theme-element theme-element-7dfc604c theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="7dfc604c" data-widget_type="icon-box.default">
 <div class="theme-widget-container">
 <div class="theme-icon-box-wrapper">
 <div class="theme-icon-box-content">
 <h2 class="theme-icon-box-title">
 <span>
-							24-hour dental emergency room						</span>
+							The best technique immediate &amp; efficient result						</span>
 </h2>
 <p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+						Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Tempus urna et pharetra pharetra massa massa ultricies mi. Scelerisque eu ultrices vitae auctor eu augue.
+
+					</p>
 </div>
 </div>
 </div>
 </div>
-</div>
-<div class="theme-element theme-element-4b9b3ab e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="4b9b3ab" data-settings='{"background_background":"classic","animation":"fadeInUp","animation_delay":100}'>
-<div class="theme-element theme-element-3a65f8e6 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="3a65f8e6" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h3 class="theme-icon-box-title">
-<span>
-							Radiographs and panoramic X-rays in all planes						</span>
-</h3>
-<p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-61506de e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="61506de">
-<div class="e-con-inner">
-<div class="theme-element theme-element-70d54b33 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="70d54b33">
-<div class="theme-element theme-element-6dab4688 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="6dab4688" data-widget_type="heading.default">
-<div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">the health of your teeth</div> </div>
-</div>
-<div class="theme-element theme-element-3e4ca1ae theme-widget-tablet__width-inherit theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="3e4ca1ae" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h2 class="theme-icon-box-title">
-<span>
-							Aesthetic restorations						</span>
-</h2>
-<p class="theme-icon-box-description">
-						Duis ut diam quam nulla porttitor massa id neque aliquam. Risus quis varius quam quisque id diam vel quam elementum. Integer enim neque volutpat ac tincidunt vitae.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-f1e2aec theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="f1e2aec" data-widget_type="spacer.default">
-<div class="theme-widget-container">
-<div class="theme-spacer">
-<div class="theme-spacer-inner"></div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-5a62afb3 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="5a62afb3">
-<div class="theme-element theme-element-5d27a3db theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="5d27a3db" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<div class="theme-icon-box-title">
-<span>
-							Discover <br/>recommendation						</span>
-</div>
-<p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-2ee562ee theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="2ee562ee" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<div class="theme-icon-box-title">
-<span>
-							nice white<br/> smile						</span>
-</div>
-<p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-44c2ffb e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="44c2ffb" data-settings='{"background_background":"classic"}'>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-1a22b39e e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="1a22b39e" data-settings='{"background_background":"classic","shape_divider_top":"wave-brush"}'>
-<div class="e-con-inner">
-<div aria-hidden="true" class="theme-shape theme-shape-top" data-negative="false">
-<svg preserveaspectratio="none" viewbox="0 0 283.5 27.8" xmlns="http://www.w3.org/2000/svg">
-<path class="theme-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"></path>
-<path class="theme-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"></path>
-<path class="theme-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"></path>
-<path class="theme-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"></path>
-<path class="theme-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"></path>
-<path class="theme-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"></path>
-<path class="theme-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"></path>
-<path class="theme-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"></path>
-<path class="theme-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"></path>
-</svg> </div>
-<div class="theme-element theme-element-164a0663 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="164a0663">
-<div class="theme-element theme-element-67730045 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="67730045" data-widget_type="heading.default">
-<div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">Dental surgery</div> </div>
-</div>
-<div class="theme-element theme-element-51b4d5aa theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="51b4d5aa" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h2 class="theme-icon-box-title">
-<span>
-							tooth extraction surgeries						</span>
-</h2>
-<p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-54adc69b e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="54adc69b">
-<div class="theme-element theme-element-593e4c7b theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="593e4c7b" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h3 class="theme-icon-box-title">
-<span>
-							oral or intravenous sedation						</span>
-</h3>
-<p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-52cb6a90 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="52cb6a90" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h4 class="theme-icon-box-title">
-<span>
-							Emergency Service						</span>
-</h4>
-<p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-5561204f e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="5561204f" data-settings='{"background_background":"classic","animation":"fadeInUp"}'>
-</div>
-<div class="theme-element theme-element-5c320e84 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="5c320e84">
-<div class="theme-element theme-element-1a1b2d11 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="1a1b2d11" data-widget_type="heading.default">
-<div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">New technology</div> </div>
-</div>
-<div class="theme-element theme-element-5559fc4c theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="5559fc4c" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h5 class="theme-icon-box-title">
-<span>
-							Digital preventive check-up 						</span>
-</h5>
-<p class="theme-icon-box-description">
-						Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Massa eget egestas purus viverra accumsan in nisl. Eget lorem dolor sed viverra ipsum.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-3f19325 theme-widget theme-widget-tp-adv-text-block" data-e-type="widget" data-element_type="widget" data-id="3f19325" data-widget_type="tp-adv-text-block.default">
-<div class="theme-widget-container">
-<div class="pt-plus-text-block-wrapper" data-tp-gsap-textblock=""><div class="text_block_parallax"><div class="pt_plus_adv_text_block"><div class="text-content-block">Ut faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Ornare suspendisse sed nisi lacus.</div></div></div></div> </div>
-</div>
-<div class="theme-element theme-element-507cfdd2 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="507cfdd2" data-settings='{"background_background":"classic"}'>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-3e4ca0c8 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="3e4ca0c8" data-settings='{"background_background":"classic","shape_divider_top":"wave-brush","shape_divider_bottom":"wave-brush"}'>
-<div class="e-con-inner">
-<div aria-hidden="true" class="theme-shape theme-shape-top" data-negative="false">
-<svg preserveaspectratio="none" viewbox="0 0 283.5 27.8" xmlns="http://www.w3.org/2000/svg">
-<path class="theme-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"></path>
-<path class="theme-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"></path>
-<path class="theme-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"></path>
-<path class="theme-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"></path>
-<path class="theme-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"></path>
-<path class="theme-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"></path>
-<path class="theme-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"></path>
-<path class="theme-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"></path>
-<path class="theme-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"></path>
-</svg> </div>
-<div aria-hidden="true" class="theme-shape theme-shape-bottom" data-negative="false">
-<svg preserveaspectratio="none" viewbox="0 0 283.5 27.8" xmlns="http://www.w3.org/2000/svg">
-<path class="theme-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"></path>
-<path class="theme-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"></path>
-<path class="theme-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"></path>
-<path class="theme-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"></path>
-<path class="theme-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"></path>
-<path class="theme-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"></path>
-<path class="theme-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"></path>
-<path class="theme-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"></path>
-<path class="theme-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"></path>
-</svg> </div>
-<div class="theme-element theme-element-765ce0a4 e-flex e-con-boxed e-con e-child" data-e-type="container" data-element_type="container" data-id="765ce0a4">
-<div class="e-con-inner">
-<div class="theme-element theme-element-283d0cfd e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="283d0cfd">
-<div class="theme-element theme-element-54c9e1ac theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="54c9e1ac" data-settings='{"_animation":"fadeIn"}' data-widget_type="heading.default">
-<div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">A perfect smile</div> </div>
-</div>
-<div class="theme-element theme-element-404d3767 theme-invisible theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="404d3767" data-settings='{"_animation":"fadeInUp","_animation_delay":100}' data-widget_type="heading.default">
-<div class="theme-widget-container">
-<h2 class="theme-heading-title theme-size-default">The right device for you</h2> </div>
-</div>
-</div>
-<div class="theme-element theme-element-1776304b e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="1776304b">
-<div class="theme-element theme-element-5551ec0a e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="5551ec0a" data-settings='{"animation":"fadeInUp","animation_delay":200}'>
-<div class="theme-element theme-element-6c502909 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="6c502909" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h3 class="theme-icon-box-title">
-<span>
-							 Traditional Fixed						</span>
-</h3>
-<p class="theme-icon-box-description">
-						Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Massa eget egestas purus viverra accumsan in nisl. Eget lorem dolor sed viverra ipsum.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-66956535 theme-widget theme-widget-text-editor" data-e-type="widget" data-element_type="widget" data-id="66956535" data-widget_type="text-editor.default">
-<div class="theme-widget-container">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>Bibendum ut tristique et egestas quis ipsum suspendisse. Tellus at urna condimentum mattis pellentesque id. Adipiscing at in tellus integer feugiat.</p> </div>
-</div>
-</div>
-<div class="theme-element theme-element-3b22a110 e-con-full e-flex theme-invisible e-con e-child" data-e-type="container" data-element_type="container" data-id="3b22a110" data-settings='{"animation":"fadeInUp","animation_delay":300}'>
-<div class="theme-element theme-element-6cf115af theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="6cf115af" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h4 class="theme-icon-box-title">
-<span>
-							Self-connected appliance						</span>
-</h4>
-<p class="theme-icon-box-description">
-						Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Massa eget egestas purus viverra accumsan in nisl. Eget lorem dolor sed viverra ipsum.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-e1fcd5f theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="e1fcd5f" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h5 class="theme-icon-box-title">
-<span>
-							Invisible device 						</span>
-</h5>
-<p class="theme-icon-box-description">
-						Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Massa eget egestas purus viverra accumsan in nisl. Eget lorem dolor sed viverra ipsum.					</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-556fdaf e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="556fdaf">
-<div class="e-con-inner">
-<div class="theme-element theme-element-7a288b67 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7a288b67">
-<div class="theme-element theme-element-70e952de theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="70e952de" data-widget_type="heading.default">
-<div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">Questions &amp; answers</div> </div>
-</div>
-<div class="theme-element theme-element-5dab2a48 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="5dab2a48" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h2 class="theme-icon-box-title">
-<span>
-							Frequently asked questions						</span>
-</h2>
-<p class="theme-icon-box-description">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-element theme-element-19c4fbf4 theme-align-left theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="19c4fbf4" data-widget_type="button.default">
+<div class="theme-element theme-element-3f3cee87 theme-align-left theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="3f3cee87" data-widget_type="button.default">
 <div class="theme-widget-container">
 <div class="theme-button-wrapper">
 <a class="theme-button theme-button-link theme-size-sm" href="#">
@@ -703,117 +931,25 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-7a4657c3 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7a4657c3">
-<div class="theme-element theme-element-ebf8b0f theme-widget theme-widget-tp-accordion" data-e-type="widget" data-element_type="widget" data-id="ebf8b0f" data-widget_type="tp-accordion.default">
+</div>
+</div>
+</div>
+<footer class="theme theme-17 theme-location-footer" data-theme-id="17" data-theme-post-type="theme_library" data-theme-type="footer">
+<div class="theme-element theme-element-6c855d17 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="6c855d17" data-settings='{"background_background":"gradient"}'>
+<div class="e-con-inner">
+<div class="theme-element theme-element-613807bf e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="613807bf">
+<div class="theme-element theme-element-e4a9aa1 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="e4a9aa1" data-widget_type="heading.default">
 <div class="theme-widget-container">
-<div class="theplus-accordion-wrapper theme-accordion" data-accordion-id="accordion6a41e4872ce9f" data-accordion-type="accordion" data-toogle-speed="300" id="accordion6a41e4872ce9f" role="tablist">
-<div class="theplus-accordion-item">
-<div aria-controls="theme-tab-content-2471" class="theme-tab-title plus-accordion-header active-default" data-tab="1" id="theme-tab-title-2471" role="tab" tabindex="2471">
-<span style="width:100%">Bleeding when flossing, what should I do?</span><span aria-hidden="true" class="theme-accordion-icon theme-accordion-icon-right"><i class="theme-accordion-icon-closed fa fa-plus"></i><i class="theme-accordion-icon-opened fa fa-minus"></i></span>
+<div class="theme-heading-title theme-size-default">Have a perfect smile!</div> </div>
 </div>
-<div aria-labelledby="theme-tab-title-2471" class="theme-tab-content theme-clearfix plus-accordion-content active-default" data-tab="1" id="theme-tab-content-2471" role="tabpanel">
-<div class="plus-content-editor">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
-</div>
-</div>
-<div class="theplus-accordion-item">
-<div aria-controls="theme-tab-content-2472" class="theme-tab-title plus-accordion-header no" data-tab="2" id="theme-tab-title-2472" role="tab" tabindex="2472">
-<span style="width:100%">Diseases involving periodontics?</span><span aria-hidden="true" class="theme-accordion-icon theme-accordion-icon-right"><i class="theme-accordion-icon-closed fa fa-plus"></i><i class="theme-accordion-icon-opened fa fa-minus"></i></span>
-</div>
-<div aria-labelledby="theme-tab-title-2472" class="theme-tab-content theme-clearfix plus-accordion-content no" data-tab="2" id="theme-tab-content-2472" role="tabpanel">
-<div class="plus-content-editor">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
-</div>
-</div>
-<div class="theplus-accordion-item">
-<div aria-controls="theme-tab-content-2473" class="theme-tab-title plus-accordion-header no" data-tab="3" id="theme-tab-title-2473" role="tab" tabindex="2473">
-<span style="width:100%">How long do fixed dental prostheses last?</span><span aria-hidden="true" class="theme-accordion-icon theme-accordion-icon-right"><i class="theme-accordion-icon-closed fa fa-plus"></i><i class="theme-accordion-icon-opened fa fa-minus"></i></span>
-</div>
-<div aria-labelledby="theme-tab-title-2473" class="theme-tab-content theme-clearfix plus-accordion-content no" data-tab="3" id="theme-tab-content-2473" role="tabpanel">
-<div class="plus-content-editor">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
-</div>
-</div>
-<div class="theplus-accordion-item">
-<div aria-controls="theme-tab-content-2474" class="theme-tab-title plus-accordion-header no" data-tab="4" id="theme-tab-title-2474" role="tab" tabindex="2474">
-<span style="width:100%">What happens if I don't extract a tooth?</span><span aria-hidden="true" class="theme-accordion-icon theme-accordion-icon-right"><i class="theme-accordion-icon-closed fa fa-plus"></i><i class="theme-accordion-icon-opened fa fa-minus"></i></span>
-</div>
-<div aria-labelledby="theme-tab-title-2474" class="theme-tab-content theme-clearfix plus-accordion-content no" data-tab="4" id="theme-tab-content-2474" role="tabpanel">
-<div class="plus-content-editor">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
-</div>
-</div>
-<div class="theplus-accordion-item">
-<div aria-controls="theme-tab-content-2475" class="theme-tab-title plus-accordion-header no" data-tab="5" id="theme-tab-title-2475" role="tab" tabindex="2475">
-<span style="width:100%">What happens if I don't get root canal treatment? </span><span aria-hidden="true" class="theme-accordion-icon theme-accordion-icon-right"><i class="theme-accordion-icon-closed fa fa-plus"></i><i class="theme-accordion-icon-opened fa fa-minus"></i></span>
-</div>
-<div aria-labelledby="theme-tab-title-2475" class="theme-tab-content theme-clearfix plus-accordion-content no" data-tab="5" id="theme-tab-content-2475" role="tabpanel">
-<div class="plus-content-editor">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<footer class="theme theme-13 theme-location-footer" data-theme-id="13" data-theme-post-type="theme_library" data-theme-type="footer">
-<div class="theme-section theme-top-section theme-element theme-element-59ff341a theme-section-boxed theme-section-height-default theme-section-height-default" data-e-type="section" data-element_type="section" data-id="59ff341a">
-<div class="theme-container theme-column-gap-default">
-<div class="theme-column theme-col-25 theme-top-column theme-element theme-element-34d360a7" data-e-type="column" data-element_type="column" data-id="34d360a7" data-settings='{"background_background":"classic"}'>
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-63a8bfc8 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="63a8bfc8" data-widget_type="icon-box.default">
+<div class="theme-element theme-element-56051a81 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="56051a81" data-widget_type="heading.default">
 <div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h2 class="theme-icon-box-title">
-<span>
-							Schedule a visit						</span>
-</h2>
-<p class="theme-icon-box-description">
-						Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+<h2 class="theme-heading-title theme-size-default">Find the ideal treatment for your smile!</h2> </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-column theme-col-25 theme-top-column theme-element theme-element-6a2df2db" data-e-type="column" data-element_type="column" data-id="6a2df2db" data-settings='{"background_background":"classic"}'>
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-15800dc8 theme-align-right theme-mobile-align-justify theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="15800dc8" data-widget_type="button.default">
+<div class="theme-element theme-element-1116d906 theme-align-center theme-mobile-align-justify theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="1116d906" data-widget_type="button.default">
 <div class="theme-widget-container">
 <div class="theme-button-wrapper">
-<a class="theme-button theme-button-link theme-size-sm theme-animation-bob" href="#">
-<span class="theme-button-content-wrapper">
-<span class="theme-button-text">Schedule</span>
-</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-column theme-col-25 theme-top-column theme-element theme-element-4a140917" data-e-type="column" data-element_type="column" data-id="4a140917" data-settings='{"background_background":"classic"}'>
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-56c805e3 theme-widget theme-widget-icon-box" data-e-type="widget" data-element_type="widget" data-id="56c805e3" data-widget_type="icon-box.default">
-<div class="theme-widget-container">
-<div class="theme-icon-box-wrapper">
-<div class="theme-icon-box-content">
-<h3 class="theme-icon-box-title">
-<span>
-							Talk to Us						</span>
-</h3>
-<p class="theme-icon-box-description">
-						Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="theme-column theme-col-25 theme-top-column theme-element theme-element-ba3ef91" data-e-type="column" data-element_type="column" data-id="ba3ef91" data-settings='{"background_background":"classic"}'>
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-47ead7aa theme-align-right theme-mobile-align-justify theme-widget theme-widget-button" data-e-type="widget" data-element_type="widget" data-id="47ead7aa" data-widget_type="button.default">
-<div class="theme-widget-container">
-<div class="theme-button-wrapper">
-<a class="theme-button theme-button-link theme-size-sm theme-animation-bob" href="#">
+<a class="theme-button theme-button-link theme-size-lg" href="#">
 <span class="theme-button-content-wrapper">
 <span class="theme-button-text">Contact us</span>
 </span>
@@ -824,73 +960,65 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </div>
 </div>
 </div>
-</div>
-<div class="theme-section theme-top-section theme-element theme-element-667fb007 theme-section-boxed theme-section-height-default theme-section-height-default" data-e-type="section" data-element_type="section" data-id="667fb007" data-settings='{"background_background":"gradient","shape_divider_top":"wave-brush"}'>
-<div class="theme-background-overlay"></div>
-<div aria-hidden="true" class="theme-shape theme-shape-top" data-negative="false">
-<svg preserveaspectratio="none" viewbox="0 0 283.5 27.8" xmlns="http://www.w3.org/2000/svg">
-<path class="theme-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"></path>
-<path class="theme-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"></path>
-<path class="theme-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"></path>
-<path class="theme-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"></path>
-<path class="theme-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"></path>
-<path class="theme-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"></path>
-<path class="theme-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"></path>
-<path class="theme-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"></path>
-<path class="theme-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"></path>
-</svg> </div>
-<div class="theme-container theme-column-gap-default">
-<div class="theme-column theme-col-100 theme-top-column theme-element theme-element-40b7fb7e" data-e-type="column" data-element_type="column" data-id="40b7fb7e">
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-section theme-inner-section theme-element theme-element-490905cf theme-section-boxed theme-section-height-default theme-section-height-default" data-e-type="section" data-element_type="section" data-id="490905cf">
-<div class="theme-container theme-column-gap-default">
-<div class="theme-column theme-col-25 theme-inner-column theme-element theme-element-7dc2ef82" data-e-type="column" data-element_type="column" data-id="7dc2ef82">
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-7e3517b1 theme-widget__width-initial theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="7e3517b1" data-widget_type="spacer.default">
+<div class="theme-element theme-element-e0ac9d9 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="e0ac9d9">
+<div class="e-con-inner">
+<div class="theme-element theme-element-7a148b57 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7a148b57">
+<div class="theme-element theme-element-3c423f3c e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="3c423f3c">
+<div class="theme-element theme-element-7a1337fa e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7a1337fa">
+<div class="theme-element theme-element-7346e50b theme-widget theme-widget-spacer" data-e-type="widget" data-element_type="widget" data-id="7346e50b" data-widget_type="spacer.default">
 <div class="theme-widget-container">
 <div class="theme-spacer">
 <div class="theme-spacer-inner"></div>
 </div>
 </div>
 </div>
-<div class="theme-element theme-element-507aaa06 theme-widget__width-auto theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="507aaa06" data-widget_type="heading.default">
+<div class="theme-element theme-element-90ea1b4 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="90ea1b4" data-widget_type="heading.default">
 <div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default"><a href="https://templateup.site/dental">Dental</a></div> </div>
+<div class="theme-heading-title theme-size-default">Dental</div> </div>
 </div>
-<div class="theme-element theme-element-30b1dfeb theme-widget theme-widget-text-editor" data-e-type="widget" data-element_type="widget" data-id="30b1dfeb" data-widget_type="text-editor.default">
+</div>
+<div class="theme-element theme-element-392c4bdf theme-widget theme-widget-text-editor" data-e-type="widget" data-element_type="widget" data-id="392c4bdf" data-widget_type="text-editor.default">
 <div class="theme-widget-container">
-<p>Having an extensive experience of over 25 years in the field of dental treatments, including various procedures and techniques, I am thoroughly adept at providing top-quality dental care to my patients.</p> </div>
+									With a rich experience of more than 25 years in performing dental procedures with proficiency and skill.								</div>
 </div>
-<div class="theme-element theme-element-188d1ea7 theme-shape-circle e-grid-align-left e-grid-align-tablet-center theme-grid-0 theme-widget theme-widget-social-icons" data-e-type="widget" data-element_type="widget" data-id="188d1ea7" data-widget_type="social-icons.default">
+<div class="theme-element theme-element-4a9d17d1 theme-shape-circle e-grid-align-left e-grid-align-tablet-left e-grid-align-mobile-left theme-grid-0 theme-widget theme-widget-social-icons" data-e-type="widget" data-element_type="widget" data-id="4a9d17d1" data-widget_type="social-icons.default">
 <div class="theme-widget-container">
 <div class="theme-social-icons-wrapper theme-grid" role="list">
 <span class="theme-grid-item" role="listitem">
-<a class="theme-icon theme-social-icon theme-social-icon-facebook theme-repeater-item-ce21007" href="#" target="_blank">
+<a class="theme-icon theme-social-icon theme-social-icon-facebook theme-repeater-item-ce21007" target="_blank">
 <span class="theme-screen-only">Facebook</span>
 <i aria-hidden="true" class="fab fa-facebook"></i> </a>
 </span>
 <span class="theme-grid-item" role="listitem">
-<a class="theme-icon theme-social-icon theme-social-icon-twitter theme-repeater-item-c5615a9" href="#" target="_blank">
+<a class="theme-icon theme-social-icon theme-social-icon-twitter theme-repeater-item-c5615a9" target="_blank">
 <span class="theme-screen-only">Twitter</span>
 <i aria-hidden="true" class="fab fa-twitter"></i> </a>
 </span>
 <span class="theme-grid-item" role="listitem">
-<a class="theme-icon theme-social-icon theme-social-icon-youtube theme-repeater-item-927a3d3" href="#" target="_blank">
+<a class="theme-icon theme-social-icon theme-social-icon-youtube theme-repeater-item-927a3d3" target="_blank">
 <span class="theme-screen-only">Youtube</span>
 <i aria-hidden="true" class="fab fa-youtube"></i> </a>
+</span>
+<span class="theme-grid-item" role="listitem">
+<a class="theme-icon theme-social-icon theme-social-icon-wordpress theme-repeater-item-e4a8fbb" target="_blank">
+<span class="theme-screen-only">Wordpress</span>
+<i aria-hidden="true" class="fab fa-wordpress"></i> </a>
+</span>
+<span class="theme-grid-item" role="listitem">
+<a class="theme-icon theme-social-icon theme-social-icon-instagram theme-repeater-item-4012113" target="_blank">
+<span class="theme-screen-only">Instagram</span>
+<i aria-hidden="true" class="fab fa-instagram"></i> </a>
 </span>
 </div>
 </div>
 </div>
 </div>
-</div>
-<div class="theme-column theme-col-25 theme-inner-column theme-element theme-element-43e5788d" data-e-type="column" data-element_type="column" data-id="43e5788d">
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-68017ede theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="68017ede" data-widget_type="heading.default">
+<div class="theme-element theme-element-7c0abbbe e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="7c0abbbe">
+<div class="theme-element theme-element-40e43a7f theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="40e43a7f" data-widget_type="heading.default">
 <div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">Menu</div> </div>
+<div class="theme-heading-title theme-size-default">Explore</div> </div>
 </div>
-<div class="theme-element theme-element-198642ab theme-tablet-align-center theme-list-item-link-inline theme-icon-list--layout-traditional theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="198642ab" data-widget_type="icon-list.default">
+<div class="theme-element theme-element-3b67fa27 theme-tablet-align-start theme-mobile-align-start theme-icon-list--layout-traditional theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="3b67fa27" data-widget_type="icon-list.default">
 <div class="theme-widget-container">
 <ul class="theme-icon-list-items">
 <li class="theme-icon-list-item">
@@ -900,122 +1028,89 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </li>
 <li class="theme-icon-list-item">
 <a href="#">
-<span class="theme-icon-list-text">About us</span>
+<span class="theme-icon-list-text">About Us</span>
 </a>
 </li>
 <li class="theme-icon-list-item">
 <a href="#">
-<span class="theme-icon-list-text">Contact us</span>
+<span class="theme-icon-list-text">Contact Us</span>
 </a>
 </li>
 <li class="theme-icon-list-item">
 <a href="#">
-<span class="theme-icon-list-text">Schedule a visit</span>
+<span class="theme-icon-list-text">Schedule A Visit</span>
 </a>
 </li>
 </ul>
 </div>
 </div>
 </div>
-</div>
-<div class="theme-column theme-col-25 theme-inner-column theme-element theme-element-53592c81" data-e-type="column" data-element_type="column" data-id="53592c81">
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-6cfe15 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="6cfe15" data-widget_type="heading.default">
+<div class="theme-element theme-element-46716644 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="46716644">
+<div class="theme-element theme-element-512a43cb theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="512a43cb" data-widget_type="heading.default">
 <div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">Services</div> </div>
+<div class="theme-heading-title theme-size-default">Contact</div> </div>
 </div>
-<div class="theme-element theme-element-172d6137 theme-tablet-align-center theme-list-item-link-inline theme-icon-list--layout-traditional theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="172d6137" data-widget_type="icon-list.default">
+<div class="theme-element theme-element-528a19e7 theme-tablet-align-start theme-mobile-align-start theme-list-item-link-inline theme-icon-list--layout-traditional theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="528a19e7" data-widget_type="icon-list.default">
 <div class="theme-widget-container">
 <ul class="theme-icon-list-items">
 <li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">Tooth whitening</span>
-</a>
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="far fa-building"></i> </span>
+<span class="theme-icon-list-text">4924 Buck Drive South Burlington, VT 05403</span>
 </li>
 <li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">Prosthetics</span>
-</a>
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
+<span class="theme-icon-list-text">Phone: +(123) 4567 8900</span>
 </li>
 <li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">Dental appliances</span>
-</a>
-</li>
-<li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">Root canal treatment</span>
-</a>
-</li>
-<li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">Lenses</span>
-</a>
+<span class="theme-icon-list-icon">
+<i aria-hidden="true" class="far fa-envelope-open"></i> </span>
+<span class="theme-icon-list-text">email@domain.com</span>
 </li>
 </ul>
 </div>
 </div>
 </div>
-</div>
-<div class="theme-column theme-col-25 theme-inner-column theme-element theme-element-1acb8eb8" data-e-type="column" data-element_type="column" data-id="1acb8eb8">
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-26ed7a46 theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="26ed7a46" data-widget_type="heading.default">
+<div class="theme-element theme-element-1f2acf90 e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="1f2acf90" data-settings='{"background_background":"classic"}'>
+<div class="theme-element theme-element-6bd4365c theme-widget theme-widget-heading" data-e-type="widget" data-element_type="widget" data-id="6bd4365c" data-widget_type="heading.default">
 <div class="theme-widget-container">
-<div class="theme-heading-title theme-size-default">More</div> </div>
+<div class="theme-heading-title theme-size-default">Sign up for newsletter</div> </div>
 </div>
-<div class="theme-element theme-element-1c589d2a theme-tablet-align-center theme-icon-list--layout-traditional theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="1c589d2a" data-widget_type="icon-list.default">
+<div class="theme-element theme-element-4914af theme-tablet-button-align-stretch theme-mobile-button-align-stretch theme-button-align-stretch theme-widget theme-widget-form" data-e-type="widget" data-element_type="widget" data-id="4914af" data-settings='{"step_next_label":"Next","step_previous_label":"Previous","button_width":"100","step_type":"number_text","step_icon_shape":"circle"}' data-widget_type="form.default">
 <div class="theme-widget-container">
-<ul class="theme-icon-list-items">
-<li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">About us</span>
-</a>
-</li>
-<li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">Plans &amp; pricing</span>
-</a>
-</li>
-<li class="theme-icon-list-item">
-<a href="#">
-<span class="theme-icon-list-text">Faq</span>
-</a>
-</li>
-</ul>
+<form aria-label="Dental Sign Up Form" class="theme-form" method="post" name="Dental Sign Up Form">
+<input name="post_id" type="hidden" value="17"/>
+<input name="form_id" type="hidden" value="4914af"/>
+<input name="referer_title" type="hidden" value="Services"/>
+<input name="queried_id" type="hidden" value="145"/>
+<div class="theme-form-fields-wrapper theme-labels-">
+<div class="theme-field-type-email theme-field-group theme-column theme-field-group-email_newsletter theme-col-100">
+<label class="theme-field-label theme-screen-only" for="form-field-email_newsletter">
+								Email							</label>
+<input class="theme-field theme-size-lg theme-field-textual" id="form-field-email_newsletter" name="form_fields[email_newsletter]" placeholder="Email" size="1" type="email"/>
+</div>
+<div class="theme-field-group theme-column theme-field-type-submit theme-col-100 e-form__buttons">
+<button class="theme-button theme-size-md" type="submit">
+<span class="theme-button-content-wrapper">
+<span class="theme-button-text">Subscribe</span>
+</span>
+</button>
+</div>
+</div>
+</form>
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="theme-section theme-inner-section theme-element theme-element-99312d6 theme-section-boxed theme-section-height-default theme-section-height-default" data-e-type="section" data-element_type="section" data-id="99312d6">
-<div class="theme-container theme-column-gap-default">
-<div class="theme-column theme-col-100 theme-inner-column theme-element theme-element-34ccfc72" data-e-type="column" data-element_type="column" data-id="34ccfc72">
-<div class="theme-widget-wrap theme-element-populated">
-<div class="theme-element theme-element-621d5a71 theme-widget__width-auto theme-widget theme-widget-text-editor" data-e-type="widget" data-element_type="widget" data-id="621d5a71" data-widget_type="text-editor.default">
+<div class="theme-element theme-element-2a9efd75 e-flex e-con-boxed e-con e-parent" data-e-type="container" data-element_type="container" data-id="2a9efd75" data-settings='{"background_background":"classic"}'>
+<div class="e-con-inner">
+<div class="theme-element theme-element-4b64202d e-con-full e-flex e-con e-child" data-e-type="container" data-element_type="container" data-id="4b64202d">
+<div class="theme-element theme-element-59a3fbde theme-widget theme-widget-text-editor" data-e-type="widget" data-element_type="widget" data-id="59a3fbde" data-widget_type="text-editor.default">
 <div class="theme-widget-container">
 									©2026  – Dental Template Kit by TemplateUP								</div>
-</div>
-<div class="theme-element theme-element-1c28cf61 theme-icon-list--layout-inline theme-align-end theme-mobile-align-center theme-widget__width-auto theme-list-item-link-full_width theme-widget theme-widget-icon-list" data-e-type="widget" data-element_type="widget" data-id="1c28cf61" data-widget_type="icon-list.default">
-<div class="theme-widget-container">
-<ul class="theme-icon-list-items theme-inline-items">
-<li class="theme-icon-list-item theme-inline-item">
-<a href="#">
-<span class="theme-icon-list-text">Privacy police</span>
-</a>
-</li>
-<li class="theme-icon-list-item theme-inline-item">
-<a href="#">
-<span class="theme-icon-list-text">Terms</span>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -1023,7 +1118,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </footer>
 
 
-<link href="/demo-6/assets/plugins/theme/assets/lib/flatpickr/flatpickr.min4e7f.css?ver=4.6.13" id="flatpickr-css" media="all" rel="stylesheet"/>
 
 
 
