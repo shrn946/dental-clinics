@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import React from 'react';
+import AccordionHandler from './components/AccordionHandler';
 
 export const metadata: Metadata = {
   title: 'OptiLuxe - Premium Optometrist & Advanced Eye Care Clinic',
@@ -35,6 +36,7 @@ export default function EyeLayout({
         <div className="boxed_wrapper">
           {children}
         </div>
+        <AccordionHandler />
 
         {/* jQuery and other critical libraries */}
         <Script src="/eye-4/assets/js/jquery.js" strategy="beforeInteractive" />

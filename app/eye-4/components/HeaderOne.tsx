@@ -31,7 +31,7 @@ export default function HeaderOne() {
                         </ul>
                     </div>
                     <div class="button-box">
-                        <a href="/eye-4/appointment">Book Appointment</a>
+                        <a href="/eye-4/appointment"><i class="fa fa-calendar" style="margin-right: 8px;" aria-hidden="true"></i>Book Appointment</a>
                     </div>
                 </div>    
             </div>
