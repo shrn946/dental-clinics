@@ -109,7 +109,7 @@ export default function AppointmentForm() {
   if (status === 'success') {
     return (
       <div className="contact-form text-center" style={{ padding: '40px', background: '#f4f5f7', borderRadius: '7px', border: '1px solid #f4f5f7' }}>
-        <i className="fa fa-check-circle" style={{ fontSize: '60px', color: '#02c18d', marginBottom: '20px' }}></i>
+        <i className="fa fa-check-circle" style={{ fontSize: '60px', color: '#2563eb', marginBottom: '20px' }}></i>
         <h3 style={{ fontWeight: 700, color: '#031f4b', fontFamily: "'Inter', sans-serif" }}>Appointment Requested!</h3>
         <p style={{ fontSize: '16px', marginTop: '10px', color: '#8a8c93', fontFamily: "'Inter', sans-serif" }}>
           Thank you, {formData.name}. We have received your request and our coordinators will contact you shortly to confirm your eye care appointment.
@@ -236,7 +236,7 @@ export default function AppointmentForm() {
                     onSelect={(day) => { setDate(day); setErrors(prev => ({ ...prev, date: '' })); setIsCalendarOpen(false); }}
                     disabled={(d) => d < new Date() || d.getDay() === 0 || d.getDay() === 6}
                     styles={{
-                      caption: { color: '#02c18d', fontFamily: "'Inter', sans-serif", fontWeight: 'bold' },
+                      caption: { color: '#2563eb', fontFamily: "'Inter', sans-serif", fontWeight: 'bold' },
                       head_cell: { color: '#666', fontSize: '14px', fontWeight: 'normal' },
                       cell: { fontSize: '14px' },
                       day: { borderRadius: '4px', margin: '2px', padding: '6px' }
@@ -365,10 +365,10 @@ export default function AppointmentForm() {
       
       {/* Quick global overrides for react-day-picker internal elements to match the theme safely */}
       <style dangerouslySetInnerHTML={{__html: `
-        .rdp-day_selected { background-color: #02c18d !important; color: white !important; font-weight: bold; }
-        .rdp-day:hover:not(.rdp-day_disabled) { background-color: #e6f9f3 !important; color: #02c18d; }
-        .rdp-button:focus-visible { outline: 2px solid #02c18d !important; }
-        input:focus, select:focus, textarea:focus { background: #ffffff !important; border-color: #02c18d !important; }
+        .rdp-day_selected { background-color: #2563eb !important; color: white !important; font-weight: bold; }
+        .rdp-day:hover:not(.rdp-day_disabled) { background-color: #eff6ff !important; color: #2563eb; }
+        .rdp-button:focus-visible { outline: 2px solid #2563eb !important; }
+        input:focus, select:focus, textarea:focus { background: #ffffff !important; border-color: #2563eb !important; }
         .btn-one:hover i.round { margin-left: 15px !important; }
       `}} />
     </form>

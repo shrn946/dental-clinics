@@ -156,8 +156,8 @@ export default function Page() {
                             <div class="col-xl-12">
                                 <div class="button-box">
                                     <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                                    <button class="btn-one" type="submit" data-loading-text="Please wait...">
-                                        <span class="txt">Send Massage<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span>
+                                    <button type="submit" class="btn-one" style="opacity:1;width:100%;border:0;cursor:pointer">
+                                        <span class="txt">Submit Request<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span>
                                     </button>    
                                 </div>
                             </div>
